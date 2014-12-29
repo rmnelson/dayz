@@ -154,3 +154,6 @@ class DayZ_loadingScreen
 		};
 	};
 };
+
+// Epoch Admin Tools
+#include "custom\admintools\dialog.hpp"

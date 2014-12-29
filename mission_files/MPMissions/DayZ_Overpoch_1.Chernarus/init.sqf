@@ -60,6 +60,7 @@ progressLoadingScreen 0.4;
 call compile preprocessFileLineNumbers "\z\addons\dayz_code\init\compiles.sqf";				//Compile regular functions
 progressLoadingScreen 0.5;
 call compile preprocessFileLineNumbers "server_traders.sqf";				//Compile trader configs
+call compile preprocessFileLineNumbers "custom\admintools\AdminList.sqf"; // Epoch admin Tools variables/UIDs
 call compile preprocessFileLineNumbers "custom\compiles.sqf"; //Compile custom compiles
 progressLoadingScreen 1.0;
 
@@ -83,9 +84,15 @@ if (!isDedicated) then {
 	//Run the player monitor
 	_id = player addEventHandler ["Respawn", {_id = [] spawn player_death;}];
 	_playerMonitor = 	[] execVM "\z\addons\dayz_code\system\player_monitor.sqf";	
+
+    // Epoch Admin Tools
+	if ( !((getPlayerUID player) in AdminList) && !((getPlayerUID player) in ModList)) then 
+	{
+		[] execVM "admintools\antihack\antihack.sqf"; // Epoch Antihack with bypass
+	};	
 	
-	//anti Hack
-	[] execVM "\z\addons\dayz_code\system\antihack.sqf";
+	//anti Hack - replaced with above for admin tools 
+	//[] execVM "\z\addons\dayz_code\system\antihack.sqf";
 
 	//Lights
 	//[false,12] execVM "\z\addons\dayz_code\compile\local_lights_init.sqf";
@@ -102,3 +109,6 @@ execVM "\z\addons\dayz_code\external\DynamicWeatherEffects.sqf";
 
 
 #include "\z\addons\dayz_code\system\BIS_Effects\init.sqf"
+
+//Admintools
+[] execVM "admintools\Activate.sqf"; // Epoch admin tools
