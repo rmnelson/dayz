@@ -177,6 +177,15 @@ if (isServer && isNil "sm_done") then {
 			};
 
 			if (count _intentory > 0) then {
+			
+				/*ZSC*/	//currency gold 3.0
+				if( count (_intentory) > 3)then{
+				_object setVariable ["bankMoney", _intentory select 3, true];
+				}else{
+				_object setVariable ["bankMoney", 0, true];
+				};				
+				/*ZSC*/
+				
 				if (_type in DZE_LockedStorage) then {
 					// Fill variables with loot
 					_object setVariable ["WeaponCargo", (_intentory select 0),true];

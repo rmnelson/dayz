@@ -12,6 +12,8 @@ enableItemsDropping = 0;
 #include "custom\loot\CfgBuildingLoot.hpp"
 #include "custom\loot\CfgLootSmall.hpp"
 #include "custom\loot\CfgLoot.hpp"
+//currency gold 3.0
+#include "custom\ZSC\config\cfgServerTrader.hpp"
 
 
 briefing = 0;
@@ -157,3 +159,13 @@ class DayZ_loadingScreen
 
 // Epoch Admin Tools
 #include "custom\admintools\dialog.hpp"
+
+//currency gold 3.0
+class RscTitles
+{
+	#include "custom\ZSC\config\ZSChud.hpp"
+};
+
+// currency gold 3.0
+#include "custom\ZSC\config\ZSCdefines.hpp"
+#include "custom\ZSC\config\ZSCdialogs.hpp"

@@ -70,6 +70,9 @@ _object_inventory = {
 			getWeaponCargo _object,
 			getMagazineCargo _object,
 			getBackpackCargo _object
+			/*ZSC*/ //currency gold 3.0
+			, _object getVariable["bankMoney",0]
+			/*ZSC*/
 		];
 		_previous = str(_object getVariable["lastInventory",[]]);
 		if (str(_inventory) != _previous) then {

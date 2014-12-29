@@ -53,6 +53,9 @@ DZE_MissionLootTable = true;
 //Bloodbag option?
 DZE_SelfTransfuse = true;
 
+//currency 3.0
+DZE_ConfigTrader = true;
+
 EpochEvents = [["any","any","any","any",30,"crash_spawner"],["any","any","any","any",0,"crash_spawner"],["any","any","any","any",15,"supply_drop"]];
 dayz_fullMoonNights = true;
 
@@ -64,8 +67,10 @@ progressLoadingScreen 0.2;
 call compile preprocessFileLineNumbers "\z\addons\dayz_code\medical\setup_functions_med.sqf";	//Functions used by CLIENT for medical
 progressLoadingScreen 0.4;
 call compile preprocessFileLineNumbers "\z\addons\dayz_code\init\compiles.sqf";				//Compile regular functions
+call compile preprocessFileLineNumbers "custom\ZSC\gold\ZSCinit.sqf";				//currency gold 3.0
 progressLoadingScreen 0.5;
-call compile preprocessFileLineNumbers "server_traders.sqf";				//Compile trader configs
+//call compile preprocessFileLineNumbers "server_traders.sqf";				//modified for currency gold 3.0 //Compile trader configs
+call compile preprocessFileLineNumbers "server_traders_cherno_11.sqf";   //modified for currency gold 3.0
 call compile preprocessFileLineNumbers "custom\admintools\AdminList.sqf"; // Epoch admin Tools variables/UIDs
 call compile preprocessFileLineNumbers "custom\compiles.sqf"; //Compile custom compiles
 
@@ -90,7 +95,8 @@ if (!isDedicated) then {
 	
 	//Run the player monitor
 	_id = player addEventHandler ["Respawn", {_id = [] spawn player_death;}];
-	_playerMonitor = 	[] execVM "\z\addons\dayz_code\system\player_monitor.sqf";	
+	_playerMonitor = 	[] execVM "\z\addons\dayz_code\system\player_monitor.sqf";
+	execVM "custom\ZSC\compiles\playerHud.sqf";	//currency gold 3.0
 
     // Epoch Admin Tools
 	if ( !((getPlayerUID player) in AdminList) && !((getPlayerUID player) in ModList)) then 
