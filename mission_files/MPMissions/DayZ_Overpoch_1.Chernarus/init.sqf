@@ -88,7 +88,7 @@ if (!isDedicated) then {
     // Epoch Admin Tools
 	if ( !((getPlayerUID player) in AdminList) && !((getPlayerUID player) in ModList)) then 
 	{
-		[] execVM "admintools\antihack\antihack.sqf"; // Epoch Antihack with bypass
+		[] execVM "custom\admintools\antihack\antihack.sqf"; // Epoch Antihack with bypass
 	};	
 	
 	//anti Hack - replaced with above for admin tools 
@@ -99,7 +99,7 @@ if (!isDedicated) then {
 	
 	//Refuel & Repair
 	[] execVM "custom\refuel\repairactions.sqf";
-	
+
 };
 
 #include "\z\addons\dayz_code\system\REsec.sqf"
@@ -107,8 +107,8 @@ if (!isDedicated) then {
 //Start Dynamic Weather
 execVM "\z\addons\dayz_code\external\DynamicWeatherEffects.sqf";
 
-
 #include "\z\addons\dayz_code\system\BIS_Effects\init.sqf"
 
 //Admintools
-[] execVM "admintools\Activate.sqf"; // Epoch admin tools
+[] execVM "custom\admintools\Activate.sqf"; // Epoch admin tools
+
