@@ -1,0 +1,1 @@
+http://opendayz.net/threads/release-freds-dead-player-journal-study-body-replacement.12438/
