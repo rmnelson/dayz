@@ -44,6 +44,9 @@ DynamicVehicleDamageHigh = 100; // Default: 100
 
 DZE_BuildOnRoads = false; // Default: False
 
+//Disable weight system
+DZE_R3F_WEIGHT = false;
+
 //Edit for custom loot
 DZE_MissionLootTable = true;
 
