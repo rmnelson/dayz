@@ -1,0 +1,23 @@
+Change Log 1.5:
+
+    Updated for DayZ 1.8
+    Changed combat variable for use in 1.8.
+    Updated by CommanderRetra
+
+Change Log 1.4:
+
+    Added bloodbag use timer
+    Added a timer for the amount of time before player can use self bloodbag again
+
+Change Log 1.3:
+
+    Added a lot more comments!
+    Added config area and variables for custom user changes
+    Added a fancy interrupt method
+    Removed unnecessary methods
+
+Special Thanks:
+
+    Player2 for the infection chance and some of the comments!
+    istealth for the combat check!
+    Dantw for his testing on multiple mods!
