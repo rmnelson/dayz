@@ -1,1 +1,0 @@
-http://opendayz.net/threads/krixes-self-bloodbag-script.12288/
