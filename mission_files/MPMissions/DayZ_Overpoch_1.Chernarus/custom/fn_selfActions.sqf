@@ -302,7 +302,7 @@ if (!isNull _cursorTarget and !_inVehicle and (player distance _cursorTarget < 4
 	*/
 	if (_isMan and !_isAlive and !_isZombie) then {
 		if (s_player_studybody < 0) then {
-			s_player_studybody = player addAction [localize "str_action_studybody", "\z\addons\dayz_code\actions\study_body.sqf",_cursorTarget, 0, false, true, "",""];
+			s_player_studybody = player addAction [localize "str_action_studybody", "custom\studybody\study_body.sqf",_cursorTarget, 0, false, true, "",""];
 		};
 	} else {
 		player removeAction s_player_studybody;
