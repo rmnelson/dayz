@@ -133,3 +133,6 @@ execVM "\z\addons\dayz_code\external\DynamicWeatherEffects.sqf";
 
 //Suicide
 call compile preprocessFileLineNumbers "custom\suicide\init.sqf";
+
+//Safezones
+[] execVM "custom\safezones\dami_SZ.sqf";

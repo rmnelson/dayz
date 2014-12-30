@@ -1317,7 +1317,7 @@ class Mission
 	};
 	class Sensors
 	{
-		items=5;
+		items=12;
 		class Item0
 		{
 			position[]={6325.6772,304.99033,7807.7412};
@@ -1399,6 +1399,125 @@ class Mission
 			expCond="(player distance zonehero) < 100;";
 			expActiv="[""Hero Trader"",false,""enter""] spawn player_traderCity;";
 			expDesactiv="[""Hero Trader"",false,""leave""] spawn player_traderCity;";
+			class Effects
+			{
+			};
+		};
+				class Item5
+		{
+			position[]={4552.8525,0,4375.2163};
+			a=100;
+			b=100;
+			activationBy="WEST";
+			repeating=1;
+			interruptable=1;
+			age="UNKNOWN";
+			name="zonekozlovka";
+			expCond="(player distance zonekozlovka) < 100;";
+			expActiv="canbuild = false; inSafeZone = true;";
+			expDesactiv="canbuild = true; inSafeZone = false;";
+			class Effects
+			{
+			};
+		};
+		class Item6
+		{
+			position[]={11463.176,0,6570.3164};
+			a=100;
+			b=100;
+			activationBy="WEST";
+			repeating=1;
+			interruptable=1;
+			age="UNKNOWN";
+			name="zonedolina";
+			expCond="(player distance zonedolina) < 100;";
+			expActiv="canbuild = false; inSafeZone = true;";
+			expDesactiv="canbuild = true; inSafeZone = false;";
+			class Effects
+			{
+			};
+		};
+		class Item7
+		{
+			position[]={4820.4702,0,9638.627};
+			a=75;
+			b=75;
+			activationBy="WEST";
+			repeating=1;
+			interruptable=1;
+			age="UNKNOWN";
+			name="zonepeewee";
+			expCond="(player distance zonepeewee) < 75;";
+			expActiv="canbuild = false; inSafeZone = true;";
+			expDesactiv="canbuild = true; inSafeZone = false;";
+			class Effects
+			{
+			};
+		};
+		class Item8
+		{
+			position[]={12318.776,0,12684.213};
+			a=75;
+			b=75;
+			activationBy="WEST";
+			repeating=1;
+			interruptable=1;
+			age="UNKNOWN";
+			name="zonekrusty";
+			expCond="(player distance zonekrusty) < 75;";
+			expActiv="canbuild = false; inSafeZone = true;";
+			expDesactiv="canbuild = true; inSafeZone = false;";
+			class Effects
+			{
+			};
+		};
+		class Item9
+		{
+			position[]={8394.8809,0,12220.675};
+			a=100;
+			b=100;
+			activationBy="WEST";
+			repeating=1;
+			interruptable=1;
+			age="UNKNOWN";
+			name="zonegvozdno";
+			expCond="(player distance zonegvozdno) < 100;";
+			expActiv="canbuild = false; inSafeZone = true;";
+			expDesactiv="canbuild = true; inSafeZone = false;";
+			class Effects
+			{
+			};
+		};
+		class Item10
+		{
+			position[]={13339.891,0,7171.5459};
+			a=40;
+			b=40;
+			activationBy="WEST";
+			repeating=1;
+			interruptable=1;
+			age="UNKNOWN";
+			name="zoneboateast";
+			expCond="(player distance zoneboateast) < 40;";
+			expActiv="canbuild = false; inSafeZone = true;";
+			expDesactiv="canbuild = true; inSafeZone = false;";
+			class Effects
+			{
+			};
+		};
+		class Item11
+		{
+			position[]={7968.3408,0,2895.0513};
+			a=40;
+			b=40;
+			activationBy="WEST";
+			repeating=1;
+			interruptable=1;
+			age="UNKNOWN";
+			name="zoneboatsouth";
+			expCond="(player distance zoneboatsouth) < 40;";
+			expActiv="canbuild = false; inSafeZone = true;";
+			expDesactiv="canbuild = true; inSafeZone = false;";
 			class Effects
 			{
 			};
