@@ -56,6 +56,13 @@ DZE_SelfTransfuse = true;
 //currency 3.0
 DZE_ConfigTrader = true;
 
+//Default Loadout
+DefaultMagazines = ["RH_12Rnd_45cal_usp","RH_12Rnd_45cal_usp","ItemBandage","ItemBandage","ItemPainkiller","ItemMorphine","PartGeneric"];
+DefaultWeapons = ["ItemFlashlight","ItemMap","ItemToolbox","RH_uspm"];
+DefaultBackpack = "DZ_Patrol_Pack_EP1";
+DefaultBackpackWeapon = "";
+DefaultBackpackMagazines = [];
+
 EpochEvents = [["any","any","any","any",30,"crash_spawner"],["any","any","any","any",0,"crash_spawner"],["any","any","any","any",15,"supply_drop"]];
 dayz_fullMoonNights = true;
 
