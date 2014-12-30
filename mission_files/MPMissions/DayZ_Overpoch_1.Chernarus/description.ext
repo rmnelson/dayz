@@ -169,3 +169,6 @@ class RscTitles
 // currency gold 3.0
 #include "custom\ZSC\config\ZSCdefines.hpp"
 #include "custom\ZSC\config\ZSCdialogs.hpp"
+
+//radio group management
+#include "custom\radio\extra_rc.hpp"

@@ -5,17 +5,17 @@ menu_RU_Functionary1 = [
 	"hero"
 ];
 menu_RU_Citizen3 = [
-	[["Assault Rifle Ammo",609],["Light Machine Gun Ammo",610],["Pistol Ammo",611],["Shotguns And Single Shot Ammo",613],["Sniper Rifle Ammo",614],["Submachine Gun Ammo",612],["Overwatch Pistol Ammo",1012],["Overwatch Gun Ammo",1013]],
+	[["Assault Rifle Ammo",609],["Light Machine Gun Ammo",610],["Pistol Ammo",611],["Shotguns And Single Shot Ammo",613],["Sniper Rifle Ammo",614],["Submachine Gun Ammo",612],["OW Pistol Ammo",1012],["OW Gun Ammo",1013]],
 	[],
 	"neutral"
 ];
 menu_Rocker4 = [
-	[["Assault Rifle",637],["Light Machine Gun",638],["Pistols",674],["Shotguns And Single Shot",641],["Sniper Rifle",640],["Submachine Guns",642],["Overwatch Vil",1002],["Overwatch Tar",1003],["Overwatch Sniper",1011],["Overwatch Scar",1004],["Overwatch Sidearm",1001],["Overwatch Mas",1007],["Overwatch Hk417",1009],["Overwatch Hk416",1008],["Overwatch Hk416",1008],["Overwatch Dmr",1010],["Overwatch Acr",1005]],
+	[["Assault Rifle",637],["Light Machine Gun",638],["Pistols",674],["Shotguns And Single Shot",641],["Sniper Rifle",640],["Submachine Guns",642],["OW Vil",1002],["OW Tar",1003],["OW Sniper",1011],["OW Scar",1004],["OW Sidearm",1001],["OW Mas",1007],["OW Hk417",1009],["OW Hk416",1008],["OW Hk416",1008],["OW Dmr",1010],["OW Acr",1005]],
 	[],
 	"neutral"
 ];
 menu_Profiteer4 = [
-	[["Bikes And Atv",587],["Buses And Vans",588],["Cargo Trucks",586],["Fuel Trucks",589],["Military Unarmed",598],["Trucks",590],["Used Cars",520],["Utility Vehicles",591],["Overwatch Civ Car",1015],["Overwatch Nissian Car",1016]],
+	[["Bikes And Atv",587],["Buses And Vans",588],["Cargo Trucks",586],["Fuel Trucks",589],["Military Unarmed",598],["Trucks",590],["Used Cars",520],["Utility Vehicles",591],["OW Civ Car",1015],["OW Nissian Car",1016]],
 	[],
 	"neutral"
 ];
@@ -25,12 +25,12 @@ menu_Rita_Ensler_EP1 = [
 	"neutral"
 ];
 menu_CIV_EuroMan01_EP1 = [
-	[["Assault Rifle",637],["Light Machine Gun",638],["Pistols",674],["Shotguns And Single Shot",641],["Sniper Rifle",640],["Submachine Guns",642],["Overwatch Vil",1002],["Overwatch Tar",1003],["Overwatch Sniper",1011],["Overwatch Scar",1004],["Overwatch Sidearm",1001],["Overwatch Mas",1007],["Overwatch Hk417",1009],["Overwatch Hk416",1008],["Overwatch G3",1006],["Overwatch Dmr",1010],["Overwatch Acr",1005]],
+	[["Assault Rifle",637],["Light Machine Gun",638],["Pistols",674],["Shotguns And Single Shot",641],["Sniper Rifle",640],["Submachine Guns",642],["OW Vil",1002],["OW Tar",1003],["OW Sniper",1011],["OW Scar",1004],["OW Sidearm",1001],["OW Mas",1007],["OW Hk417",1009],["OW Hk416",1008],["OW G3",1006],["OW Dmr",1010],["OW Acr",1005]],
 	[],
 	"neutral"
 ];
 menu_CIV_EuroMan02_EP1 = [
-	[["Assault Rifle Ammo",609],["Light Machine Gun Ammo",610],["Pistol Ammo",611],["Shotguns And Single Shot Ammo",613],["Sniper Rifle Ammo",614],["Submachine Gun Ammo",612],["Overwatch Pistol Ammo",1012],["Overwatch Gun Ammo",1013]],
+	[["Assault Rifle Ammo",609],["Light Machine Gun Ammo",610],["Pistol Ammo",611],["Shotguns And Single Shot Ammo",613],["Sniper Rifle Ammo",614],["Submachine Gun Ammo",612],["OW Pistol Ammo",1012],["OW Gun Ammo",1013]],
 	[],
 	"neutral"
 ];
@@ -45,12 +45,12 @@ menu_GUE_Soldier_MG = [
 	"hostile"
 ];
 menu_Worker2 = [
-	[["Airplanes",517],["Helicopter Unarmed",519],["Overwatch Camel",1014]],
+	[["Airplanes",517],["Helicopter Unarmed",519],["OW Camel",1014]],
 	[],
 	"neutral"
 ];
 menu_Worker3 = [
-	[["Bikes And Atv",587],["Buses And Vans",588],["Cargo Trucks",586],["Fuel Trucks",589],["Military Unarmed",598],["Trucks",590],["Used Cars",520],["Utility Vehicles",591],["Overwatch Civ Car",1015],["Overwatch Nissian Car",1016]],
+	[["Bikes And Atv",587],["Buses And Vans",588],["Cargo Trucks",586],["Fuel Trucks",589],["Military Unarmed",598],["Trucks",590],["Used Cars",520],["Utility Vehicles",591],["OW Civ Car",1015],["OW Nissian Car",1016]],
 	[],
 	"neutral"
 ];
@@ -65,7 +65,7 @@ menu_Woodlander1 = [
 	"neutral"
 ];
 menu_UN_CDF_Soldier_Pilot_EP1 = [
-	[["Bikes And Atv",587],["Buses And Vans",588],["Cargo Trucks",586],["Fuel Trucks",589],["Military Unarmed",598],["Trucks",590],["Used Cars",520],["Utility Vehicles",591],["Overwatch Civ Car",1015],["Overwatch Nissian Car",1016]],
+	[["Bikes And Atv",587],["Buses And Vans",588],["Cargo Trucks",586],["Fuel Trucks",589],["Military Unarmed",598],["Trucks",590],["Used Cars",520],["Utility Vehicles",591],["OW Civ Car",1015],["OW Nissian Car",1016]],
 	[],
 	"neutral"
 ];
@@ -80,12 +80,12 @@ menu_Dr_Annie_Baker_EP1 = [
 	"neutral"
 ];
 menu_TK_CIV_Takistani04_EP1 = [
-	[["Assault Rifle",637],["Light Machine Gun",638],["Pistols",674],["Shotguns And Single Shot",641],["Sniper Rifle",640],["Submachine Guns",642],["Overwatch Vil",1002],["Overwatch Tar",1003],["Overwatch Sniper",1011],["Overwatch Scar",1004],["Overwatch Sidearm",1001],["Overwatch Mas",1007],["Overwatch Hk417",1009],["Overwatch Hk416",1008],["Overwatch G3",1006],["Overwatch Dmr",1010],["Overwatch Acr",1005]],
+	[["Assault Rifle",637],["Light Machine Gun",638],["Pistols",674],["Shotguns And Single Shot",641],["Sniper Rifle",640],["Submachine Guns",642],["OW Vil",1002],["OW Tar",1003],["OW Sniper",1011],["OW Scar",1004],["OW Sidearm",1001],["OW Mas",1007],["OW Hk417",1009],["OW Hk416",1008],["OW G3",1006],["OW Dmr",1010],["OW Acr",1005]],
 	[],
 	"neutral"
 ];
 menu_Pilot_EP1 = [
-	[["Assault Rifle Ammo",609],["Light Machine Gun Ammo",610],["Pistol Ammo",611],["Shotguns and Single Shot Ammo",613],["Sniper Rifle Ammo",614],["Submachine Gun Ammo",612],["Overwatch Pistol Ammo",1012],["Overwatch Gun Ammo",1013]],
+	[["Assault Rifle Ammo",609],["Light Machine Gun Ammo",610],["Pistol Ammo",611],["Shotguns and Single Shot Ammo",613],["Sniper Rifle Ammo",614],["Submachine Gun Ammo",612],["OW Pistol Ammo",1012],["OW Gun Ammo",1013]],
 	[],
 	"neutral"
 ];
@@ -110,17 +110,17 @@ menu_RU_Villager3 = [
 	"neutral"
 ];
 menu_TK_CIV_Takistani04_EP1 = [
-	[["Assault Rifle",637],["Light Machine Gun",638],["Pistols",674],["Shotguns and Single Shot",641],["Sniper Rifle",640],["Submachine Guns",642],["Overwatch Vil",1002],["Overwatch Tar",1003],["Overwatch Sniper",1011],["Overwatch Scar",1004],["Overwatch Sidearm",1001],["Overwatch Mas",1007],["Overwatch Hk417",1009],["Overwatch Hk416",1008],["Overwatch G3",1006],["Overwatch Dmr",1010],["Overwatch Acr",1005]],
+	[["Assault Rifle",637],["Light Machine Gun",638],["Pistols",674],["Shotguns and Single Shot",641],["Sniper Rifle",640],["Submachine Guns",642],["OW Vil",1002],["OW Tar",1003],["OW Sniper",1011],["OW Scar",1004],["OW Sidearm",1001],["OW Mas",1007],["OW Hk417",1009],["OW Hk416",1008],["OW G3",1006],["OW Dmr",1010],["OW Acr",1005]],
 	[],
 	"neutral"
 ];
 menu_Pilot_EP1 = [
-	[["Assault Rifle Ammo",609],["Light Machine Gun Ammo",610],["Pistol Ammo",611],["Shotguns and Single Shot Ammo",613],["Sniper Rifle Ammo",614],["Submachine Gun Ammo",612],["Overwatch Pistol Ammo",1012],["Overwatch Gun Ammo",1013]],
+	[["Assault Rifle Ammo",609],["Light Machine Gun Ammo",610],["Pistol Ammo",611],["Shotguns and Single Shot Ammo",613],["Sniper Rifle Ammo",614],["Submachine Gun Ammo",612],["OW Pistol Ammo",1012],["OW Gun Ammo",1013]],
 	[],
 	"neutral"
 ];
 menu_RU_Profiteer4 = [
-	[["Bikes And Atv",587],["Buses And Vans",588],["Cargo Trucks",586],["Fuel Trucks",589],["Military Unarmed",598],["Trucks",590],["Used Cars",520],["Utility Vehicles",591],["Overwatch Civ Car",1015],["Overwatch Nissian Car",1016]],
+	[["Bikes And Atv",587],["Buses And Vans",588],["Cargo Trucks",586],["Fuel Trucks",589],["Military Unarmed",598],["Trucks",590],["Used Cars",520],["Utility Vehicles",591],["OW Civ Car",1015],["OW Nissian Car",1016]],
 	[],
 	"neutral"
 ];
