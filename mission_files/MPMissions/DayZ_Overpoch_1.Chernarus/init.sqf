@@ -73,7 +73,7 @@ progressLoadingScreen 0.5;
 call compile preprocessFileLineNumbers "server_traders_cherno_11.sqf";   //modified for currency gold 3.0
 call compile preprocessFileLineNumbers "custom\admintools\AdminList.sqf"; // Epoch admin Tools variables/UIDs
 call compile preprocessFileLineNumbers "custom\compiles.sqf"; //Compile custom compiles
-
+call compile preprocessFileLineNumbers "custom\bike\init.sqf";
 progressLoadingScreen 1.0;
 
 "filmic" setToneMappingParams [0.153, 0.357, 0.231, 0.1573, 0.011, 3.750, 6, 4]; setToneMapping "Filmic";
@@ -124,3 +124,5 @@ execVM "\z\addons\dayz_code\external\DynamicWeatherEffects.sqf";
 //Admintools
 [] execVM "custom\admintools\Activate.sqf"; // Epoch admin tools
 
+//Suicide
+call compile preprocessFileLineNumbers "custom\suicide\init.sqf";
