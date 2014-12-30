@@ -12,3 +12,5 @@ mysqldump: Couldn't execute 'show create table `v_deployable`': SHOW VIEW comman
 mysqldump: Couldn't execute 'show create table `host_summary`': SHOW VIEW command denied to user 'backup'@'localhost' for table 'host_summary' (1142)
 mysqldump: Couldn't execute 'show create table `v_deployable`': SHOW VIEW command denied to user 'backup'@'localhost' for table 'v_deployable' (1142)
 mysqldump: Couldn't execute 'show create table `host_summary`': SHOW VIEW command denied to user 'backup'@'localhost' for table 'host_summary' (1142)
+mysqldump: Couldn't execute 'show create table `v_deployable`': SHOW VIEW command denied to user 'backup'@'localhost' for table 'v_deployable' (1142)
+mysqldump: Couldn't execute 'show create table `host_summary`': SHOW VIEW command denied to user 'backup'@'localhost' for table 'host_summary' (1142)
