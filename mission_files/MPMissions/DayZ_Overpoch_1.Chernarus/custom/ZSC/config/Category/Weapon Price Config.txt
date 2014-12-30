@@ -1,0 +1,40 @@
+Base weapon =
+		Dmg * 2
+
+Scope 		+1000
+Semi Auto 	+750
+Full Auto 	+1500
+Toggle 		+1750
+GL		+500
+SD		+1250
+NV		+1250
+
+Backpack Eater	-1000
+
+Zeroing	to 800	+2000
+	to 1000	+1000
+	to 1200 +2000
+	to 1400	+3000
+	to 1600	+4000
+
+Auto to 800	+12000
+
+1Hit 		Sum *2
+
+Maximum Common	=100000
+Mimimum Rare 	=250000
+
+
+
+
+Ammo Cost
+16mio
+17.4mio
+2.5mio
+10
+
+Armor +
+Base Fly 	25000
+Tow Small 	25000
+Tow Large	50000
+Radar		50000

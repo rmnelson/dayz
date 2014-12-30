@@ -172,3 +172,6 @@ class RscTitles
 
 //radio group management
 #include "custom\radio\extra_rc.hpp"
+
+//snap pro 1.4.1
+#include "custom\snap_pro\snappoints.hpp"
