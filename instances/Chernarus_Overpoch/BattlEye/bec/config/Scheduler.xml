@@ -146,7 +146,6 @@ SEE THE SCHEDULER_FAQ.txt for more info
 
 	<!-- this job will start after 10 sec and run forever with a 10 minutes interval between the jobs -->
 	<job id='0'>
-		<time>001000</time> <!-- will run after 10 min -->
 		<start>000010</start> <!-- job starts after 10 sec -->
 		<runtime>001000</runtime> <!-- every 10 min-->
 		<day>1,2,3,4,5,6,7</day> <!--every day of the week-->
@@ -156,8 +155,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 	
 	<job id="1">
 		<day>1,2,3,4,5,6,7</day>
-		<time>030000</time>
-		<start>030000</start>
+		<start>00:00:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
 		<cmd>#shutdown</cmd>
@@ -165,79 +163,182 @@ SEE THE SCHEDULER_FAQ.txt for more info
 	
 	<job id="2">
 		<day>1,2,3,4,5,6,7</day>
-		<time>025950</time>
-		<start>025950</start>
+		<start>03:00:00</start>
+		<runtime>000000</runtime>
+		<loop>0</loop>
+		<cmd>#shutdown</cmd>
+	</job>
+		
+	<job id="3">
+		<day>1,2,3,4,5,6,7</day>
+		<start>06:00:00</start>
+		<runtime>000000</runtime>
+		<loop>0</loop>
+		<cmd>#shutdown</cmd>
+	</job>
+		
+	<job id="4">
+		<day>1,2,3,4,5,6,7</day>
+		<start>09:00:00</start>
+		<runtime>000000</runtime>
+		<loop>0</loop>
+		<cmd>#shutdown</cmd>
+	</job>
+		
+	<job id="5">
+		<day>1,2,3,4,5,6,7</day>
+		<start>12:00:00</start>
+		<runtime>000000</runtime>
+		<loop>0</loop>
+		<cmd>#shutdown</cmd>
+	</job>
+		
+	<job id="6">
+		<day>1,2,3,4,5,6,7</day>
+		<start>15:00:00</start>
+		<runtime>000000</runtime>
+		<loop>0</loop>
+		<cmd>#shutdown</cmd>
+	</job>
+		
+	<job id="7">
+		<day>1,2,3,4,5,6,7</day>
+		<start>18:00:00</start>
+		<runtime>000000</runtime>
+		<loop>0</loop>
+		<cmd>#shutdown</cmd>
+	</job>
+		
+	<job id="8">
+		<day>1,2,3,4,5,6,7</day>
+		<start>21:00:00</start>
+		<runtime>000000</runtime>
+		<loop>0</loop>
+		<cmd>#shutdown</cmd>
+	</job>
+	
+	<job id="9">
+		<day>1,2,3,4,5,6,7</day>
+		<start>23:59:50</start>
+		<runtime>000000</runtime>
+		<loop>0</loop>
+		<cmd>C:\dayz\scripts\startup\cherno-overpoch.bat</cmd>
+	</job>
+		
+	<job id="10">
+		<day>1,2,3,4,5,6,7</day>
+		<start>02:59:50</start>
+		<runtime>000000</runtime>
+		<loop>0</loop>
+		<cmd>C:\dayz\scripts\startup\cherno-overpoch.bat</cmd>
+	</job>
+		
+	<job id="11">
+		<day>1,2,3,4,5,6,7</day>
+		<start>05:59:50</start>
+		<runtime>000000</runtime>
+		<loop>0</loop>
+		<cmd>C:\dayz\scripts\startup\cherno-overpoch.bat</cmd>
+	</job>
+		
+	<job id="12">
+		<day>1,2,3,4,5,6,7</day>
+		<start>08:59:50</start>
+		<runtime>000000</runtime>
+		<loop>0</loop>
+		<cmd>C:\dayz\scripts\startup\cherno-overpoch.bat</cmd>
+	</job>
+		
+	<job id="13">
+		<day>1,2,3,4,5,6,7</day>
+		<start>11:59:50</start>
+		<runtime>000000</runtime>
+		<loop>0</loop>
+		<cmd>C:\dayz\scripts\startup\cherno-overpoch.bat</cmd>
+	</job>
+		
+	<job id="14">
+		<day>1,2,3,4,5,6,7</day>
+		<start>14:59:50</start>
+		<runtime>000000</runtime>
+		<loop>0</loop>
+		<cmd>C:\dayz\scripts\startup\cherno-overpoch.bat</cmd>
+	</job>
+		
+	<job id="15">
+		<day>1,2,3,4,5,6,7</day>
+		<start>17:59:50</start>
+		<runtime>000000</runtime>
+		<loop>0</loop>
+		<cmd>C:\dayz\scripts\startup\cherno-overpoch.bat</cmd>
+	</job>
+		
+	<job id="16">
+		<day>1,2,3,4,5,6,7</day>
+		<start>20:59:50</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
 		<cmd>C:\dayz\scripts\startup\cherno-overpoch.bat</cmd>
 	</job>
 	
-	<job id="3">
+	<job id="17">
 		<day>1,2,3,4,5,6,7</day>
-		<time>000500</time>
 		<start>000500</start>
 		<runtime>001000</runtime>
 		<loop>6</loop>
 		<cmd>say -1 .:DoC:. Server restarts every 3 hrs starting at 12am EST</cmd>
 	</job>
 	
-	<job id="4">
+	<job id="18">
 		<day>1,2,3,4,5,6,7</day>
-		<time>010000</time>
 		<start>010000</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
 		<cmd>say -1 .:DoC:. Server restarts in 2 hours</cmd>
 	</job>
 	
-	<job id="5">
+	<job id="19">
 		<day>1,2,3,4,5,6,7</day>
-		<time>020000</time>
 		<start>020000</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
 		<cmd>say -1 .:DoC:. Server restarts in 1 hours</cmd>
 	</job>
 	
-	<job id="6">
+	<job id="20">
 		<day>1,2,3,4,5,6,7</day>
-		<time>023000</time>
 		<start>023000</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
 		<cmd>say -1 .:DoC:. Server restarts in 30 minutes</cmd>
 	</job>
 	
-	<job id="7">
+	<job id="21">
 		<day>1,2,3,4,5,6,7</day>
-		<time>024500</time>
 		<start>024500</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
 		<cmd>say -1 .:DoC:. Server restarts in 15 minutes</cmd>
 	</job>
 	
-	<job id="8">
+	<job id="22">
 		<day>1,2,3,4,5,6,7</day>
-		<time>025000</time>
 		<start>025000</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
 		<cmd>say -1 .:DoC:. Server restarts in 10 minutes</cmd>
 	</job>
 	
-	<job id="9">
+	<job id="23">
 		<day>1,2,3,4,5,6,7</day>
-		<time>025500</time>
 		<start>025500</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
 		<cmd>say -1 .:DoC:. Server restarts in 5 minutes. Stop all vehicles and get out!</cmd>
 	</job>
 		
-	<job id="10">
+	<job id="24">
 		<day>1,2,3,4,5,6,7</day>
-		<time>025900</time>
 		<start>025900</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
