@@ -17,5 +17,21 @@ DZE_CLICK_ACTIONS = [
     ["ItemGPS","Range Up"   ,"if(isNil 'DZE_CLICK_ACTIONS_GPS_RANGE') then {DZE_CLICK_ACTIONS_GPS_RANGE = 1500;};DZE_CLICK_ACTIONS_GPS_RANGE = (DZE_CLICK_ACTIONS_GPS_RANGE + 100) min 2500; cutText[format['GPS RANGE: %1',DZE_CLICK_ACTIONS_GPS_RANGE],'PLAIN DOWN'];","true"],
     ["ItemGPS","Range Down" ,"if(isNil 'DZE_CLICK_ACTIONS_GPS_RANGE') then {DZE_CLICK_ACTIONS_GPS_RANGE = 1500;};DZE_CLICK_ACTIONS_GPS_RANGE = (DZE_CLICK_ACTIONS_GPS_RANGE - 100) max 1000;  cutText[format['GPS RANGE: %1',DZE_CLICK_ACTIONS_GPS_RANGE],'PLAIN DOWN'];","true"],
     ["ItemGPS","Toggle Map Marker","execVM 'custom\bike\overwrites\click_actions\examples\marker.sqf';","true"],
-    ["ItemMap","Toggle Map Marker","execVM 'custom\bike\overwrites\click_actions\examples\marker.sqf';","true"]
+    ["ItemMap","Toggle Map Marker","execVM 'custom\bike\overwrites\click_actions\examples\marker.sqf';","true"],
+	["Binocular_Vector","View Distance 400 Meters","setViewDistance 400","true"],
+	["Binocular_Vector","View Distance 600 Meters","setViewDistance 600","true"],
+	["Binocular_Vector","View Distance 800 Meters","setViewDistance 800","true"],
+	["Binocular_Vector","View Distance 1000 Meters","setViewDistance 1000","true"],
+	["Binocular_Vector","View Distance 1250 Meters","setViewDistance 1250","true"],
+	["Binocular_Vector","View Distance 1500 Meters","setViewDistance 1500; systemChat('ViewDistance: 1500')";,"true"],
+	["Binocular_Vector","View Distance 2000 Meters","setViewDistance 2000","true"],
+	["Binocular_Vector","View Distance 3000 Meters","setViewDistance 3000","true"],
+	["Binocular","View Distance 400 Meters","setViewDistance 400","true"],
+	["Binocular","View Distance 600 Meters","setViewDistance 600","true"],
+	["Binocular","View Distance 800 Meters","setViewDistance 800","true"],
+	["Binocular","View Distance 1000 Meters","setViewDistance 1000","true"],
+	["Binocular","View Distance 1250 Meters","setViewDistance 1250","true"],
+	["Binocular","View Distance 1500 Meters","setViewDistance 1500; systemChat('ViewDistance: 1500')";,"true"],
+	["Binocular","View Distance 2000 Meters","setViewDistance 2000","true"],
+	["Binocular","View Distance 3000 Meters","setViewDistance 3000","true"]
 ];
