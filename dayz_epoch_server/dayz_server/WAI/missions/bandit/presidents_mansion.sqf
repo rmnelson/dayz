@@ -5,7 +5,7 @@ if(isServer) then {
 	_position		= [50] call find_position;
 	_mission		= [_position,"Extreme","Presidents in Town","MainBandit",true] call mission_init;
 	
-	diag_log 		format["WAI: [Mission:[Bandit] Presidents in Town]: Starting... %1",_position];
+	diag_log 		format["WAI: [Mission:[Bandit] Head of the INS Speech]: Starting... %1",_position];
 
 	//Setup the crate
 	_crate_type 	= crates_small call BIS_fnc_selectRandom;
@@ -48,9 +48,9 @@ if(isServer) then {
 		[_mission,_crate],			// mission number and crate
 		["assassinate",_president], // ["crate",wai_kill_percent], or ["kill"], or ["assassinate", _unitGroup],
 		[_baserunover], 			// cleanup objects
-		"The President is in town for a press conference, rumour has it bandits are planning his assasination",	// mission announcement
-		"The President has been assassinated, a day of mourning has been announced",							// mission success
-		"The President managed to get away from the assasination attempt"										// mission fail
+		"The Head of the INS is preparing to announce a plan to sweep all bandits from the server.. kill him for that.",	// mission announcement
+		"The Head of the INS has been murdered, the bandits win again!",							// mission success
+		"The Head of the INS delivered his announcement, heroes everywhere have been ordered to hunt down the bandits!"										// mission fail
 	] call mission_winorfail;
 
 	if(_complete) then {

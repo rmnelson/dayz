@@ -5,7 +5,7 @@ if(isServer) then {
 	_position		= [80] call find_position;
 	_mission 		= [_position,"Hard","Hero Base","MainBandit",true] call mission_init;
 	
-	diag_log 		format["WAI: [Mission:[Bandit] Hero Base]: Starting... %1",_position];
+	diag_log 		format["WAI: [Mission:[Bandit] Frostbite's Base]: Starting... %1",_position];
 
 	//Setup the crate
 	_crate_type 	= crates_large call BIS_fnc_selectRandom;
@@ -52,9 +52,9 @@ if(isServer) then {
 		[_mission,_crate],	// mission number and crate
 		["crate"], 			// ["crate"], or ["kill"], or ["assassinate", _unitGroup],
 		[_baserunover], 	// cleanup objects
-		"Heroes have setup a heavily fortified base, are you bandit enough to take them down?",	// mission announcement
-		"Bandits have captured the Hero base",										// mission success
-		"Bandits did not capture the base in time"									// mission fail
+		"Frostbite is setting up a FoB with his buddies, ruin their day!",	// mission announcement
+		"Frostbite's base has been destroyed!",										// mission success
+		"Frostbite has setup a FoB and gained a huge stash of guns!"									// mission fail
 	] call mission_winorfail;
 
 	if(_complete) then {

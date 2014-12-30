@@ -5,7 +5,7 @@ if(isServer) then {
 	_position		= [30] call find_position;
 	_mission		= [_position,"Medium","Weapon Cache","MainBandit",true] call mission_init;
 	
-	diag_log 		format["WAI: [Mission:[Bandit] Weapons Cache]: Starting... %1",_position];
+	diag_log 		format["WAI: [Mission:[Bandit] MasterChief's Weapons Cache]: Starting... %1",_position];
 
 	//Setup the crate
 	_crate_type 	= crates_small call BIS_fnc_selectRandom;
@@ -30,9 +30,9 @@ if(isServer) then {
 		[_mission,_crate],	// mission number and crate
 		["crate"], 			// ["crate"], or ["kill",wai_kill_percent], or ["assassinate", _unitGroup],
 		[], 				// cleanup objects
-		"Heroes have obtained a weapon crate. Check your map for the location!",	// mission announcement
-		"Bandits have secured the weapon cache!",									// mission success
-		"Bandits did not secure the weapon cache in time"							// mission fail
+		"MasterChief is transporting his weapons, go make them yours.",	// mission announcement
+		"Halo sucks! The weapons are mine!",									// mission success
+		"MasterChief's ping was too high, the mission is ended."							// mission fail
 	] call mission_winorfail;
 
 	if(_complete) then {

@@ -5,7 +5,7 @@ if(isServer) then {
 	_position		= [40] call find_position;
 	_mission		= [_position,"Hard","Lunch break Convoy","MainBandit",true] call mission_init;
 
-	diag_log 		format["WAI: [Mission:[Bandit] Lunch break Convoy]: Starting... %1",_position];
+	diag_log 		format["WAI: [Mission:[Bandit] Base Building Supplies]: Starting... %1",_position];
 
 	//Setup the crate
 	_crate_type 	= crates_large call BIS_fnc_selectRandom;
@@ -50,9 +50,9 @@ if(isServer) then {
 		[_mission,_crate],				// mission number and crate
 		["crate"], 						// ["crate"], or ["kill",wai_kill_percent], or ["assassinate", _unitGroup],
 		[_vehicle,_vehicle2,_vehicle3],	// cleanup objects
-		"A heavily guarded Ikea convoy is taking a lunch break, heroes are securing the parameter. See if you can make the building supplies yours.",	// mission announcement
-		"Bandits have successfully ambushed the Ikea convoy and secured the building supplies!",			// mission success
-		"Bandits were unable to surprise the heroes on their lunchbreak"									// mission fail
+		"justsaywhy has ordered a donation package, go steal it before it arrives!",	// mission announcement
+		"Bandits have successfully ambushed justsaywhy's donation package",			// mission success
+		"justsaywhy has received his package, guess I didn't need to build a strong base."									// mission fail
 	] call mission_winorfail;
 
 	if(_complete) then {

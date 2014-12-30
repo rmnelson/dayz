@@ -42,9 +42,9 @@ if(isServer) then {
 		[_mission,_crate],	// mission number and crate
 		["crate"], 			// ["crate"], or ["kill"], or ["assassinate", _unitGroup],
 		[_vehicle], 		// cleanup objects
-		"A group of red cross volunteers are giving away medical supplies, they are heavily guarded by trained soldiers",		// mission announcement
-		"Bandits have murdered the volunteers, shame on them!",					// mission success
-		"The medical supplies have been given away"								// mission fail
+		"Red Cross volunteers have brought in a MV-22 with med supplies to help stop the infection.",		// mission announcement
+		"More zombies means less heroes!",					// mission success
+		"The Red Cross volunteers have given the supplies away, I'm not that cold blooded.."								// mission fail
 	] call mission_winorfail;
 
 	if(_complete) then {

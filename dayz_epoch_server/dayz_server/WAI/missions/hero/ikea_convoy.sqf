@@ -5,7 +5,7 @@ if(isServer) then {
 	_position		= [40] call find_position;
 	_mission		= [_position,"Hard","Disabled Convoy","MainHero",true] call mission_init;
 
-	diag_log 		format["WAI: [Mission:[Hero] Disabled Convoy]: Starting... %1",_position];
+	diag_log 		format["WAI: [Mission:[Hero] Bacon's Building Supply Convoy]: Starting... %1",_position];
 
 	//Setup the crate
 	_crate_type 	= crates_large call BIS_fnc_selectRandom;
@@ -50,9 +50,9 @@ if(isServer) then {
 		[_mission,_crate],				// mission number and crate
 		["crate"], 						// ["crate"], or ["kill",wai_kill_percent], or ["assassinate", _unitGroup],
 		[_vehicle,_vehicle2,_vehicle3],	// cleanup objects
-		"An Ikea delivery has been hijacked by bandits, take over the convoy and the building supplies are yours!",	// mission announcement
-		"Survivors have secured the building supplies!",															// mission success
-		"Survivors did not secure the convoy in time"																// mission fail
+		"Bacon's bandits are hauling his building supplies back to base, shoot them in the face!",	// mission announcement
+		"Bacon's gonna be mad, good job survivors!",															// mission success
+		"Bacon's gonna add another level to his Towa of Powa!"																// mission fail
 	] call mission_winorfail;
 
 	if(_complete) then {

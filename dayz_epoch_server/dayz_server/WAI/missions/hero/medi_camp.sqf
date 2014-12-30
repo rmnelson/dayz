@@ -5,7 +5,7 @@ if(isServer) then {
 	_position		= [30] call find_position;
 	_mission		= [_position,"Easy","Medical Supply Camp","MainHero",true] call mission_init;
 	
-	diag_log 		format["WAI: [Mission:[Hero] Medical Supply Camp]: Starting... %1",_position];
+	diag_log 		format["WAI: [Mission:[Hero] =Covert= clan's supplies]: Starting... %1",_position];
 
 	//Setup the crate
 	_crate_type 	= crates_small call BIS_fnc_selectRandom;
@@ -27,9 +27,9 @@ if(isServer) then {
 		[_mission,_crate],				// mission number and crate
 		["kill"],						// ["crate"], or ["kill"], or ["assassinate", _unitGroup],
 		[_baserunover], 				// cleanup objects
-		"Bandits have taken over a medical re-supply camp! Check your map for the location!",	// mission announcement
-		"Survivors have taken control of the medical supply camp!",								// mission success
-		"Survivors were unable to capture the medical supply camp"							// mission fail
+		"Bandits have captured =Covert= clan's feminine hygiene products!",	// mission announcement
+		"Phew! OJS thanks you kindly!",								// mission success
+		"Oh noes!  HeXx won't feel fresh today!"							// mission fail
 	] call mission_winorfail;
 
 	if(_complete) then {

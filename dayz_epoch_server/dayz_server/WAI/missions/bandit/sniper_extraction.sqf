@@ -42,9 +42,9 @@ if(isServer) then {
 		[_mission,_crate],	// mission number and crate
 		["crate"], 			// ["crate"], or ["kill",wai_kill_percent], or ["assassinate", _unitGroup],
 		[_vehicle], 		// cleanup objects
-		"Heroes have captured a lot of sniper rifles from the Takistani bandit clan, make your move as a bandit whilst they are planning a getaway",		// mission announcement
-		"Bandits have secured the snipers and taken the chopper!",		// mission success
-		"Bandits did not secure the sniper rifles in time"				// mission fail
+		"Sampson and his sniper buddies are about to escape with a pile of weapons from NWAF!",		// mission announcement
+		"Pwned!  Sampson's weapons have been captures by bandits!",		// mission success
+		"Sampson and his sniper rifles have escaped!"				// mission fail
 	] call mission_winorfail;
 
 	if(_complete) then {

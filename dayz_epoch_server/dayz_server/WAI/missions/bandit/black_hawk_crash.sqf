@@ -31,9 +31,9 @@ if(isServer) then {
 		[_mission,_crate],	// mission number and crate
 		["crate"], 			// ["crate"], or ["kill"], or ["assassinate", _unitGroup],
 		[_baserunover], 	// cleanup objects
-		"A Black Hawk carrying supplies has crashed and heroes are securing the site! Check your map for the location!",	// mission announcement
-		"Bandits have secured the crashed Black Hawk!",																	// mission success
-		"Bandits did not secure the crashed Black Hawk in time"															// mission fail
+		"Ghost has crashed a Black Hawk, go loot the supplies!",	// mission announcement
+		"Ghost's supplies have been captured.",																	// mission success
+		"Ghost repaired the Black Hawk and escaped."															// mission fail
 	] call mission_winorfail;
 
 	if(_complete) then {

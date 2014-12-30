@@ -5,7 +5,7 @@ if(isServer) then {
 	_position		= [30] call find_position;
 	_mission		= [_position,"Easy","Ural Attack","MainHero",true] call mission_init;
 	
-	diag_log 		format["WAI: [Mission:[Hero] Ural Attack]: Starting... %1",_position];
+	diag_log 		format["WAI: [Mission:[Hero] Broken Down Ural]: Starting... %1",_position];
 
 	//Setup the crate
 	_crate_type 	= crates_medium call BIS_fnc_selectRandom;
@@ -28,9 +28,9 @@ if(isServer) then {
 		[_mission,_crate],		// mission number and crate
 		["kill"], 				// ["crate"], or ["kill"], or ["assassinate", _unitGroup],
 		[_baserunover], 		// cleanup objects
-		"Bandits have destroyed a Ural with supplies and are securing the cargo! Check your map for the location!",	// mission announcement
-		"The supplies have been secured by survivors!",															// mission success
-		"Survivors did not secure the supplies in time"														// mission fail
+		"The German are trying to fix their wrecked ural!",	// mission announcement
+		"The Germans have been slain.",															// mission success
+		"The Germans repaired their vehicle and got away."														// mission fail
 	] call mission_winorfail;
 
 	if(_complete) then {

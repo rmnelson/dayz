@@ -5,7 +5,7 @@ if(isServer) then {
 	_position		= [30] call find_position;
 	_mission		= [_position,"Medium","Weapon Cache","MainHero",true] call mission_init;
 	
-	diag_log 		format["WAI: [Mission:[Hero] Weapon Cache]: Starting... %1",_position];
+	diag_log 		format["WAI: [Mission:[Hero] Filosoof's Weapon Cache]: Starting... %1",_position];
 
 	//Setup the crate
 	_crate_type 	= crates_small call BIS_fnc_selectRandom;
@@ -31,9 +31,9 @@ if(isServer) then {
 		[_mission,_crate],	// mission number and crate
 		["crate"],			// ["crate"], or ["kill",wai_kill_percent], or ["assassinate", _unitGroup],
 		[],					// cleanup objects
-		"Bandits have obtained a weapon crate. Check your map for the location!",	// mission announcement
-		"Survivors have secured the weapon cache!",									// mission success
-		"Survivors did not secure the weapon cache in time"							// mission fail
+		"Bandits have broken into Filosoof's basement and stolen a lot of weapons, get them back!",	// mission announcement
+		"Filosoof owes you, well done!",									// mission success
+		"The bandits got away with Filosoof's weapons!  Crap!"							// mission fail
 	] call mission_winorfail;
 
 	if(_complete) then {

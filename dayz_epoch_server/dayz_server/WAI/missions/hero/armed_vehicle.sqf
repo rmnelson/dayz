@@ -39,9 +39,9 @@ if(isServer) then {
 		[_mission,_crate],	// mission number and crate
 		["crate"], 			// ["crate"], or ["kill"], or ["assassinate", _unitGroup],
 		[_vehicle], 		// cleanup objects
-		"Bandits have disabled an armed vehicle with lots of chain gun ammo in the gear! Check your map for the location!",	// mission announcement
-		"Survivors have secured the armed vehicle!",																		// mission success
-		"Survivors did not secure the armed vehicle in time"																// mission fail
+		"Bandits have stolen one of DaBethum's armed vehicles with lots of chain gun ammo!",	// mission announcement
+		"Heroes have capture the armed vehicle!",																		// mission success
+		"The bandits got away with DaBethum's truck.."																// mission fail
 	] call mission_winorfail;
 
 	if(_complete) then {

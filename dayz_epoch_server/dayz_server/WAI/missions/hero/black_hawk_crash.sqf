@@ -31,9 +31,9 @@ if(isServer) then {
 		[_mission,_crate],	// mission number and crate
 		["crate"], 			// ["crate"], or ["kill"], or ["assassinate", _unitGroup],
 		[_baserunover], 	// cleanup objects
-		"A Black Hawk carrying supplies has crashed and bandits are securing the site! Check your map for the location!",	// mission announcement
-		"Survivors have secured the crashed Black Hawk!",																	// mission success
-		"Survivors did not secure the crashed Black Hawk in time"															// mission fail
+		"WingsofFury ''landed'' his black hawk.  Go loot the crash.",	// mission announcement
+		"The ''landed'' black hawk has been looted!",																	// mission success
+		"Wings strapped the big black kawk on his backside and they got away!"															// mission fail
 	] call mission_winorfail;
 
 	diag_log format["WAI: [Mission:[Hero] Black Hawk Crash]: Ended at %1",_position];

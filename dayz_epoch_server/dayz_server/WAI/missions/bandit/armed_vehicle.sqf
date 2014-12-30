@@ -9,7 +9,7 @@ if(isServer) then {
 	_position		= [30] call find_position;
 	_mission		= [_position,"Medium",format["Disabled %1",_vehname],"MainBandit",true] call mission_init;
 	
-	diag_log 		format["WAI: [Mission:[Bandit] Armed Vehicle]: Starting... %1",_position];
+	diag_log 		format["WAI: [Mission:[Bandit] Doc's Armed Vehicle]: Starting... %1",_position];
 
 	//Setup the crate
 	_crate_type 	= crates_small call BIS_fnc_selectRandom;
@@ -39,9 +39,9 @@ if(isServer) then {
 		[_mission,_crate],	// mission number and crate
 		["crate"], 			// ["crate"], or ["kill"], or ["assassinate", _unitGroup],
 		[_vehicle], 		// cleanup objects
-		"Heroes have taken an armed vehicle from the bandits! Check your map for the location!",	// mission announcement
-		"Bandits have secured the armed vehicle!",													// mission success
-		"Bandits did not secure the armed vehicle in time"										// mission fail
+		"Doctor just bought an armed vehicle, take it from him!",	// mission announcement
+		"Bandits have stolen the armed vehicle!",													// mission success
+		"The Doctor got away!"										// mission fail
 	] call mission_winorfail;
 
 	if(_complete) then {

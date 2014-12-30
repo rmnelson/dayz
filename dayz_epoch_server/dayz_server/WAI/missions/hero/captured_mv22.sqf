@@ -5,7 +5,7 @@ if(isServer) then {
 	_position		= [30] call find_position;
 	_mission		= [_position,"Hard","Captured MV22","MainHero",true] call mission_init;
 	
-	diag_log 		format["WAI: [Mission:[Hero] Captured MV22]: Starting... %1",_position];
+	diag_log 		format["WAI: [Mission:[Hero] Captured MV-22]: Starting... %1",_position];
 
 	//Setup the crate
 	_crate_type 	= crates_small call BIS_fnc_selectRandom;
@@ -41,9 +41,9 @@ if(isServer) then {
 		[_mission,_crate],	// mission number and crate
 		["crate"], 			// ["crate"], or ["kill"], or ["assassinate", _unitGroup],
 		[_vehicle,_baserunover], 		// cleanup objects
-		"Bandits have captured a Red Cross MV-22! An informant has advised there are medical supplies, he has updated the map for the location!",	// mission announcement
-		"Survivors have secured the MV-22!",																										// mission success
-		"Survivors did not secure the MV-22 in time"																								// mission fail
+		"Hampuz has capture a MV-22, he's about to take off, shoot him!",	// mission announcement
+		"Hampuz has been killed, look at this giant flying bag of cash!",																										// mission success
+		"Those lovely lady Humpz flew the MV-22 to the aircraft dealer and sold it. Suck."																								// mission fail
 	] call mission_winorfail;
 
 	if(_complete) then {

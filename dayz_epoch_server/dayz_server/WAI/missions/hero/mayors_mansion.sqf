@@ -5,7 +5,7 @@ if(isServer) then {
 	_position		= [40] call find_position;
 	_mission		= [_position,"Hard","Mayors Mansion","MainHero",true] call mission_init;
 	
-	diag_log 		format["WAI: [Mission:[Hero] Mayors Mansion]: Starting... %1",_position];
+	diag_log 		format["WAI: [Mission:[Hero] DaBethum's Mansion]: Starting... %1",_position];
 
 	//Setup the crate
 	_crate_type 	= crates_large call BIS_fnc_selectRandom;
@@ -55,9 +55,9 @@ if(isServer) then {
 		[_mission,_crate],		// mission number and crate
 		["assassinate",_mayor], // ["crate"], or ["kill"], or ["assassinate", _unitGroup],
 		[_baserunover], 		// cleanup objects
-		"The Mayor has gone rogue, go take him and his task force out to claim the black market weapons!",	// mission announcement
-		"The rogue mayor has been taken out, who will be the next Mayor of Cherno?",						// mission success
-		"Survivors were unable to capture the mansion, time is up"										// mission fail
+		"DaBethum has turned bandit! Go kill that swag bastard!",	// mission announcement
+		"DaBethum has been killed! I'll just respawn..",						// mission success
+		"Lolz! uRtehSUX. DaBethum got away."										// mission fail
 	] call mission_winorfail;
 
 	if(_complete) then {

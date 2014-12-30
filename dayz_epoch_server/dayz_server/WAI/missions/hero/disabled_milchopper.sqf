@@ -9,7 +9,7 @@ if(isServer) then {
 	_position		= [30] call find_position;
 	_mission		= [_position,"Medium",format["Disabled %1", _vehname],"MainHero",true] call mission_init;
 	
-	diag_log 		format["WAI: [Mission:[Hero] Disabled Military Chopper]: Starting... %1",_position];
+	diag_log 		format["WAI: [Mission:[Hero] Sniper Chopper]: Starting... %1",_position];
 
 	//Setup the crate
 	_crate_type 	= crates_medium call BIS_fnc_selectRandom;
@@ -42,9 +42,9 @@ if(isServer) then {
 		[_mission,_crate],	// mission number and crate
 		["crate"], 			// ["crate"], or ["kill",wai_kill_percent], or ["assassinate", _unitGroup],
 		[_vehicle], 		// cleanup objects
-		"A bandit helicopter is taking off with a crate of snipers! Save the cargo and take their chopper!",	// mission announcement
-		"Survivors have secured the armed chopper!",															// mission success
-		"Survivors did not secure the armed chopper in time"													// mission fail
+		"Hitman ran out of gas with his bandit buddies!  Go capture their sniper rifles and helicopter!",	// mission announcement
+		"Hitman bites the dust!",															// mission success
+		"You let Hitman get away.. wtf guys."													// mission fail
 	] call mission_winorfail;
 
 	if(_complete) then {

@@ -52,9 +52,9 @@ if(isServer) then {
 		[_mission,_crate],	// mission number and crate
 		["crate"], 			// ["crate"], or ["kill"], or ["assassinate", _unitGroup],
 		[_baserunover], 	// cleanup objects
-		"A jungle task force have set up a temporary encampment! Go and ambush it to make it yours!",	// mission announcement
-		"Survivors captured the base, HOOAH!!",															// mission success
-		"Survivors were unable to capture the base"														// mission fail
+		"A fortified bandit encampment has been setup, take them down!",	// mission announcement
+		"Heroes have captured the base, HOOAH!!",															// mission success
+		"I came, I saw, I ran away.."														// mission fail
 	] call mission_winorfail;
 
 	if(_complete) then {

@@ -28,9 +28,9 @@ if(isServer) then {
 		[_mission,_crate],			// mission number and crate
 		["kill"], 					// ["crate"], or ["kill"], or ["assassinate", _unitGroup],
 		[_baserunover], 			// cleanup objects
-		"Heroes are defending a broken down Ural! Check your map for the location!",	// mission announcement
-		"The supplies have been secured by bandits!",									// mission success
-		"Bandits failed to secure the supplies"											// mission fail
+		"Those stupid heroes have crashed their ural..",	// mission announcement
+		"The ural supplies have been secured by bandits!",									// mission success
+		"The heroes repaired their ural and got away!"											// mission fail
 	] call mission_winorfail;
 
 	if(_complete) then {
