@@ -22,6 +22,7 @@ enableSentences false;
 // DayZ Epoch config
 spawnShoremode = 1; // Default = 1 (on shore)
 spawnArea= 1500; // Default = 1500
+setTerrainGrid 50; //(Hi)12.5 or 25(Med) or 50(Low)
 
 MaxVehicleLimit = 300; // Default = 50
 MaxDynamicDebris = 500; // Default = 100
