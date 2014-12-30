@@ -2,7 +2,7 @@
 //Replace 111111111 with your ID. 
 SuperAdminList = [
 "76561197970173215", // <Your In-Game Name here>
-"999999999" // <S-Admin In-Game Name>
+"76561197976551446" // <S-Admin In-Game Name>
 ];
 AdminList = [
 "999999999", // <Admin In-Game Name>
