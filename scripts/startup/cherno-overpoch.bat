@@ -19,7 +19,7 @@ taskkill /fi "WINDOWTITLE eq ArmA 2 OA Console version 1.63 : port 2302"
 
 REM Running any maintenance that should happen
 echo Running maintenance stuff
-start /min C:\dayz\scripts\maintenance\dbfunctions.bat
+start /wait cmd /c C:\dayz\scripts\maintenance\dbfunctions.bat
 
 REM Now lets start the server
 echo Starting Dayz Overpoch Chernarus Server
