@@ -1,0 +1,8 @@
+This file is here so I can add this dir to GIT.
+
+This directory would contain all the binaries for the game/mods etc.
+
+Some folders are removed and then created higher up as a symlink
+MPMissions			-> C:\dayz\mission_files\MPMissions
+Battleye			-> C:\dayz\Battleye
+@DayZ_Epoch_Server\addons	-> C:\dayz\dayz_epoch_server
