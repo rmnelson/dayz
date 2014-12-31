@@ -24,8 +24,10 @@ spawnShoremode = 1; // Default = 1 (on shore)
 spawnArea= 1500; // Default = 1500
 setTerrainGrid 50; //(Hi)12.5 or 25(Med) or 50(Low)
 
+MaxHeliCrashes = 2; // Default = 5
 MaxVehicleLimit = 300; // Default = 50
-MaxDynamicDebris = 500; // Default = 100
+MaxDynamicDebris = 0; // Default = 100
+MaxAmmoBoxes = 0;
 dayz_MapArea = 14000; // Default = 10000
 dayz_maxLocalZombies = 30; // Default = 30 
 
@@ -50,7 +52,6 @@ DZE_R3F_WEIGHT = false;
 
 //Edit for custom loot
 DZE_MissionLootTable = true;
-
 //Bloodbag option?
 DZE_SelfTransfuse = true;
 
@@ -92,6 +93,17 @@ if (isServer) then {
 	
 	// Add trader citys
 	_nil = [] execVM "\z\addons\dayz_server\missions\DayZ_Epoch_11.Chernarus\mission.sqf";
+	_nil = [] execVM "\z\addons\dayz_server\missions\DayZ_Epoch_11.Chernarus\buildings\balota.sqf";
+	_nil = [] execVM "\z\addons\dayz_server\missions\DayZ_Epoch_11.Chernarus\buildings\basebor.sqf";
+	_nil = [] execVM "\z\addons\dayz_server\missions\DayZ_Epoch_11.Chernarus\buildings\basedichina.sqf";
+	_nil = [] execVM "\z\addons\dayz_server\missions\DayZ_Epoch_11.Chernarus\buildings\basenovy.sqf";
+	_nil = [] execVM "\z\addons\dayz_server\missions\DayZ_Epoch_11.Chernarus\buildings\northeast.sqf";
+	_nil = [] execVM "\z\addons\dayz_server\missions\DayZ_Epoch_11.Chernarus\buildings\northwest.sqf";
+	_nil = [] execVM "\z\addons\dayz_server\missions\DayZ_Epoch_11.Chernarus\buildings\bor.sqf";
+	_nil = [] execVM "\z\addons\dayz_server\missions\DayZ_Epoch_11.Chernarus\buildings\staroye.sqf";
+	_nil = [] execVM "\z\addons\dayz_server\missions\DayZ_Epoch_11.Chernarus\buildings\nwtrader.sqf";
+	_nil = [] execVM "\z\addons\dayz_server\missions\DayZ_Epoch_11.Chernarus\buildings\golden_river.sqf";
+	_nil = [] execVM "\z\addons\dayz_server\missions\DayZ_Epoch_11.Chernarus\buildings\quarantinezone.sqf";
 	_serverMonitor = 	[] execVM "\z\addons\dayz_code\system\server_monitor.sqf";
 };
 
