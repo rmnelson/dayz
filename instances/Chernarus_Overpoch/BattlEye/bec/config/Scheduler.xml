@@ -150,7 +150,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<runtime>001000</runtime> <!-- every 10 min-->
 		<day>1,2,3,4,5,6,7</day> <!--every day of the week-->
 		<loop>-1</loop> <!-- loop forever -->
-		<cmd>say -1 .:DoC:. Overpoch server            visit http://drinkinoutacups.com/</cmd> <!-- blast a message 30chars to a line -->
+		<cmd>say -1 .:DoC:. Overpoch server visit http://drinkinoutacups.com/</cmd> <!-- blast a message 30chars to a line -->
 	</job>
 	
 	<job id="1">
