@@ -14,10 +14,12 @@ REM tasklist /v /fi "WINDOWTITLE eq ArmA*"
 REM This is here cause its being called in BEC before the shutdown
 timeout 11
 REM This is to make sure it died, if not we are going to kill it
+echo Killing any old Arma OA 2 that are still up
 taskkill /fi "WINDOWTITLE eq ArmA 2 OA Console version 1.63 : port 2302"
 
 REM Running any maintenance that should happen
-C:\dayz\scripts\maintenance\dbfunctions.bat > NUL 2>1&
+echo Running maintenance stuff
+start /min C:\dayz\scripts\maintenance\dbfunctions.bat
 
 REM Now lets start the server
 echo Starting Dayz Overpoch Chernarus Server
