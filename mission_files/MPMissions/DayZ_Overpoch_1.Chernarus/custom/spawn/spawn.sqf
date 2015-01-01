@@ -97,6 +97,7 @@ if (spawnSelect == 40) exitWith {
 	{if (_vipUID == _x) then {_vipBase = _forEachIndex;};} forEach vipListBase;
 	_position = vipListBases select _vipBase;
 	if (haloSelect == 1) then {player setPosATL [_position select 0,_position select 1,1500];[player,1500] spawn BIS_fnc_halo;} else {player setPosATL _position;};
+	[] execVM "custom\Server_WelcomeCredits.sqf";
 };
 if (spawnSelect == 41) then {spawnSelect = floor (random 23)};
 
@@ -116,3 +117,4 @@ while {_findSpot && _counter < 20} do {
 };
 _position = [_position select 0,_position select 1,0];
 if (haloSelect == 1) then {player setPosATL [_position select 0,_position select 1,1500];[player,1500] spawn BIS_fnc_halo;} else {player setPosATL _position;};
+[] execVM "custom\Server_WelcomeCredits.sqf";
