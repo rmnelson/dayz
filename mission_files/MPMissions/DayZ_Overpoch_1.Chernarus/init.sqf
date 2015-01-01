@@ -31,6 +31,7 @@ MaxAmmoBoxes = 0;
 dayz_MapArea = 14000; // Default = 10000
 dayz_maxLocalZombies = 30; // Default = 30 
 
+dayz_spawnselection = 0;
 dayz_paraSpawn = false;
 
 dayz_minpos = -1; 
@@ -59,11 +60,11 @@ DZE_SelfTransfuse = true;
 DZE_ConfigTrader = true;
 
 //Default Loadout
-DefaultMagazines = ["RH_12Rnd_45cal_usp","RH_12Rnd_45cal_usp","ItemBandage","ItemBandage","ItemPainkiller","ItemMorphine","PartGeneric"];
-DefaultWeapons = ["ItemFlashlight","ItemMap","ItemToolbox","RH_uspm"];
-DefaultBackpack = "DZ_Patrol_Pack_EP1";
-DefaultBackpackWeapon = "";
-DefaultBackpackMagazines = [];
+//DefaultMagazines = ["RH_12Rnd_45cal_usp","RH_12Rnd_45cal_usp","ItemBandage","ItemBandage","ItemPainkiller","ItemMorphine","PartGeneric"];
+//DefaultWeapons = ["ItemFlashlight","ItemMap","ItemToolbox","RH_uspm"];
+//DefaultBackpack = "DZ_Patrol_Pack_EP1";
+//DefaultBackpackWeapon = "";
+//DefaultBackpackMagazines = [];
 
 EpochEvents = [["any","any","any","any",30,"crash_spawner"],["any","any","any","any",0,"crash_spawner"],["any","any","any","any",15,"supply_drop"]];
 dayz_fullMoonNights = true;
@@ -149,3 +150,10 @@ call compile preprocessFileLineNumbers "custom\suicide\init.sqf";
 
 //Safezones
 [] execVM "custom\safezones\dami_SZ.sqf";
+
+//Map Marker Script
+execVM "custom\mapmarker\MapMarkerTitling.sqf";
+
+//Random spawn
+waitUntil {!isNil "PVDZE_plr_LoginRecord"};
+if (!isDedicated && (dayzPlayerLogin2 select 2)) then {execVM "custom\spawn\spawn.sqf";};

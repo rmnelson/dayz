@@ -175,3 +175,9 @@ class RscTitles
 
 //snap pro 1.4.1
 #include "custom\snap_pro\snappoints.hpp"
+
+//spawn
+#include "custom\spawn\defines.hpp"
+#include "custom\spawn\class.hpp"
+#include "custom\spawn\halo.hpp"
+#include "custom\spawn\spawn.hpp"
