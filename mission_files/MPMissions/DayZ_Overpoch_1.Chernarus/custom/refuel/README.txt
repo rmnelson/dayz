@@ -1,1 +1,0 @@
-http://opendayz.net/threads/working-repair-and-refueling-stations.12339/

@@ -151,8 +151,8 @@ if (!isDedicated) then {
 	//Lights
 	//[false,12] execVM "\z\addons\dayz_code\compile\local_lights_init.sqf";
 	
-	//Refuel & Repair
-	[] execVM "custom\refuel\repairactions.sqf";
+	//Refuel & Repair & Rearm
+	execVM "custom\service_point\service_point.sqf";
 	
 	//Remote messages
 	_nil = [] execVM "custom\remote_messages\remote_messages.sqf";
