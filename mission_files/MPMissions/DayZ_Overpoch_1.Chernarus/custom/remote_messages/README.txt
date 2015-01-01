@@ -1,0 +1,1 @@
+http://opendayz.net/threads/server-side-hint-globalchat-fix-resec.13170/

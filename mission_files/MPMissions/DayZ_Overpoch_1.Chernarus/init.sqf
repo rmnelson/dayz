@@ -66,7 +66,27 @@ DZE_ConfigTrader = true;
 //DefaultBackpackWeapon = "";
 //DefaultBackpackMagazines = [];
 
-EpochEvents = [["any","any","any","any",30,"crash_spawner"],["any","any","any","any",0,"crash_spawner"],["any","any","any","any",15,"supply_drop"]];
+EpochEvents = [
+["any","any","any","any",30,"crash_spawner"],
+["any","any","any","any",0,"crash_spawner"],
+["any","any","any","any",15,"supply_drop"],
+["any","any","any","any",10,"Military"],
+["any","any","any","any",20,"Military"],
+["any","any","any","any",40,"Military"],
+["any","any","any","any",55,"Military"],
+["any","any","any","any",15,"Treasure"],
+["any","any","any","any",25,"Treasure"],
+["any","any","any","any",35,"Treasure"],
+["any","any","any","any",5,"Supplyitems"],
+["any","any","any","any",25,"Supplyitems"],
+["any","any","any","any",40,"Supplyitems"],
+["any","any","any","any",45,"Supplyitems"],
+["any","any","any","any",10,"Construction"],
+["any","any","any","any",30,"Construction"],
+["any","any","any","any",47,"Construction"],
+["any","any","any","any",55,"Construction"]
+];
+
 dayz_fullMoonNights = true;
 
 //Load in compiled functions
@@ -133,6 +153,9 @@ if (!isDedicated) then {
 	
 	//Refuel & Repair
 	[] execVM "custom\refuel\repairactions.sqf";
+	
+	//Remote messages
+	_nil = [] execVM "custom\remote_messages\remote_messages.sqf";
 };
 
 #include "\z\addons\dayz_code\system\REsec.sqf"
