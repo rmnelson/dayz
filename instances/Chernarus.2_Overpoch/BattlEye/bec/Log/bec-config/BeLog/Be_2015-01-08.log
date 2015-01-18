@@ -1,0 +1,995 @@
+﻿00:03:37 : Rcon client logging in
+﻿00:03:37 : RCon admin #0 (127.0.0.1:64505) logged in
+﻿00:03:47 : RCon admin #0: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿00:04:53 : RCon admin #1 (24.7.165.67:58461) logged in
+﻿00:05:03 : Player #0 Mr. Spock (24.7.165.67:2304) connected
+﻿00:05:04 : Player #0 Mr. Spock - Legacy GUID: fdd59afb221ccbac5728bf8aa08224b2
+﻿00:05:04 : Player #0 Mr. Spock - GUID: 4af32554a2d84a4b2aededf38728bf33 (unverified)
+﻿00:05:04 : RCon admin #0: (Global) BEC : Super Admin Mr. Spock Connected
+﻿00:05:05 : Verified GUID (4af32554a2d84a4b2aededf38728bf33) of player #0 Mr. Spock
+﻿00:06:37 : Player #1 MasterChief (50.54.77.96:2304) connected
+﻿00:06:38 : Player #1 MasterChief - GUID: 9f05d38b2e454829aafa8cc12b8371a0 (unverified)
+﻿00:06:38 : Verified GUID (9f05d38b2e454829aafa8cc12b8371a0) of player #1 MasterChief
+﻿00:06:39 : Player #1 MasterChief - Legacy GUID: bf2e3cc1fe99153ef90e6345cb37e484
+﻿00:07:48 : Player #0 Mr. Spock disconnected
+﻿00:08:37 : RCon admin #0: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am EST
+﻿00:13:02 : Player #0 DaBethum (73.175.154.94:2304) connected
+﻿00:13:03 : Player #0 DaBethum - GUID: 742b776f3e650847db12c4b20a384d86 (unverified)
+﻿00:13:03 : Verified GUID (742b776f3e650847db12c4b20a384d86) of player #0 DaBethum
+﻿00:13:04 : Player #0 DaBethum - Legacy GUID: ddd0a79f185c67916d68bdd6c94aaec3
+﻿00:13:47 : RCon admin #0: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿00:14:26 : Player #2 Flames (24.168.110.94:2304) connected
+﻿00:14:27 : Player #2 Flames - GUID: dbb2a0b1963ae06559c58893d9efbc04 (unverified)
+﻿00:14:27 : Verified GUID (dbb2a0b1963ae06559c58893d9efbc04) of player #2 Flames
+﻿00:14:28 : Player #2 Flames - Legacy GUID: b53be680a541a7f7133baaf55404a8a0
+﻿00:15:01 : Player #3 Mr. Spock (24.7.165.67:2304) connected
+﻿00:15:02 : Player #3 Mr. Spock - GUID: 4af32554a2d84a4b2aededf38728bf33 (unverified)
+﻿00:15:02 : RCon admin #0: (Global) BEC : Super Admin Mr. Spock Connected
+﻿00:15:02 : Verified GUID (4af32554a2d84a4b2aededf38728bf33) of player #3 Mr. Spock
+﻿00:15:03 : Player #3 Mr. Spock - Legacy GUID: fdd59afb221ccbac5728bf8aa08224b2
+﻿00:16:40 : Player #2 Flames disconnected
+﻿00:17:21 : Player #2 Flames (24.168.110.94:2304) connected
+﻿00:17:23 : Player #2 Flames - GUID: dbb2a0b1963ae06559c58893d9efbc04 (unverified)
+﻿00:17:23 : Verified GUID (dbb2a0b1963ae06559c58893d9efbc04) of player #2 Flames
+﻿00:17:25 : Player #2 Flames - Legacy GUID: b53be680a541a7f7133baaf55404a8a0
+﻿00:18:37 : RCon admin #0: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am EST
+﻿00:23:42 : RCon admin #1: (Global) [DaRT] DaBethum is in charge Chief!
+﻿00:23:47 : RCon admin #0: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿00:24:24 : RCon admin #1: (Global) [DaRT] yeah fizz is ok
+﻿00:24:44 : RCon admin #1: (Global) [DaRT] he had a surgery
+﻿00:28:37 : RCon admin #0: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am EST
+﻿00:33:47 : RCon admin #0: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿00:38:37 : RCon admin #0: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am EST
+﻿00:43:47 : RCon admin #0: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿00:48:37 : RCon admin #0: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am EST
+﻿00:53:47 : RCon admin #0: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿00:58:37 : RCon admin #0: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am EST
+﻿01:00:00 : RCon admin #0: (Global) .:DoC:. Server restarts in 2 hours
+﻿01:03:47 : RCon admin #0: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿01:08:37 : RCon admin #0: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am EST
+﻿01:10:57 : Player #4 dad (24.239.58.100:2304) connected
+﻿01:10:58 : Player #4 dad - GUID: a1c207391eb02db8acaa6d0ef3dbaa68 (unverified)
+﻿01:10:59 : Verified GUID (a1c207391eb02db8acaa6d0ef3dbaa68) of player #4 dad
+﻿01:10:59 : Player #4 dad - Owner GUID: 1f1bd295ebaee9b0d898f3412f9e79f4
+﻿01:10:59 : Player #4 dad - Legacy GUID: 1f47515801f344af4ef4983fa0890d1b
+﻿01:13:47 : RCon admin #0: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿01:23:47 : RCon admin #0: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿01:30:59 : Player #5 LawnOfLegend (75.117.57.166:2304) connected
+﻿01:31:00 : Player #5 LawnOfLegend - GUID: 56952554e7f18db484f16a4adaf72def (unverified)
+﻿01:31:00 : Verified GUID (56952554e7f18db484f16a4adaf72def) of player #5 LawnOfLegend
+﻿01:31:01 : Player #5 LawnOfLegend - Legacy GUID: a25d52da355be06004bfe87de9c8590b
+﻿01:33:47 : RCon admin #0: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿01:37:51 : Player #6 OfficeSniper (96.21.145.125:2304) connected
+﻿01:37:53 : Player #6 OfficeSniper - GUID: aea7894e5104ddcba15809e5bddd9756 (unverified)
+﻿01:37:53 : Verified GUID (aea7894e5104ddcba15809e5bddd9756) of player #6 OfficeSniper
+﻿01:37:54 : Player #6 OfficeSniper - Legacy GUID: 0dcf3f23bf0d0e3e8b7c8b6384c86bb8
+﻿01:40:24 : Player #6 OfficeSniper - Legacy GUID: 0dcf3f23bf0d0e3e8b7c8b6384c86bb8
+﻿01:41:28 : Player #7 Corey (66.222.179.48:2304) connected
+﻿01:41:29 : Player #7 Corey - GUID: b0c24ef1369e9ceaa31a725a618b5ef5 (unverified)
+﻿01:41:30 : Verified GUID (b0c24ef1369e9ceaa31a725a618b5ef5) of player #7 Corey
+﻿01:41:30 : Player #7 Corey disconnected
+﻿01:42:40 : Player #7 Make Poop (96.41.145.162:2304) connected
+﻿01:42:41 : Player #7 Make Poop - GUID: fe1efc7b650498c39f155a67258db0d5 (unverified)
+﻿01:42:42 : Verified GUID (fe1efc7b650498c39f155a67258db0d5) of player #7 Make Poop
+﻿01:42:42 : Player #7 Make Poop disconnected
+﻿01:43:27 : Player #7 Cpt.Slaymore (73.42.159.100:2304) connected
+﻿01:43:28 : Player #7 Cpt.Slaymore - GUID: e341d0f4abebe864d07d36a0a8cec3c5 (unverified)
+﻿01:43:29 : Verified GUID (e341d0f4abebe864d07d36a0a8cec3c5) of player #7 Cpt.Slaymore
+﻿01:43:29 : Player #7 Cpt.Slaymore disconnected
+﻿01:43:47 : RCon admin #0: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿01:43:53 : Player #7 Omg (67.161.100.48:2304) connected
+﻿01:43:54 : Player #7 Omg - GUID: 7d72704df5dec59c837e121b2338d310 (unverified)
+﻿01:43:54 : Verified GUID (7d72704df5dec59c837e121b2338d310) of player #7 Omg
+﻿01:43:54 : Player #7 Omg disconnected
+﻿01:49:58 : Player #3 Mr. Spock disconnected
+﻿01:53:47 : RCon admin #0: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿02:00:00 : RCon admin #0: (Global) .:DoC:. Server restarts in 1 hours
+﻿02:01:22 : Player #0 DaBethum disconnected
+﻿02:01:50 : Player #0 DaBethum (73.175.154.94:2304) connected
+﻿02:01:51 : Player #0 DaBethum - GUID: 742b776f3e650847db12c4b20a384d86 (unverified)
+﻿02:01:51 : Verified GUID (742b776f3e650847db12c4b20a384d86) of player #0 DaBethum
+﻿02:01:52 : Player #0 DaBethum - Legacy GUID: ddd0a79f185c67916d68bdd6c94aaec3
+﻿02:02:09 : Player #3 Wacky Gaddafi [NO-4] (172.218.230.63:2304) connected
+﻿02:02:11 : Player #3 Wacky Gaddafi [NO-4] disconnected
+﻿02:02:54 : Player #3 Daniel (72.0.173.52:2305) connected
+﻿02:02:56 : Player #3 Daniel - GUID: 7020df65211220389ef1535d8b6f4d61 (unverified)
+﻿02:02:56 : Verified GUID (7020df65211220389ef1535d8b6f4d61) of player #3 Daniel
+﻿02:02:57 : Player #3 Daniel - Legacy GUID: cba3b538c2749bb37d1cc083df845302
+﻿02:02:57 : Player #3 Daniel disconnected
+﻿02:03:01 : Player #3 Daniel (72.0.173.52:2305) connected
+﻿02:03:02 : Player #3 Daniel - GUID: 7020df65211220389ef1535d8b6f4d61 (unverified)
+﻿02:03:03 : Verified GUID (7020df65211220389ef1535d8b6f4d61) of player #3 Daniel
+﻿02:03:03 : Player #3 Daniel - Legacy GUID: cba3b538c2749bb37d1cc083df845302
+﻿02:03:03 : Player #3 Daniel disconnected
+﻿02:03:34 : Player #3 XxWingsOfFuryxX (173.218.2.244:3559) connected
+﻿02:03:35 : Player #3 XxWingsOfFuryxX - GUID: cfb6d47b3a9e2f8834cebf9c72f0900c (unverified)
+﻿02:03:36 : Verified GUID (cfb6d47b3a9e2f8834cebf9c72f0900c) of player #3 XxWingsOfFuryxX
+﻿02:03:36 : Player #3 XxWingsOfFuryxX - Legacy GUID: 2512716e7b10b86a775999ce808dca6e
+﻿02:03:47 : RCon admin #0: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿02:09:10 : Player #6 OfficeSniper disconnected
+﻿02:13:00 : Player #6 Mr. Spock (24.7.165.67:2304) connected
+﻿02:13:01 : Player #6 Mr. Spock - GUID: 4af32554a2d84a4b2aededf38728bf33 (unverified)
+﻿02:13:01 : RCon admin #0: (Global) BEC : Super Admin Mr. Spock Connected
+﻿02:13:01 : Verified GUID (4af32554a2d84a4b2aededf38728bf33) of player #6 Mr. Spock
+﻿02:13:02 : Player #6 Mr. Spock - Legacy GUID: fdd59afb221ccbac5728bf8aa08224b2
+﻿02:13:47 : RCon admin #0: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿02:14:43 : RCon admin #2 (24.7.165.67:52831) logged in
+﻿02:18:25 : RCon admin #1 (24.7.165.67:54143) logged in
+﻿02:20:10 : RCon admin #2 (24.7.165.67:57360) logged in
+﻿02:20:48 : RCon admin #1 (24.7.165.67:53718) logged in
+﻿02:22:31 : Player #1 MasterChief disconnected
+﻿02:22:39 : Player #1 MasterChief (50.54.77.96:2304) connected
+﻿02:22:40 : Player #1 MasterChief - GUID: 9f05d38b2e454829aafa8cc12b8371a0 (unverified)
+﻿02:22:41 : Verified GUID (9f05d38b2e454829aafa8cc12b8371a0) of player #1 MasterChief
+﻿02:22:42 : Player #1 MasterChief - Legacy GUID: bf2e3cc1fe99153ef90e6345cb37e484
+﻿02:23:47 : RCon admin #0: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿02:30:00 : RCon admin #0: (Global) .:DoC:. Server restarts in 30 minutes
+﻿02:33:47 : RCon admin #0: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿02:43:47 : RCon admin #0: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿02:45:00 : RCon admin #0: (Global) .:DoC:. Server restarts in 15 minutes
+﻿02:50:00 : RCon admin #0: (Global) .:DoC:. Server restarts in 10 minutes
+﻿02:53:47 : RCon admin #0: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿02:55:00 : RCon admin #0: (Global) .:DoC:. Server restarts in 5 minutes. Stop all vehicles and get out!
+﻿02:59:00 : RCon admin #0: (Global) .:DoC:. Server restarts in 1 minutes. Hit ESC to save your character
+﻿03:00:02 : Lost Connection!
+﻿03:00:02 : Closing socket & exiting!
+﻿00:00:01 : Lost Connection!
+﻿00:00:01 : Closing socket & exiting!
+﻿00:14:16 : Rcon client logging in
+﻿00:14:16 : RCon admin #1 (127.0.0.1:55981) logged in
+﻿00:14:26 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿00:14:34 : Player #0 Mr. Spock (24.7.165.67:2304) connected
+﻿00:14:35 : Player #0 Mr. Spock - GUID: 4af32554a2d84a4b2aededf38728bf33 (unverified)
+﻿00:14:35 : Verified GUID (4af32554a2d84a4b2aededf38728bf33) of player #0 Mr. Spock
+﻿00:14:35 : Player #0 Mr. Spock - Legacy GUID: fdd59afb221ccbac5728bf8aa08224b2
+﻿00:14:52 : Player #0 Mr. Spock disconnected
+﻿00:14:56 : Player #0 Mr. Spock (24.7.165.67:2304) connected
+﻿00:14:57 : Player #0 Mr. Spock - GUID: 4af32554a2d84a4b2aededf38728bf33 (unverified)
+﻿00:14:58 : Verified GUID (4af32554a2d84a4b2aededf38728bf33) of player #0 Mr. Spock
+﻿00:14:58 : Player #0 Mr. Spock - Legacy GUID: fdd59afb221ccbac5728bf8aa08224b2
+﻿00:15:32 : Player #1 Kazooie (50.174.136.170:2304) connected
+﻿00:15:33 : Player #1 Kazooie - GUID: 11de1aa4ed06d9afee0bebe4ce09858c (unverified)
+﻿00:15:33 : Verified GUID (11de1aa4ed06d9afee0bebe4ce09858c) of player #1 Kazooie
+﻿00:15:34 : Player #1 Kazooie - Legacy GUID: 6b0170e3dc5b25a69b60d0eff5bfee16
+﻿00:16:28 : No Valid response. Trying to reconnect.!
+﻿00:16:28 : Rcon client logging in
+﻿00:17:16 : No Valid response. Trying to reconnect.!
+﻿00:17:16 : Rcon client logging in
+﻿00:17:16 : RCon admin #1 (127.0.0.1:55981) logged in
+﻿00:19:16 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿00:24:26 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿00:29:16 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿00:34:26 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿00:39:16 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿00:44:26 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿00:49:16 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿00:54:26 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿00:59:16 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿01:00:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 2 hours
+﻿01:04:27 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿01:09:17 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿01:14:27 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿01:19:16 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿01:22:54 : Player #0 Mr. Spock disconnected
+﻿01:23:52 : Player #1 Kazooie disconnected
+﻿01:24:26 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿01:34:26 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿01:44:26 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿01:54:26 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿02:00:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 1 hours
+﻿02:04:26 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿02:14:26 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿02:24:26 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿02:30:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 30 minutes
+﻿02:34:26 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿02:42:53 : Player #0 SandReaper (71.199.99.212:2304) connected
+﻿02:42:54 : Player #0 SandReaper - GUID: 7b3b5d5f353cf7676aab6e240591671a (unverified)
+﻿02:42:54 : Verified GUID (7b3b5d5f353cf7676aab6e240591671a) of player #0 SandReaper
+﻿02:42:55 : Player #0 SandReaper - Legacy GUID: e924ca2ad1b201b25a900fffc98c1ac5
+﻿02:44:26 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿02:45:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 15 minutes
+﻿02:50:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 10 minutes
+﻿02:54:26 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿02:55:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 5 minutes. Stop all vehicles and get out!
+﻿02:56:02 : Player #0 SandReaper disconnected
+﻿02:59:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 1 minutes. Hit ESC to save your character
+﻿03:00:02 : Lost Connection!
+﻿03:00:02 : Closing socket & exiting!
+﻿03:01:21 : Rcon client logging in
+﻿03:01:22 : RCon admin #1 (127.0.0.1:58453) logged in
+﻿03:01:32 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿03:03:52 : Player #0 SandReaper (71.199.99.212:2304) connected
+﻿03:03:54 : Player #0 SandReaper - Legacy GUID: e924ca2ad1b201b25a900fffc98c1ac5
+﻿03:03:54 : Player #0 SandReaper - GUID: 7b3b5d5f353cf7676aab6e240591671a (unverified)
+﻿03:03:54 : Verified GUID (7b3b5d5f353cf7676aab6e240591671a) of player #0 SandReaper
+﻿03:06:23 : No Valid response. Trying to reconnect.!
+﻿03:06:23 : Rcon client logging in
+﻿03:06:23 : RCon admin #1 (127.0.0.1:58453) logged in
+﻿03:11:32 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿03:16:22 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿03:21:32 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿03:26:22 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿03:31:32 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿03:36:22 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿03:41:32 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿03:46:22 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿03:51:32 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿03:56:22 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿04:00:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 2 hours
+﻿04:01:32 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿04:06:22 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿04:08:52 : Player #1 <[IDC]> Revixy (89.150.152.22:2304) connected
+﻿04:08:55 : Player #1 <[IDC]> Revixy - GUID: 384e3dc7eed8d13c94b11b20f2e8ca46 (unverified)
+﻿04:08:57 : Player #1 <[IDC]> Revixy - Legacy GUID: fbbecc0bfe5b93f3bd2be72b308e26ad
+﻿04:08:58 : Verified GUID (384e3dc7eed8d13c94b11b20f2e8ca46) of player #1 <[IDC]> Revixy
+﻿04:11:32 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿04:14:32 : Player #2 dad (24.239.58.100:2304) connected
+﻿04:14:33 : Player #2 dad - GUID: a1c207391eb02db8acaa6d0ef3dbaa68 (unverified)
+﻿04:14:33 : Verified GUID (a1c207391eb02db8acaa6d0ef3dbaa68) of player #2 dad
+﻿04:14:34 : Player #2 dad - Owner GUID: 1f1bd295ebaee9b0d898f3412f9e79f4
+﻿04:14:34 : Player #2 dad - Legacy GUID: 1f47515801f344af4ef4983fa0890d1b
+﻿04:21:32 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿04:25:53 : Player #3 LawnOfLegend (75.117.56.57:2304) connected
+﻿04:25:54 : Player #3 LawnOfLegend - GUID: 56952554e7f18db484f16a4adaf72def (unverified)
+﻿04:25:54 : Verified GUID (56952554e7f18db484f16a4adaf72def) of player #3 LawnOfLegend
+﻿04:25:55 : Player #3 LawnOfLegend - Legacy GUID: a25d52da355be06004bfe87de9c8590b
+﻿04:31:32 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿04:41:32 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿04:47:02 : RCon admin #2 (24.7.165.67:52872) logged in
+﻿04:50:28 : RCon admin #0 (24.7.165.67:53267) logged in
+﻿04:51:32 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿05:00:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 1 hours
+﻿05:01:32 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿05:11:32 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿05:21:32 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿05:24:03 : RCon admin #2 (24.7.165.67:62480) logged in
+﻿05:27:06 : Player #3 LawnOfLegend disconnected
+﻿05:27:34 : Player #3 DaBethum (73.175.154.94:2304) connected
+﻿05:27:36 : Player #3 DaBethum - GUID: 742b776f3e650847db12c4b20a384d86 (unverified)
+﻿05:27:36 : Verified GUID (742b776f3e650847db12c4b20a384d86) of player #3 DaBethum
+﻿05:27:37 : Player #3 DaBethum - Legacy GUID: ddd0a79f185c67916d68bdd6c94aaec3
+﻿05:30:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 30 minutes
+﻿05:31:32 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿05:41:32 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿05:45:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 15 minutes
+﻿05:45:31 : Player #4 Jamesman568 (216.146.247.27:2304) connected
+﻿05:45:32 : Player #4 Jamesman568 - GUID: c941724454345effd1f03392bea6cb5e (unverified)
+﻿05:45:32 : Player #4 Jamesman568 (c941724454345effd1f03392bea6cb5e) has been kicked by BattlEye: Admin Kick (BEC : Your player name can not contain any of the chars:{}()0123)
+﻿05:46:09 : Player #4 James (216.146.247.27:2304) connected
+﻿05:46:11 : Player #4 James - GUID: c941724454345effd1f03392bea6cb5e (unverified)
+﻿05:46:11 : Player #4 James - Legacy GUID: 04297e0d0018b8ddffc5e9d5b3b17c47
+﻿05:46:12 : Player #4 James (c941724454345effd1f03392bea6cb5e) has been kicked by BattlEye: Global Ban #04297e
+﻿05:47:09 : Player #4 James (216.146.247.27:2304) connected
+﻿05:47:10 : Player #4 James - GUID: d9db733291c8715c9379d3b404ff8ab4 (unverified)
+﻿05:47:10 : Verified GUID (d9db733291c8715c9379d3b404ff8ab4) of player #4 James
+﻿05:47:11 : Player #4 James - Legacy GUID: 009ee2bcf0711bfd4817726bbb9bc102
+﻿05:47:11 : Player #4 James disconnected
+﻿05:48:07 : Player #4 James (216.146.247.27:2304) connected
+﻿05:48:08 : Player #4 James - GUID: d9db733291c8715c9379d3b404ff8ab4 (unverified)
+﻿05:48:08 : Verified GUID (d9db733291c8715c9379d3b404ff8ab4) of player #4 James
+﻿05:48:09 : Player #4 James disconnected
+﻿05:50:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 10 minutes
+﻿05:51:32 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿05:55:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 5 minutes. Stop all vehicles and get out!
+﻿05:56:10 : RCon admin #0 (24.7.165.67:51186) logged in
+﻿05:56:52 : Player #1 <[IDC]> Revixy disconnected
+﻿05:57:19 : Player #0 SandReaper disconnected
+﻿05:57:51 : Player #2 dad disconnected
+﻿05:59:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 1 minutes. Hit ESC to save your character
+﻿06:00:01 : Lost Connection!
+﻿06:00:01 : Closing socket & exiting!
+﻿06:01:13 : Rcon client logging in
+﻿06:01:13 : RCon admin #0 (127.0.0.1:62771) logged in
+﻿06:01:16 : Player #0 SandReaper (71.199.99.212:2304) connected
+﻿06:01:17 : Player #0 SandReaper - Legacy GUID: e924ca2ad1b201b25a900fffc98c1ac5
+﻿06:01:18 : Player #0 SandReaper - GUID: 7b3b5d5f353cf7676aab6e240591671a (unverified)
+﻿06:01:18 : Verified GUID (7b3b5d5f353cf7676aab6e240591671a) of player #0 SandReaper
+﻿06:01:18 : RCon admin #1 (24.7.165.67:56939) logged in
+﻿06:01:23 : RCon admin #0: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿06:01:44 : Player #1 DaBethum (73.175.154.94:2304) connected
+﻿06:01:45 : Player #1 DaBethum - GUID: 742b776f3e650847db12c4b20a384d86 (unverified)
+﻿06:01:45 : Verified GUID (742b776f3e650847db12c4b20a384d86) of player #1 DaBethum
+﻿06:01:46 : Player #1 DaBethum - Legacy GUID: ddd0a79f185c67916d68bdd6c94aaec3
+﻿06:03:39 : No Valid response. Trying to reconnect.!
+﻿06:03:39 : Rcon client logging in
+﻿06:03:39 : RCon admin #1 (127.0.0.1:62771) logged in
+﻿06:04:24 : Player #2 dad (24.239.58.100:2304) connected
+﻿06:04:25 : Player #2 dad - GUID: a1c207391eb02db8acaa6d0ef3dbaa68 (unverified)
+﻿06:04:25 : Verified GUID (a1c207391eb02db8acaa6d0ef3dbaa68) of player #2 dad
+﻿06:04:25 : Player #2 dad - Owner GUID: 1f1bd295ebaee9b0d898f3412f9e79f4
+﻿06:04:26 : Player #2 dad - Legacy GUID: 1f47515801f344af4ef4983fa0890d1b
+﻿06:06:13 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿06:08:03 : Player #3 Euijung (175.210.189.111:2304) connected
+﻿06:08:04 : Player #3 Euijung - GUID: 1a979887703f3f3bf66e4430d5fb9d58 (unverified)
+﻿06:08:05 : Verified GUID (1a979887703f3f3bf66e4430d5fb9d58) of player #3 Euijung
+﻿06:08:05 : Player #3 Euijung - Legacy GUID: 142ec91d670aa8dafc5635adeae77248
+﻿06:08:06 : Player #3 Euijung disconnected
+﻿06:10:21 : Player #3 <[IDC]> Revixy (89.150.152.22:2304) connected
+﻿06:10:24 : Player #3 <[IDC]> Revixy - GUID: 384e3dc7eed8d13c94b11b20f2e8ca46 (unverified)
+﻿06:10:25 : Verified GUID (384e3dc7eed8d13c94b11b20f2e8ca46) of player #3 <[IDC]> Revixy
+﻿06:10:25 : Player #3 <[IDC]> Revixy - Legacy GUID: fbbecc0bfe5b93f3bd2be72b308e26ad
+﻿06:11:23 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿06:12:59 : RCon admin #2 (24.7.165.67:54508) logged in
+﻿06:16:13 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿06:21:23 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿06:26:13 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿06:31:23 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿06:36:13 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿06:41:23 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿06:46:13 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿06:50:06 : Player #4 <[IDC]> Chuckles (66.59.98.21:2304) connected
+﻿06:50:10 : Player #4 <[IDC]> Chuckles - GUID: 07d594f9e5838e952ec82575b73eeecd (unverified)
+﻿06:50:10 : Player #4 <[IDC]> Chuckles - Legacy GUID: b9da002a07cbdf1eacaf4793dd4ce33c
+﻿06:50:10 : Verified GUID (07d594f9e5838e952ec82575b73eeecd) of player #4 <[IDC]> Chuckles
+﻿06:50:17 : Player #4 <[IDC]> Chuckles disconnected
+﻿06:50:43 : RCon admin #0 (24.7.165.67:56630) logged in
+﻿06:51:23 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿06:52:36 : Player #4 <[IDC]> Chuckles (66.59.98.21:2304) connected
+﻿06:52:37 : Player #4 <[IDC]> Chuckles - GUID: 07d594f9e5838e952ec82575b73eeecd (unverified)
+﻿06:52:37 : Verified GUID (07d594f9e5838e952ec82575b73eeecd) of player #4 <[IDC]> Chuckles
+﻿06:52:38 : Player #4 <[IDC]> Chuckles - Legacy GUID: b9da002a07cbdf1eacaf4793dd4ce33c
+﻿06:52:39 : RCon admin #2 (24.7.165.67:55817) logged in
+﻿06:56:13 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿06:56:37 : RCon admin #1: (To <[IDC]> Chuckles) BEC : You have about 60 seconds left to join the mission.
+﻿07:00:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 2 hours
+﻿07:01:23 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿07:06:13 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿07:11:23 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿07:12:24 : RCon admin #0 (24.7.165.67:53033) logged in
+﻿07:16:04 : Player #5 Head of the INS (173.78.73.172:2304) connected
+﻿07:16:05 : Player #5 Head of the INS - GUID: 7fd7de1f7118ed93849651b908c33be5 (unverified)
+﻿07:16:05 : Verified GUID (7fd7de1f7118ed93849651b908c33be5) of player #5 Head of the INS
+﻿07:16:06 : Player #5 Head of the INS - Legacy GUID: 7ae16dda85eca90ef4ced95b08987664
+﻿07:21:23 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿07:23:43 : Player #6 Yuri Lowell (190.192.111.27:2304) connected
+﻿07:23:45 : Player #6 Yuri Lowell - GUID: 14eb8f74b4916f986629b82a53634fde (unverified)
+﻿07:23:46 : Player #6 Yuri Lowell - Legacy GUID: c99d1769d8878edb7d32676f1f0f5496
+﻿07:23:58 : Verified GUID (14eb8f74b4916f986629b82a53634fde) of player #6 Yuri Lowell
+﻿07:25:47 : RCon admin #2 (24.7.165.67:52429) logged in
+﻿07:26:17 : Player #6 Yuri Lowell - Legacy GUID: c99d1769d8878edb7d32676f1f0f5496
+﻿07:26:17 : Player #5 Head of the INS disconnected
+﻿07:28:23 : Player #6 Yuri Lowell disconnected
+﻿07:30:49 : Player #5 jetBlue (73.2.122.245:2304) connected
+﻿07:30:50 : Player #5 jetBlue - GUID: 709bab312aa3844f20aa06b352f9109f (unverified)
+﻿07:30:51 : Verified GUID (709bab312aa3844f20aa06b352f9109f) of player #5 jetBlue
+﻿07:30:51 : Player #5 jetBlue - Legacy GUID: 57584c345b9fcf06bdf29c408e6bfe3f
+﻿07:31:23 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿07:39:27 : Player #6 White Dickhurst (173.66.95.182:3087) connected
+﻿07:39:29 : Player #6 White Dickhurst - GUID: 61ef7f4783560994ef1c994138e7378d (unverified)
+﻿07:39:29 : Verified GUID (61ef7f4783560994ef1c994138e7378d) of player #6 White Dickhurst
+﻿07:39:29 : Player #6 White Dickhurst - Legacy GUID: 22aec8a1ba228a827dcea2a2e2b1bbb2
+﻿07:39:30 : Player #6 White Dickhurst disconnected
+﻿07:39:39 : Player #6 White Dickhurst (173.66.95.182:3087) connected
+﻿07:39:41 : Player #6 White Dickhurst - GUID: 61ef7f4783560994ef1c994138e7378d (unverified)
+﻿07:39:41 : Verified GUID (61ef7f4783560994ef1c994138e7378d) of player #6 White Dickhurst
+﻿07:39:41 : Player #6 White Dickhurst - Legacy GUID: 22aec8a1ba228a827dcea2a2e2b1bbb2
+﻿07:39:42 : Player #6 White Dickhurst disconnected
+﻿07:40:53 : Player #6 White Dickhurst (173.66.95.182:3087) connected
+﻿07:40:55 : Player #6 White Dickhurst - GUID: 61ef7f4783560994ef1c994138e7378d (unverified)
+﻿07:40:55 : Verified GUID (61ef7f4783560994ef1c994138e7378d) of player #6 White Dickhurst
+﻿07:40:56 : Player #6 White Dickhurst - Legacy GUID: 22aec8a1ba228a827dcea2a2e2b1bbb2
+﻿07:40:56 : Player #6 White Dickhurst disconnected
+﻿07:41:23 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿07:41:59 : RCon admin #0 (24.7.165.67:59489) logged in
+﻿07:42:37 : Player #6 White Dickhurst (173.66.95.182:3087) connected
+﻿07:42:39 : Player #6 White Dickhurst - GUID: 61ef7f4783560994ef1c994138e7378d (unverified)
+﻿07:42:39 : Player #6 White Dickhurst - Legacy GUID: 22aec8a1ba228a827dcea2a2e2b1bbb2
+﻿07:42:40 : Verified GUID (61ef7f4783560994ef1c994138e7378d) of player #6 White Dickhurst
+﻿07:42:40 : Player #6 White Dickhurst disconnected
+﻿07:44:18 : Player #6 White Dickhurst (173.66.95.182:3053) connected
+﻿07:44:20 : Player #6 White Dickhurst - GUID: 61ef7f4783560994ef1c994138e7378d (unverified)
+﻿07:44:21 : Verified GUID (61ef7f4783560994ef1c994138e7378d) of player #6 White Dickhurst
+﻿07:44:21 : Player #6 White Dickhurst - Legacy GUID: 22aec8a1ba228a827dcea2a2e2b1bbb2
+﻿07:44:21 : Player #6 White Dickhurst disconnected
+﻿07:51:26 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿07:51:52 : RCon admin #2 (24.7.165.67:52393) logged in
+﻿07:58:39 : RCon admin #0 (24.7.165.67:55071) logged in
+﻿08:00:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 1 hours
+﻿08:01:23 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿08:11:23 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿08:21:23 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿08:30:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 30 minutes
+﻿08:31:23 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿08:33:08 : Player #6 SGT_WHISKEY (72.208.1.141:2304) connected
+﻿08:33:09 : Player #6 SGT_WHISKEY - GUID: f295cb70440427a48e67594762e3c78d (unverified)
+﻿08:33:09 : Verified GUID (f295cb70440427a48e67594762e3c78d) of player #6 SGT_WHISKEY
+﻿08:33:10 : Player #6 SGT_WHISKEY disconnected
+﻿08:41:23 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿08:42:52 : Player #5 jetBlue disconnected
+﻿08:45:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 15 minutes
+﻿08:49:56 : Player #3 <[IDC]> Revixy disconnected
+﻿08:50:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 10 minutes
+﻿08:51:05 : RCon admin #2 (24.7.165.67:54981) logged in
+﻿08:51:23 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿08:55:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 5 minutes. Stop all vehicles and get out!
+﻿08:56:29 : Player #4 <[IDC]> Chuckles disconnected
+﻿08:57:33 : Player #0 SandReaper disconnected
+﻿08:57:37 : Player #2 dad disconnected
+﻿08:58:54 : Player #1 DaBethum disconnected
+﻿08:59:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 1 minutes. Hit ESC to save your character
+﻿09:00:03 : Lost Connection!
+﻿09:00:03 : Closing socket & exiting!
+﻿09:01:12 : Rcon client logging in
+﻿09:01:13 : RCon admin #0 (127.0.0.1:60806) logged in
+﻿09:01:18 : RCon admin #1 (24.7.165.67:51490) logged in
+﻿09:01:23 : RCon admin #0: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿09:01:45 : Player #0 dad (24.239.58.100:2304) connected
+﻿09:01:47 : Player #0 dad - GUID: a1c207391eb02db8acaa6d0ef3dbaa68 (unverified)
+﻿09:01:47 : Player #0 dad - Legacy GUID: 1f47515801f344af4ef4983fa0890d1b
+﻿09:01:47 : Verified GUID (a1c207391eb02db8acaa6d0ef3dbaa68) of player #0 dad
+﻿09:01:47 : Player #0 dad - Owner GUID: 1f1bd295ebaee9b0d898f3412f9e79f4
+﻿09:04:10 : No Valid response. Trying to reconnect.!
+﻿09:04:10 : Rcon client logging in
+﻿09:04:10 : RCon admin #1 (127.0.0.1:60806) logged in
+﻿09:04:55 : Player #2 <[IDC]> Chuckles (66.59.98.21:2304) connected
+﻿09:04:57 : Player #2 <[IDC]> Chuckles - GUID: 07d594f9e5838e952ec82575b73eeecd (unverified)
+﻿09:04:57 : Verified GUID (07d594f9e5838e952ec82575b73eeecd) of player #2 <[IDC]> Chuckles
+﻿09:04:57 : Player #2 <[IDC]> Chuckles - Legacy GUID: b9da002a07cbdf1eacaf4793dd4ce33c
+﻿09:06:13 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿09:06:43 : Player #3 SandReaper (71.199.99.212:2304) connected
+﻿09:06:45 : Player #3 SandReaper - GUID: 7b3b5d5f353cf7676aab6e240591671a (unverified)
+﻿09:06:45 : Player #3 SandReaper - Legacy GUID: e924ca2ad1b201b25a900fffc98c1ac5
+﻿09:06:46 : Verified GUID (7b3b5d5f353cf7676aab6e240591671a) of player #3 SandReaper
+﻿09:07:18 : Player #2 <[IDC]> Chuckles disconnected
+﻿09:10:47 : Player #1 DaBethum disconnected
+﻿09:10:57 : Player #1 DaBethum (73.175.154.94:2304) connected
+﻿09:10:58 : Player #1 DaBethum - GUID: 742b776f3e650847db12c4b20a384d86 (unverified)
+﻿09:10:59 : Verified GUID (742b776f3e650847db12c4b20a384d86) of player #1 DaBethum
+﻿09:11:00 : Player #1 DaBethum - Legacy GUID: ddd0a79f185c67916d68bdd6c94aaec3
+﻿09:11:23 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿09:13:59 : Player #2 <[IDC]> Chuckles (66.59.98.21:2304) connected
+﻿09:14:00 : Player #2 <[IDC]> Chuckles - GUID: 07d594f9e5838e952ec82575b73eeecd (unverified)
+﻿09:14:00 : Verified GUID (07d594f9e5838e952ec82575b73eeecd) of player #2 <[IDC]> Chuckles
+﻿09:14:01 : Player #2 <[IDC]> Chuckles - Legacy GUID: b9da002a07cbdf1eacaf4793dd4ce33c
+﻿09:15:26 : Player #0 dad disconnected
+﻿09:16:13 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿09:19:09 : RCon admin #2 (24.7.165.67:56013) logged in
+﻿09:21:23 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿09:22:18 : Player #2 <[IDC]> Chuckles disconnected
+﻿09:26:13 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿09:27:28 : RCon admin #0 (24.7.165.67:63060) logged in
+﻿09:31:23 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿09:36:13 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿09:41:23 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿09:46:13 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿09:51:23 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿09:52:18 : RCon admin #2 (24.7.165.67:49426) logged in
+﻿09:56:13 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿10:00:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 2 hours
+﻿10:01:23 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿10:06:13 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿10:11:23 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿10:21:23 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿10:22:26 : Could not connect to BE Master
+﻿10:22:26 : Update attempt failed
+﻿10:24:22 : Could not connect to BE Master
+﻿10:24:22 : Update attempt failed
+﻿10:30:25 : Player #0 MasterChief (50.54.77.96:2304) connected
+﻿10:30:26 : Player #0 MasterChief - GUID: 9f05d38b2e454829aafa8cc12b8371a0 (unverified)
+﻿10:30:26 : Verified GUID (9f05d38b2e454829aafa8cc12b8371a0) of player #0 MasterChief
+﻿10:30:27 : Player #0 MasterChief - Legacy GUID: bf2e3cc1fe99153ef90e6345cb37e484
+﻿10:30:28 : Player #0 MasterChief disconnected
+﻿10:30:41 : Player #0 MasterChief (50.54.77.96:2304) connected
+﻿10:30:42 : Player #0 MasterChief - GUID: 9f05d38b2e454829aafa8cc12b8371a0 (unverified)
+﻿10:30:42 : Verified GUID (9f05d38b2e454829aafa8cc12b8371a0) of player #0 MasterChief
+﻿10:30:43 : Player #0 MasterChief disconnected
+﻿10:31:23 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿10:34:04 : Player #0 MasterChief (50.54.77.96:2304) connected
+﻿10:34:06 : Player #0 MasterChief - GUID: 9f05d38b2e454829aafa8cc12b8371a0 (unverified)
+﻿10:34:06 : Verified GUID (9f05d38b2e454829aafa8cc12b8371a0) of player #0 MasterChief
+﻿10:34:07 : Player #0 MasterChief - Legacy GUID: bf2e3cc1fe99153ef90e6345cb37e484
+﻿10:41:23 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿10:51:23 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿10:52:06 : RCon admin #0 (24.7.165.67:64434) logged in
+﻿10:56:23 : Player #2 <[IDC]> Revixy (89.150.152.22:2304) connected
+﻿10:56:25 : Player #2 <[IDC]> Revixy - GUID: 384e3dc7eed8d13c94b11b20f2e8ca46 (unverified)
+﻿10:56:25 : Player #2 <[IDC]> Revixy - Legacy GUID: fbbecc0bfe5b93f3bd2be72b308e26ad
+﻿10:56:26 : Verified GUID (384e3dc7eed8d13c94b11b20f2e8ca46) of player #2 <[IDC]> Revixy
+﻿11:00:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 1 hours
+﻿11:01:23 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿11:11:23 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿11:12:20 : Player #0 MasterChief disconnected
+﻿11:21:13 : Player #0 dad (24.239.58.100:2304) connected
+﻿11:21:14 : Player #0 dad - GUID: a1c207391eb02db8acaa6d0ef3dbaa68 (unverified)
+﻿11:21:14 : Verified GUID (a1c207391eb02db8acaa6d0ef3dbaa68) of player #0 dad
+﻿11:21:14 : Player #0 dad - Owner GUID: 1f1bd295ebaee9b0d898f3412f9e79f4
+﻿11:21:15 : Player #0 dad - Legacy GUID: 1f47515801f344af4ef4983fa0890d1b
+﻿11:21:23 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿11:30:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 30 minutes
+﻿11:31:23 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿11:41:23 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿11:45:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 15 minutes
+﻿11:47:32 : Player #2 <[IDC]> Revixy disconnected
+﻿11:50:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 10 minutes
+﻿11:51:23 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿11:55:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 5 minutes. Stop all vehicles and get out!
+﻿11:57:18 : Player #3 SandReaper disconnected
+﻿11:59:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 1 minutes. Hit ESC to save your character
+﻿12:00:02 : Lost Connection!
+﻿12:00:03 : Closing socket & exiting!
+﻿12:01:11 : Rcon client logging in
+﻿12:01:11 : RCon admin #1 (127.0.0.1:55727) logged in
+﻿12:01:21 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿12:06:11 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿12:07:43 : Player #0 dad (24.239.58.100:2304) connected
+﻿12:07:45 : Player #0 dad - GUID: a1c207391eb02db8acaa6d0ef3dbaa68 (unverified)
+﻿12:07:45 : Verified GUID (a1c207391eb02db8acaa6d0ef3dbaa68) of player #0 dad
+﻿12:07:45 : Player #0 dad - Owner GUID: 1f1bd295ebaee9b0d898f3412f9e79f4
+﻿12:07:45 : Player #0 dad - Legacy GUID: 1f47515801f344af4ef4983fa0890d1b
+﻿12:09:40 : Player #1 DaBethum (73.175.154.94:2304) connected
+﻿12:09:41 : Player #1 DaBethum - GUID: 742b776f3e650847db12c4b20a384d86 (unverified)
+﻿12:09:41 : Verified GUID (742b776f3e650847db12c4b20a384d86) of player #1 DaBethum
+﻿12:09:42 : Player #1 DaBethum - Legacy GUID: ddd0a79f185c67916d68bdd6c94aaec3
+﻿12:11:21 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿12:15:58 : Player #2 MasterChief (50.54.77.96:2304) connected
+﻿12:15:59 : Player #2 MasterChief - GUID: 9f05d38b2e454829aafa8cc12b8371a0 (unverified)
+﻿12:16:00 : Verified GUID (9f05d38b2e454829aafa8cc12b8371a0) of player #2 MasterChief
+﻿12:16:00 : Player #2 MasterChief - Legacy GUID: bf2e3cc1fe99153ef90e6345cb37e484
+﻿12:16:11 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿12:21:15 : Player #3 <[IDC]> Revixy (89.150.152.22:2304) connected
+﻿12:21:18 : Player #3 <[IDC]> Revixy - GUID: 384e3dc7eed8d13c94b11b20f2e8ca46 (unverified)
+﻿12:21:20 : Player #3 <[IDC]> Revixy - Legacy GUID: fbbecc0bfe5b93f3bd2be72b308e26ad
+﻿12:21:20 : Verified GUID (384e3dc7eed8d13c94b11b20f2e8ca46) of player #3 <[IDC]> Revixy
+﻿12:21:21 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿12:26:11 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿12:31:21 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿12:36:11 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿12:41:21 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿12:43:07 : Player #4 Shitstormtruper (81.226.191.184:65176) connected
+﻿12:43:08 : Player #4 Shitstormtruper - GUID: 6b0f21bfa64d133b6fad9d97ac8c69cd (unverified)
+﻿12:43:09 : Verified GUID (6b0f21bfa64d133b6fad9d97ac8c69cd) of player #4 Shitstormtruper
+﻿12:43:10 : Player #4 Shitstormtruper - Legacy GUID: 5745c149cae1f4d28d1ac959f76d61dd
+﻿12:43:10 : Player #4 Shitstormtruper disconnected
+﻿12:44:01 : Player #4 Shitstormtruper (81.226.191.184:64435) connected
+﻿12:44:02 : Player #4 Shitstormtruper - GUID: 6b0f21bfa64d133b6fad9d97ac8c69cd (unverified)
+﻿12:44:02 : Verified GUID (6b0f21bfa64d133b6fad9d97ac8c69cd) of player #4 Shitstormtruper
+﻿12:44:03 : Player #4 Shitstormtruper disconnected
+﻿12:46:11 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿12:46:20 : Player #4 Shitstormtruper (81.226.191.184:50703) connected
+﻿12:46:21 : Player #4 Shitstormtruper - GUID: 6b0f21bfa64d133b6fad9d97ac8c69cd (unverified)
+﻿12:46:21 : Verified GUID (6b0f21bfa64d133b6fad9d97ac8c69cd) of player #4 Shitstormtruper
+﻿12:46:22 : Player #4 Shitstormtruper - Legacy GUID: 5745c149cae1f4d28d1ac959f76d61dd
+﻿12:46:22 : Player #4 Shitstormtruper disconnected
+﻿12:50:26 : Player #4 Shitstormtruper (81.226.191.184:57291) connected
+﻿12:50:28 : Player #4 Shitstormtruper - GUID: 6b0f21bfa64d133b6fad9d97ac8c69cd (unverified)
+﻿12:50:28 : Verified GUID (6b0f21bfa64d133b6fad9d97ac8c69cd) of player #4 Shitstormtruper
+﻿12:50:29 : Player #4 Shitstormtruper - Legacy GUID: 5745c149cae1f4d28d1ac959f76d61dd
+﻿12:50:29 : Player #4 Shitstormtruper disconnected
+﻿12:50:31 : Player #3 <[IDC]> Revixy disconnected
+﻿12:51:21 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿12:51:51 : Player #3 Shitstormtruper (81.226.191.184:57858) connected
+﻿12:51:52 : Player #3 Shitstormtruper - GUID: 6b0f21bfa64d133b6fad9d97ac8c69cd (unverified)
+﻿12:51:52 : Verified GUID (6b0f21bfa64d133b6fad9d97ac8c69cd) of player #3 Shitstormtruper
+﻿12:51:53 : Player #3 Shitstormtruper - Legacy GUID: 5745c149cae1f4d28d1ac959f76d61dd
+﻿12:54:56 : Could not connect to BE Master
+﻿12:54:56 : Update attempt failed
+﻿12:56:11 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿12:56:53 : Could not connect to BE Master
+﻿12:56:53 : Update attempt failed
+﻿12:58:50 : Could not connect to BE Master
+﻿12:58:50 : Update attempt failed
+﻿13:00:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 2 hours
+﻿13:00:46 : Could not connect to BE Master
+﻿13:00:46 : Update attempt failed
+﻿13:01:21 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿13:06:11 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿13:06:23 : Player #4 =Covert= HeXx (86.9.75.66:2304) connected
+﻿13:06:25 : Player #4 =Covert= HeXx - GUID: 396e554c2ba2ded495ff89129b6d2d7a (unverified)
+﻿13:06:25 : Verified GUID (396e554c2ba2ded495ff89129b6d2d7a) of player #4 =Covert= HeXx
+﻿13:06:26 : Player #4 =Covert= HeXx - Legacy GUID: ec82dae54c267b9e9579673dd6518d6e
+﻿13:06:28 : Player #4 =Covert= HeXx disconnected
+﻿13:07:55 : Player #4 =Covert= HeXx (86.9.75.66:2304) connected
+﻿13:07:56 : Player #4 =Covert= HeXx - GUID: 396e554c2ba2ded495ff89129b6d2d7a (unverified)
+﻿13:07:57 : Verified GUID (396e554c2ba2ded495ff89129b6d2d7a) of player #4 =Covert= HeXx
+﻿13:07:57 : Player #4 =Covert= HeXx - Legacy GUID: ec82dae54c267b9e9579673dd6518d6e
+﻿13:07:59 : Player #4 =Covert= HeXx disconnected
+﻿13:11:21 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿13:14:40 : Player #4 =Covert= HeXx (86.9.75.66:2304) connected
+﻿13:14:41 : Player #4 =Covert= HeXx - GUID: 396e554c2ba2ded495ff89129b6d2d7a (unverified)
+﻿13:14:41 : Verified GUID (396e554c2ba2ded495ff89129b6d2d7a) of player #4 =Covert= HeXx
+﻿13:14:43 : Player #4 =Covert= HeXx - Legacy GUID: ec82dae54c267b9e9579673dd6518d6e
+﻿13:14:46 : Player #4 =Covert= HeXx disconnected
+﻿13:16:29 : Player #4 =Covert= HeXx (86.9.75.66:2304) connected
+﻿13:16:30 : Player #4 =Covert= HeXx - GUID: 396e554c2ba2ded495ff89129b6d2d7a (unverified)
+﻿13:16:30 : Verified GUID (396e554c2ba2ded495ff89129b6d2d7a) of player #4 =Covert= HeXx
+﻿13:16:31 : Player #4 =Covert= HeXx - Legacy GUID: ec82dae54c267b9e9579673dd6518d6e
+﻿13:16:33 : Player #4 =Covert= HeXx disconnected
+﻿13:19:29 : Player #4 =Covert= HeXx (86.9.75.66:2304) connected
+﻿13:19:30 : Player #4 =Covert= HeXx - GUID: 396e554c2ba2ded495ff89129b6d2d7a (unverified)
+﻿13:19:30 : Verified GUID (396e554c2ba2ded495ff89129b6d2d7a) of player #4 =Covert= HeXx
+﻿13:19:31 : Player #4 =Covert= HeXx - Legacy GUID: ec82dae54c267b9e9579673dd6518d6e
+﻿13:19:33 : Player #4 =Covert= HeXx disconnected
+﻿13:21:21 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿13:21:57 : Player #4 =Covert= HeXx (86.9.75.66:2304) connected
+﻿13:21:58 : Player #4 =Covert= HeXx - GUID: 396e554c2ba2ded495ff89129b6d2d7a (unverified)
+﻿13:21:59 : Verified GUID (396e554c2ba2ded495ff89129b6d2d7a) of player #4 =Covert= HeXx
+﻿13:22:00 : Player #4 =Covert= HeXx - Legacy GUID: ec82dae54c267b9e9579673dd6518d6e
+﻿13:22:02 : Player #4 =Covert= HeXx disconnected
+﻿13:29:38 : Player #4 =Covert= HeXx (86.9.75.66:2304) connected
+﻿13:29:39 : Player #4 =Covert= HeXx - GUID: 396e554c2ba2ded495ff89129b6d2d7a (unverified)
+﻿13:29:40 : Verified GUID (396e554c2ba2ded495ff89129b6d2d7a) of player #4 =Covert= HeXx
+﻿13:29:40 : Player #4 =Covert= HeXx - Legacy GUID: ec82dae54c267b9e9579673dd6518d6e
+﻿13:29:43 : Player #4 =Covert= HeXx disconnected
+﻿13:30:45 : Player #4 <[IDC]> Revixy (89.150.152.22:2304) connected
+﻿13:30:46 : Player #4 <[IDC]> Revixy - GUID: 384e3dc7eed8d13c94b11b20f2e8ca46 (unverified)
+﻿13:30:47 : Verified GUID (384e3dc7eed8d13c94b11b20f2e8ca46) of player #4 <[IDC]> Revixy
+﻿13:30:48 : Player #4 <[IDC]> Revixy - Legacy GUID: fbbecc0bfe5b93f3bd2be72b308e26ad
+﻿13:31:21 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿13:35:29 : Player #5 =Covert= HeXx (86.9.75.66:2304) connected
+﻿13:35:30 : Player #5 =Covert= HeXx - GUID: 396e554c2ba2ded495ff89129b6d2d7a (unverified)
+﻿13:35:31 : Verified GUID (396e554c2ba2ded495ff89129b6d2d7a) of player #5 =Covert= HeXx
+﻿13:35:32 : Player #5 =Covert= HeXx - Legacy GUID: ec82dae54c267b9e9579673dd6518d6e
+﻿13:35:32 : Player #5 =Covert= HeXx disconnected
+﻿13:36:19 : RCon admin #2 (73.175.154.94:57297) logged in
+﻿13:36:30 : RCon admin #2: (Global) [DaRT] Testicles.
+﻿13:41:21 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿13:50:30 : Player #3 Shitstormtruper disconnected
+﻿13:51:21 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿13:54:06 : Player #3 =Covert= HeXx (86.9.75.66:2304) connected
+﻿13:54:43 : Player #3 =Covert= HeXx (-) has been kicked by BattlEye: Client not responding
+﻿13:54:46 : RCon admin #3 (24.7.165.67:65532) logged in
+﻿13:54:46 : RCon admin #4 (73.175.154.94:55766) logged in
+﻿13:58:03 : RCon admin #0 (24.7.165.67:55114) logged in
+﻿13:59:04 : Player #4 <[IDC]> Revixy disconnected
+﻿14:01:21 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿14:06:01 : Player #3 =Covert= HeXx (86.9.75.66:2304) connected
+﻿14:06:03 : Player #3 =Covert= HeXx - GUID: 396e554c2ba2ded495ff89129b6d2d7a (unverified)
+﻿14:06:03 : Verified GUID (396e554c2ba2ded495ff89129b6d2d7a) of player #3 =Covert= HeXx
+﻿14:06:04 : Player #3 =Covert= HeXx - Legacy GUID: ec82dae54c267b9e9579673dd6518d6e
+﻿14:06:05 : Player #4 Advo (184.17.206.137:2304) connected
+﻿14:06:06 : Player #3 =Covert= HeXx disconnected
+﻿14:06:06 : Player #4 Advo - GUID: 57ec3d3a9efc0c2da006f19e93d730e6 (unverified)
+﻿14:06:07 : Verified GUID (57ec3d3a9efc0c2da006f19e93d730e6) of player #4 Advo
+﻿14:06:08 : Player #4 Advo - Legacy GUID: 77aae097015e3da4e3d8afddc90735e3
+﻿14:06:08 : Player #4 Advo disconnected
+﻿14:06:58 : Player #3 Advo (184.17.206.137:2304) connected
+﻿14:06:59 : Player #3 Advo - GUID: 57ec3d3a9efc0c2da006f19e93d730e6 (unverified)
+﻿14:07:00 : Verified GUID (57ec3d3a9efc0c2da006f19e93d730e6) of player #3 Advo
+﻿14:07:00 : Player #3 Advo disconnected
+﻿14:09:28 : Player #3 Advo (184.17.206.137:2304) connected
+﻿14:09:29 : Player #3 Advo - GUID: 57ec3d3a9efc0c2da006f19e93d730e6 (unverified)
+﻿14:09:30 : Verified GUID (57ec3d3a9efc0c2da006f19e93d730e6) of player #3 Advo
+﻿14:09:30 : Player #3 Advo - Legacy GUID: 77aae097015e3da4e3d8afddc90735e3
+﻿14:11:21 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿14:19:23 : Player #3 Advo disconnected
+﻿14:21:21 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿14:30:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 30 minutes
+﻿14:31:21 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿14:39:13 : Player #3 Sponge_Bob (107.203.162.97:2304) connected
+﻿14:39:15 : Player #3 Sponge_Bob - GUID: 6634c6d7346550a8290e1bc65691131b (unverified)
+﻿14:39:15 : Verified GUID (6634c6d7346550a8290e1bc65691131b) of player #3 Sponge_Bob
+﻿14:39:16 : Player #3 Sponge_Bob - Legacy GUID: 0a738f7e3eeab1e582cedc8268cfdc86
+﻿14:39:16 : Player #3 Sponge_Bob disconnected
+﻿14:41:21 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿14:44:49 : Player #0 dad disconnected
+﻿14:45:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 15 minutes
+﻿14:49:52 : Player #0 red beret (24.239.58.100:2304) connected
+﻿14:49:53 : Player #0 red beret - GUID: a1c207391eb02db8acaa6d0ef3dbaa68 (unverified)
+﻿14:49:54 : Verified GUID (a1c207391eb02db8acaa6d0ef3dbaa68) of player #0 red beret
+﻿14:49:54 : Player #0 red beret - Owner GUID: 1f1bd295ebaee9b0d898f3412f9e79f4
+﻿14:49:55 : Player #0 red beret - Legacy GUID: 1f47515801f344af4ef4983fa0890d1b
+﻿14:49:55 : RCon admin #1: (To red beret) BEC : You have about 60 seconds left to join the mission.
+﻿14:49:57 : RCon admin #1: (To red beret) BEC : You have about 30 seconds left to join the mission.
+﻿14:49:58 : Player #0 red beret disconnected
+﻿14:50:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 10 minutes
+﻿14:51:21 : RCon admin #1: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿14:52:15 : Player #0 red beret (24.239.58.100:2304) connected
+﻿14:52:16 : Player #0 red beret - GUID: a1c207391eb02db8acaa6d0ef3dbaa68 (unverified)
+﻿14:52:16 : Verified GUID (a1c207391eb02db8acaa6d0ef3dbaa68) of player #0 red beret
+﻿14:52:16 : Player #0 red beret - Owner GUID: 1f1bd295ebaee9b0d898f3412f9e79f4
+﻿14:52:17 : Player #0 red beret - Legacy GUID: 1f47515801f344af4ef4983fa0890d1b
+﻿14:52:19 : RCon admin #1: (To red beret) BEC : You have about 15 seconds left to join the mission.
+﻿14:52:21 : Player #0 red beret (1f1bd295ebaee9b0d898f3412f9e79f4) has been kicked by BattlEye: Admin Kick (BEC : Lobby idling to long)
+﻿14:52:59 : Player #0 red beret (24.239.58.100:2304) connected
+﻿14:53:00 : Player #0 red beret - GUID: a1c207391eb02db8acaa6d0ef3dbaa68 (unverified)
+﻿14:53:00 : Verified GUID (a1c207391eb02db8acaa6d0ef3dbaa68) of player #0 red beret
+﻿14:53:00 : Player #0 red beret - Owner GUID: 1f1bd295ebaee9b0d898f3412f9e79f4
+﻿14:53:01 : Player #0 red beret - Legacy GUID: 1f47515801f344af4ef4983fa0890d1b
+﻿14:53:46 : Player #3 Mr_Tibbs [DOC] (24.77.205.212:2304) connected
+﻿14:53:47 : Player #3 Mr_Tibbs [DOC] - GUID: 5d0322d944bdfbcac5ce0218ad0cce4b (unverified)
+﻿14:53:47 : Verified GUID (5d0322d944bdfbcac5ce0218ad0cce4b) of player #3 Mr_Tibbs [DOC]
+﻿14:53:48 : Player #3 Mr_Tibbs [DOC] - Legacy GUID: 72416ef28f1a53a6ca82025e47dc7652
+﻿14:55:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 5 minutes. Stop all vehicles and get out!
+﻿14:55:22 : Player #4 =Covert= HeXx (86.9.75.66:2304) connected
+﻿14:55:25 : Player #4 =Covert= HeXx disconnected
+﻿14:55:33 : Player #4 =Covert= HeXx (86.9.75.66:2304) connected
+﻿14:55:34 : Player #4 =Covert= HeXx disconnected
+﻿14:58:10 : Player #4 =Covert= HeXx (86.9.75.66:2304) connected
+﻿14:58:12 : Player #4 =Covert= HeXx - GUID: 396e554c2ba2ded495ff89129b6d2d7a (unverified)
+﻿14:58:12 : Verified GUID (396e554c2ba2ded495ff89129b6d2d7a) of player #4 =Covert= HeXx
+﻿14:58:13 : Player #4 =Covert= HeXx - Legacy GUID: ec82dae54c267b9e9579673dd6518d6e
+﻿14:58:16 : Player #4 =Covert= HeXx disconnected
+﻿14:59:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 1 minutes. Hit ESC to save your character
+﻿14:59:27 : Player #2 MasterChief disconnected
+﻿14:59:44 : Player #2 =Covert= HeXx (86.9.75.66:2304) connected
+﻿14:59:45 : Player #2 =Covert= HeXx - GUID: 396e554c2ba2ded495ff89129b6d2d7a (unverified)
+﻿14:59:46 : Verified GUID (396e554c2ba2ded495ff89129b6d2d7a) of player #2 =Covert= HeXx
+﻿14:59:46 : Player #2 =Covert= HeXx - Legacy GUID: ec82dae54c267b9e9579673dd6518d6e
+﻿14:59:46 : Player #0 red beret disconnected
+﻿14:59:50 : Player #2 =Covert= HeXx disconnected
+﻿15:00:02 : Lost Connection!
+﻿15:00:02 : Closing socket & exiting!
+﻿15:01:13 : Rcon client logging in
+﻿15:01:13 : RCon admin #0 (127.0.0.1:59519) logged in
+﻿15:01:18 : RCon admin #1 (24.7.165.67:56587) logged in
+﻿15:01:18 : RCon admin #2 (73.175.154.94:64232) logged in
+﻿15:01:23 : RCon admin #0: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿15:01:58 : Player #0 DaBethum (73.175.154.94:2304) connected
+﻿15:01:59 : Player #0 DaBethum - GUID: 742b776f3e650847db12c4b20a384d86 (unverified)
+﻿15:01:59 : Verified GUID (742b776f3e650847db12c4b20a384d86) of player #0 DaBethum
+﻿15:01:59 : Player #0 DaBethum - Legacy GUID: ddd0a79f185c67916d68bdd6c94aaec3
+﻿15:02:05 : Player #0 DaBethum disconnected
+﻿15:04:06 : Player #0 MasterChief (50.54.77.96:2304) connected
+﻿15:04:09 : Player #1 DaBethum (73.175.154.94:2304) connected
+﻿15:04:10 : Player #1 DaBethum - GUID: 742b776f3e650847db12c4b20a384d86 (unverified)
+﻿15:04:10 : Verified GUID (742b776f3e650847db12c4b20a384d86) of player #1 DaBethum
+﻿15:04:11 : Player #1 DaBethum - Legacy GUID: ddd0a79f185c67916d68bdd6c94aaec3
+﻿15:04:14 : Player #0 MasterChief - GUID: 9f05d38b2e454829aafa8cc12b8371a0 (unverified)
+﻿15:04:14 : Verified GUID (9f05d38b2e454829aafa8cc12b8371a0) of player #0 MasterChief
+﻿15:04:16 : Player #0 MasterChief - Legacy GUID: bf2e3cc1fe99153ef90e6345cb37e484
+﻿15:04:20 : Player #2 red beret (24.239.58.100:2304) connected
+﻿15:04:21 : Player #2 red beret - GUID: a1c207391eb02db8acaa6d0ef3dbaa68 (unverified)
+﻿15:04:21 : Verified GUID (a1c207391eb02db8acaa6d0ef3dbaa68) of player #2 red beret
+﻿15:04:21 : Player #2 red beret - Owner GUID: 1f1bd295ebaee9b0d898f3412f9e79f4
+﻿15:04:21 : Player #0 MasterChief disconnected
+﻿15:04:22 : Player #2 red beret - Legacy GUID: 1f47515801f344af4ef4983fa0890d1b
+﻿15:05:23 : Player #0 Mr_Tibbs [DOC] (24.77.205.212:2304) connected
+﻿15:05:24 : Player #0 Mr_Tibbs [DOC] - GUID: 5d0322d944bdfbcac5ce0218ad0cce4b (unverified)
+﻿15:05:25 : Verified GUID (5d0322d944bdfbcac5ce0218ad0cce4b) of player #0 Mr_Tibbs [DOC]
+﻿15:05:26 : Player #0 Mr_Tibbs [DOC] - Legacy GUID: 72416ef28f1a53a6ca82025e47dc7652
+﻿15:07:40 : No Valid response. Trying to reconnect.!
+﻿15:07:40 : Rcon client logging in
+﻿15:07:40 : RCon admin #2 (127.0.0.1:59519) logged in
+﻿15:09:35 : Player #1 DaBethum disconnected
+﻿15:10:13 : Player #1 DaBethum (73.175.154.94:2304) connected
+﻿15:10:14 : Player #1 DaBethum - GUID: 742b776f3e650847db12c4b20a384d86 (unverified)
+﻿15:10:14 : Verified GUID (742b776f3e650847db12c4b20a384d86) of player #1 DaBethum
+﻿15:10:15 : Player #1 DaBethum - Legacy GUID: ddd0a79f185c67916d68bdd6c94aaec3
+﻿15:11:23 : RCon admin #2: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿15:13:09 : Player #4 <[IDC]> The King (100.42.248.173:2304) connected
+﻿15:13:10 : Player #4 <[IDC]> The King - GUID: 6b653acfe4652124ac711fe8235760cf (unverified)
+﻿15:13:11 : Verified GUID (6b653acfe4652124ac711fe8235760cf) of player #4 <[IDC]> The King
+﻿15:13:11 : Player #4 <[IDC]> The King - Legacy GUID: 869e79a5d29bc0ed5a3d61b88e0c2390
+﻿15:14:16 : RCon admin #2: (To DaBethum) BEC : You have about 60 seconds left to join the mission.
+﻿15:14:48 : RCon admin #2: (To DaBethum) BEC : You have about 30 seconds left to join the mission.
+﻿15:15:02 : RCon admin #2: (To DaBethum) BEC : You have about 15 seconds left to join the mission.
+﻿15:15:16 : Player #1 DaBethum (742b776f3e650847db12c4b20a384d86) has been kicked by BattlEye: Admin Kick (BEC : Lobby idling to long)
+﻿15:15:42 : Player #4 <[IDC]> The King - Legacy GUID: 869e79a5d29bc0ed5a3d61b88e0c2390
+﻿15:16:13 : RCon admin #2: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿15:16:36 : Player #1 DaBethum (73.175.154.94:2304) connected
+﻿15:16:37 : Player #1 DaBethum - GUID: 742b776f3e650847db12c4b20a384d86 (unverified)
+﻿15:16:38 : Verified GUID (742b776f3e650847db12c4b20a384d86) of player #1 DaBethum
+﻿15:16:39 : Player #1 DaBethum - Legacy GUID: ddd0a79f185c67916d68bdd6c94aaec3
+﻿15:21:23 : RCon admin #2: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿15:26:13 : RCon admin #2: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿15:31:23 : RCon admin #2: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿15:31:50 : Player #3 MasterChief disconnected
+﻿15:36:13 : RCon admin #2: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿15:39:40 : Player #3 <[IDC]> Revixy (89.150.152.22:2304) connected
+﻿15:39:41 : Player #3 <[IDC]> Revixy - GUID: 384e3dc7eed8d13c94b11b20f2e8ca46 (unverified)
+﻿15:39:42 : Verified GUID (384e3dc7eed8d13c94b11b20f2e8ca46) of player #3 <[IDC]> Revixy
+﻿15:39:42 : Player #3 <[IDC]> Revixy - Legacy GUID: fbbecc0bfe5b93f3bd2be72b308e26ad
+﻿15:41:23 : RCon admin #2: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿15:45:08 : RCon admin #3 (24.7.165.67:55050) logged in
+﻿15:45:08 : RCon admin #4 (73.175.154.94:55564) logged in
+﻿15:46:13 : RCon admin #2: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿15:46:37 : Player #5 <[IDC]> TheDoctor (142.255.78.128:2304) connected
+﻿15:46:38 : Player #5 <[IDC]> TheDoctor - GUID: 1fb3e2917d5eebc5c1573345478a62f6 (unverified)
+﻿15:46:38 : Player #5 <[IDC]> TheDoctor (1fb3e2917d5eebc5c1573345478a62f6) has been kicked by BattlEye: Admin Kick (BEC : Your player name is to long)
+﻿15:47:12 : Player #5 Oro (73.185.88.131:2304) connected
+﻿15:47:16 : Player #5 Oro disconnected
+﻿15:47:30 : Player #5 <[IDC]> TheDoctor (142.255.78.128:2304) connected
+﻿15:47:31 : Player #5 <[IDC]> TheDoctor - GUID: 1fb3e2917d5eebc5c1573345478a62f6 (unverified)
+﻿15:47:31 : Player #5 <[IDC]> TheDoctor (1fb3e2917d5eebc5c1573345478a62f6) has been kicked by BattlEye: Admin Kick (BEC : Your player name is to long)
+﻿15:48:41 : Player #5 Rorschach (142.255.78.128:2304) connected
+﻿15:48:42 : Player #5 Rorschach - GUID: 1fb3e2917d5eebc5c1573345478a62f6 (unverified)
+﻿15:48:42 : Verified GUID (1fb3e2917d5eebc5c1573345478a62f6) of player #5 Rorschach
+﻿15:48:43 : Player #5 Rorschach - Legacy GUID: b5dc0130605ca3a4a82b714b01c9dd15
+﻿15:51:23 : RCon admin #2: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿15:56:13 : RCon admin #2: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿16:00:00 : RCon admin #2: (Global) .:DoC:. Server restarts in 2 hours
+﻿16:01:23 : RCon admin #2: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿16:06:13 : RCon admin #2: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿16:11:23 : RCon admin #2: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿16:11:40 : Player #5 Rorschach disconnected
+﻿16:21:01 : Player #5 MasterChief (50.54.77.96:2304) connected
+﻿16:21:02 : Player #5 MasterChief - GUID: 9f05d38b2e454829aafa8cc12b8371a0 (unverified)
+﻿16:21:03 : Verified GUID (9f05d38b2e454829aafa8cc12b8371a0) of player #5 MasterChief
+﻿16:21:03 : Player #5 MasterChief - Legacy GUID: bf2e3cc1fe99153ef90e6345cb37e484
+﻿16:21:23 : RCon admin #2: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿16:21:48 : Player #6 jetBlue (73.2.122.245:2304) connected
+﻿16:21:50 : Player #6 jetBlue - GUID: 709bab312aa3844f20aa06b352f9109f (unverified)
+﻿16:21:50 : Verified GUID (709bab312aa3844f20aa06b352f9109f) of player #6 jetBlue
+﻿16:21:50 : Player #6 jetBlue - Legacy GUID: 57584c345b9fcf06bdf29c408e6bfe3f
+﻿16:23:33 : Player #7 Cole (97.125.110.83:2304) connected
+﻿16:23:34 : Player #7 Cole - GUID: e7e2d4c9d0cc3a5d2c3368781675cb52 (unverified)
+﻿16:23:35 : Verified GUID (e7e2d4c9d0cc3a5d2c3368781675cb52) of player #7 Cole
+﻿16:23:35 : Player #7 Cole - Legacy GUID: 58e2af586b5b6467427d1232accd51f5
+﻿16:23:36 : Player #7 Cole disconnected
+﻿16:23:55 : Player #7 Lameninja (98.217.169.160:2304) connected
+﻿16:23:57 : Player #7 Lameninja - GUID: f5fba1469dcbed75080943cc44397cca (unverified)
+﻿16:23:57 : Verified GUID (f5fba1469dcbed75080943cc44397cca) of player #7 Lameninja
+﻿16:23:57 : Player #7 Lameninja - Legacy GUID: c87a6acdf38a93397b162b20efa34501
+﻿16:31:23 : RCon admin #2: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿16:41:23 : RCon admin #2: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿16:45:46 : Player #8 Flames (24.168.110.94:2304) connected
+﻿16:45:47 : Player #8 Flames - GUID: dbb2a0b1963ae06559c58893d9efbc04 (unverified)
+﻿16:45:48 : Verified GUID (dbb2a0b1963ae06559c58893d9efbc04) of player #8 Flames
+﻿16:45:48 : Player #8 Flames - Legacy GUID: b53be680a541a7f7133baaf55404a8a0
+﻿16:51:23 : RCon admin #2: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿16:53:47 : Player #8 Flames disconnected
+﻿16:55:47 : Player #6 jetBlue disconnected
+﻿17:00:00 : RCon admin #2: (Global) .:DoC:. Server restarts in 1 hours
+﻿17:00:21 : Player #3 <[IDC]> Revixy disconnected
+﻿17:00:24 : Player #2 red beret (1f1bd295ebaee9b0d898f3412f9e79f4) has been kicked by BattlEye: Admin Kick (TS Go Fuck Yourself)
+﻿17:01:23 : RCon admin #2: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿17:11:23 : RCon admin #2: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿17:21:23 : RCon admin #2: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿17:29:33 : Player #2 OfficeSniper (96.21.145.125:2304) connected
+﻿17:29:34 : Player #2 OfficeSniper - GUID: aea7894e5104ddcba15809e5bddd9756 (unverified)
+﻿17:29:34 : Verified GUID (aea7894e5104ddcba15809e5bddd9756) of player #2 OfficeSniper
+﻿17:29:35 : Player #2 OfficeSniper - Legacy GUID: 0dcf3f23bf0d0e3e8b7c8b6384c86bb8
+﻿17:29:48 : Player #7 Lameninja disconnected
+﻿17:30:00 : RCon admin #2: (Global) .:DoC:. Server restarts in 30 minutes
+﻿17:31:23 : RCon admin #2: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿17:41:23 : RCon admin #2: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿17:43:25 : RCon admin #2: (To <[IDC]> The King) BEC : You have about 60 seconds left to join the mission.
+﻿17:43:54 : RCon admin #2: (To <[IDC]> The King) BEC : You have about 30 seconds left to join the mission.
+﻿17:44:09 : RCon admin #2: (To <[IDC]> The King) BEC : You have about 15 seconds left to join the mission.
+﻿17:44:25 : Player #4 <[IDC]> The King (6b653acfe4652124ac711fe8235760cf) has been kicked by BattlEye: Admin Kick (BEC : Lobby idling to long)
+﻿17:45:00 : RCon admin #2: (Global) .:DoC:. Server restarts in 15 minutes
+﻿17:50:00 : RCon admin #2: (Global) .:DoC:. Server restarts in 10 minutes
+﻿17:51:23 : RCon admin #2: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿17:55:00 : RCon admin #2: (Global) .:DoC:. Server restarts in 5 minutes. Stop all vehicles and get out!
+﻿17:57:12 : Player #2 OfficeSniper disconnected
+﻿17:59:00 : RCon admin #2: (Global) .:DoC:. Server restarts in 1 minutes. Hit ESC to save your character
+﻿17:59:18 : Player #5 MasterChief disconnected
+﻿18:00:03 : Lost Connection!
+﻿18:00:03 : Closing socket & exiting!
+﻿18:01:15 : Rcon client logging in
+﻿18:01:15 : RCon admin #0 (127.0.0.1:64909) logged in
+﻿18:01:25 : RCon admin #0: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿18:01:36 : RCon admin #1 (24.7.165.67:54238) logged in
+﻿18:01:36 : RCon admin #2 (73.175.154.94:58933) logged in
+﻿18:02:47 : Player #0 MasterChief (50.54.77.96:2304) connected
+﻿18:02:48 : Player #0 MasterChief - GUID: 9f05d38b2e454829aafa8cc12b8371a0 (unverified)
+﻿18:02:48 : Player #0 MasterChief - Legacy GUID: bf2e3cc1fe99153ef90e6345cb37e484
+﻿18:02:48 : Verified GUID (9f05d38b2e454829aafa8cc12b8371a0) of player #0 MasterChief
+﻿18:03:16 : Player #1 DaBethum (73.175.154.94:2304) connected
+﻿18:03:17 : Player #1 DaBethum - GUID: 742b776f3e650847db12c4b20a384d86 (unverified)
+﻿18:03:18 : Verified GUID (742b776f3e650847db12c4b20a384d86) of player #1 DaBethum
+﻿18:03:18 : Player #1 DaBethum - Legacy GUID: ddd0a79f185c67916d68bdd6c94aaec3
+﻿18:05:12 : No Valid response. Trying to reconnect.!
+﻿18:05:12 : Rcon client logging in
+﻿18:05:12 : RCon admin #2 (127.0.0.1:64909) logged in
+﻿18:06:12 : Player #0 MasterChief disconnected
+﻿18:06:15 : RCon admin #2: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿18:07:09 : Player #0 MasterChief (50.54.77.96:2304) connected
+﻿18:07:10 : Player #0 MasterChief - GUID: 9f05d38b2e454829aafa8cc12b8371a0 (unverified)
+﻿18:07:10 : Verified GUID (9f05d38b2e454829aafa8cc12b8371a0) of player #0 MasterChief
+﻿18:07:11 : Player #0 MasterChief - Legacy GUID: bf2e3cc1fe99153ef90e6345cb37e484
+﻿18:08:09 : Player #2 Mr_Tibbs [DOC] disconnected
+﻿18:08:47 : Player #2 Mr_Tibbs [DOC] (24.77.205.212:2304) connected
+﻿18:08:48 : Player #2 Mr_Tibbs [DOC] - GUID: 5d0322d944bdfbcac5ce0218ad0cce4b (unverified)
+﻿18:08:48 : Verified GUID (5d0322d944bdfbcac5ce0218ad0cce4b) of player #2 Mr_Tibbs [DOC]
+﻿18:08:49 : Player #2 Mr_Tibbs [DOC] - Legacy GUID: 72416ef28f1a53a6ca82025e47dc7652
+﻿18:09:44 : Player #3 <[IDC]> The King (100.42.248.173:2304) connected
+﻿18:09:45 : Player #3 <[IDC]> The King - GUID: 6b653acfe4652124ac711fe8235760cf (unverified)
+﻿18:09:45 : Verified GUID (6b653acfe4652124ac711fe8235760cf) of player #3 <[IDC]> The King
+﻿18:09:46 : Player #3 <[IDC]> The King - Legacy GUID: 869e79a5d29bc0ed5a3d61b88e0c2390
+﻿18:11:25 : RCon admin #2: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿18:16:15 : RCon admin #2: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿18:21:26 : RCon admin #2: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿18:26:16 : RCon admin #2: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿18:28:48 : Player #4 [CSG]Dr. Reaper (141.239.173.11:2304) connected
+﻿18:28:49 : Player #4 [CSG]Dr. Reaper - GUID: 0f7d56ec716243694dd0189a455878b3 (unverified)
+﻿18:28:49 : Verified GUID (0f7d56ec716243694dd0189a455878b3) of player #4 [CSG]Dr. Reaper
+﻿18:28:50 : Player #4 [CSG]Dr. Reaper - Legacy GUID: 45ebc8db5cd8e1787719fb06125b5f8e
+﻿18:31:25 : RCon admin #2: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿18:36:15 : RCon admin #2: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿18:36:50 : Player #4 [CSG]Dr. Reaper disconnected
+﻿18:41:25 : RCon admin #2: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿18:46:16 : RCon admin #2: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿18:50:16 : Player #4 SandReaper (71.199.99.212:2304) connected
+﻿18:50:18 : Player #4 SandReaper - GUID: 7b3b5d5f353cf7676aab6e240591671a (unverified)
+﻿18:50:18 : Verified GUID (7b3b5d5f353cf7676aab6e240591671a) of player #4 SandReaper
+﻿18:50:19 : Player #4 SandReaper - Legacy GUID: e924ca2ad1b201b25a900fffc98c1ac5
+﻿18:51:25 : RCon admin #2: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿18:56:16 : RCon admin #2: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿19:00:00 : RCon admin #2: (Global) .:DoC:. Server restarts in 2 hours
+﻿19:00:42 : RCon admin #3 (24.7.165.67:55334) logged in
+﻿19:00:42 : RCon admin #4 (73.175.154.94:62947) logged in
+﻿19:01:25 : RCon admin #2: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿19:06:16 : RCon admin #2: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿19:11:25 : RCon admin #2: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿19:21:25 : RCon admin #2: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿19:30:13 : Player #3 <[IDC]> The King disconnected
+﻿19:31:25 : RCon admin #2: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿19:34:03 : Player #3 Hawkeye (108.200.98.116:2304) connected
+﻿19:34:04 : Player #3 Hawkeye - GUID: c031cdd63365e3f732668cee63163d9a (unverified)
+﻿19:34:04 : Verified GUID (c031cdd63365e3f732668cee63163d9a) of player #3 Hawkeye
+﻿19:34:05 : Player #3 Hawkeye - Legacy GUID: bf9a174913d703eb7686750bb8013aec
+﻿19:34:05 : Player #3 Hawkeye disconnected
+﻿19:35:59 : Player #2 Mr_Tibbs [DOC] (5d0322d944bdfbcac5ce0218ad0cce4b) has been kicked by BattlEye: Client not responding
+﻿19:37:13 : Player #1 DaBethum disconnected
+﻿19:41:25 : RCon admin #2: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿19:44:10 : Player #1 Mr_Tibbs [DOC] (24.77.205.212:2304) connected
+﻿19:44:11 : Player #1 Mr_Tibbs [DOC] - GUID: 5d0322d944bdfbcac5ce0218ad0cce4b (unverified)
+﻿19:44:12 : Verified GUID (5d0322d944bdfbcac5ce0218ad0cce4b) of player #1 Mr_Tibbs [DOC]
+﻿19:44:13 : Player #1 Mr_Tibbs [DOC] - Legacy GUID: 72416ef28f1a53a6ca82025e47dc7652
+﻿19:48:14 : Player #0 MasterChief disconnected
+﻿19:51:25 : RCon admin #2: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿20:00:00 : RCon admin #2: (Global) .:DoC:. Server restarts in 1 hours
+﻿20:01:25 : RCon admin #2: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿20:11:25 : RCon admin #2: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿20:21:25 : RCon admin #2: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿20:28:58 : Player #4 SandReaper disconnected
+﻿20:30:00 : RCon admin #2: (Global) .:DoC:. Server restarts in 30 minutes
+﻿20:31:25 : RCon admin #2: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿20:41:25 : RCon admin #2: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿20:45:00 : RCon admin #2: (Global) .:DoC:. Server restarts in 15 minutes
+﻿20:45:10 : Player #1 Mr_Tibbs [DOC] disconnected
+﻿20:50:00 : RCon admin #2: (Global) .:DoC:. Server restarts in 10 minutes
+﻿20:51:25 : RCon admin #2: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿20:55:00 : RCon admin #2: (Global) .:DoC:. Server restarts in 5 minutes. Stop all vehicles and get out!
+﻿20:59:00 : RCon admin #2: (Global) .:DoC:. Server restarts in 1 minutes. Hit ESC to save your character
+﻿21:00:02 : Lost Connection!
+﻿21:00:02 : Closing socket & exiting!
+﻿21:01:16 : Rcon client logging in
+﻿21:01:16 : RCon admin #0 (127.0.0.1:54312) logged in
+﻿21:01:18 : RCon admin #1 (24.7.165.67:62352) logged in
+﻿21:01:18 : RCon admin #2 (73.175.154.94:53989) logged in
+﻿21:01:26 : RCon admin #0: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿21:06:16 : RCon admin #0: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿21:11:26 : RCon admin #0: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿21:16:16 : RCon admin #0: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿21:21:26 : RCon admin #0: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿21:26:16 : RCon admin #0: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿21:31:26 : RCon admin #0: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿21:36:16 : RCon admin #0: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿21:41:26 : RCon admin #0: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿21:46:16 : RCon admin #0: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿21:51:26 : RCon admin #0: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿21:56:16 : RCon admin #0: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿22:00:00 : RCon admin #0: (Global) .:DoC:. Server restarts in 2 hours
+﻿22:01:26 : RCon admin #0: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿22:04:24 : Player #0 Advo (184.17.206.137:2304) connected
+﻿22:04:25 : Player #0 Advo - GUID: 57ec3d3a9efc0c2da006f19e93d730e6 (unverified)
+﻿22:04:25 : Verified GUID (57ec3d3a9efc0c2da006f19e93d730e6) of player #0 Advo
+﻿22:04:25 : Player #0 Advo - Legacy GUID: 77aae097015e3da4e3d8afddc90735e3
+﻿22:06:16 : RCon admin #0: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿22:08:00 : Player #1 brad (24.22.52.59:4304) connected
+﻿22:08:01 : Player #1 brad - GUID: e2ecebb07d03243353f967667f0d70c0 (unverified)
+﻿22:08:01 : Verified GUID (e2ecebb07d03243353f967667f0d70c0) of player #1 brad
+﻿22:08:01 : Player #1 brad disconnected
+﻿22:11:26 : RCon admin #0: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿22:19:43 : Player #1 Gom (59.3.11.69:2304) connected
+﻿22:19:44 : Player #1 Gom - GUID: 440429acdb3ccbdc438300a56a1f1a96 (unverified)
+﻿22:19:45 : Verified GUID (440429acdb3ccbdc438300a56a1f1a96) of player #1 Gom
+﻿22:19:45 : Player #1 Gom disconnected
+﻿22:21:26 : RCon admin #0: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿22:24:08 : Player #1 Adrien (205.206.134.132:2304) connected
+﻿22:24:09 : Player #1 Adrien - GUID: bf5aefb469e4dce0886d04a7fab093c5 (unverified)
+﻿22:24:10 : Verified GUID (bf5aefb469e4dce0886d04a7fab093c5) of player #1 Adrien
+﻿22:24:10 : Player #1 Adrien disconnected
+﻿22:31:26 : RCon admin #0: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿22:41:26 : RCon admin #0: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿22:51:26 : RCon admin #0: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿23:00:00 : RCon admin #0: (Global) .:DoC:. Server restarts in 1 hours
+﻿23:01:26 : RCon admin #0: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿23:11:26 : RCon admin #0: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿23:21:26 : RCon admin #0: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿23:30:00 : RCon admin #0: (Global) .:DoC:. Server restarts in 30 minutes
+﻿23:31:27 : RCon admin #0: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿23:41:26 : RCon admin #0: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿23:42:56 : Player #1 jetBlue (73.2.122.245:2304) connected
+﻿23:42:57 : Player #1 jetBlue - GUID: 709bab312aa3844f20aa06b352f9109f (unverified)
+﻿23:42:58 : Verified GUID (709bab312aa3844f20aa06b352f9109f) of player #1 jetBlue
+﻿23:42:58 : Player #1 jetBlue - Legacy GUID: 57584c345b9fcf06bdf29c408e6bfe3f
+﻿23:45:02 : RCon admin #0: (Global) .:DoC:. Server restarts in 15 minutes
+﻿23:45:51 : Player #1 jetBlue disconnected
+﻿23:50:00 : RCon admin #0: (Global) .:DoC:. Server restarts in 10 minutes
+﻿23:51:26 : RCon admin #0: (Global) .:DoC:. Overpoch server visit http://drinkinoutacups.com/
+﻿23:55:01 : RCon admin #0: (Global) .:DoC:. Server restarts in 5 minutes. Stop all vehicles and get out!
+﻿23:55:02 : Player #0 Advo disconnected
+﻿23:59:01 : RCon admin #0: (Global) .:DoC:. Server restarts in 1 minutes. Hit ESC to save your character
