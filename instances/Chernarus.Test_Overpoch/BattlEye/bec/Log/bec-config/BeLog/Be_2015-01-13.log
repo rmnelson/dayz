@@ -1,0 +1,705 @@
+﻿00:00:03 : Lost Connection!
+﻿00:00:03 : Closing socket & exiting!
+﻿00:01:19 : Rcon client logging in
+﻿00:01:19 : RCon admin #1 (127.0.0.1:62832) logged in
+﻿00:01:29 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿00:06:19 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿00:11:29 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿00:16:19 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿00:17:54 : Player #0 hampuz (85.227.134.179:2304) connected
+﻿00:17:55 : Player #0 hampuz - GUID: 2205a3ef83c61033eeb504e6524a0e56 (unverified)
+﻿00:17:55 : Player #0 hampuz - Legacy GUID: dc9d62215193a6b327ad061927625172
+﻿00:17:55 : Verified GUID (2205a3ef83c61033eeb504e6524a0e56) of player #0 hampuz
+﻿00:21:29 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿00:26:19 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿00:28:45 : Player #1 Demon Child (104.34.201.131:2304) connected
+﻿00:28:45 : Player #1 Demon Child - GUID: 8fe31914836a0283f9eda8c2a608f99f (unverified)
+﻿00:28:45 : Verified GUID (8fe31914836a0283f9eda8c2a608f99f) of player #1 Demon Child
+﻿00:28:47 : Player #1 Demon Child - Legacy GUID: bad38e295593b936e06fa25373811348
+﻿00:28:48 : Player #1 Demon Child disconnected
+﻿00:31:29 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿00:36:19 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿00:36:43 : Player #1 Mr. Spock (24.7.165.67:2304) connected
+﻿00:36:44 : Player #1 Mr. Spock - GUID: 4af32554a2d84a4b2aededf38728bf33 (unverified)
+﻿00:36:44 : Verified GUID (4af32554a2d84a4b2aededf38728bf33) of player #1 Mr. Spock
+﻿00:36:45 : Player #1 Mr. Spock - Legacy GUID: fdd59afb221ccbac5728bf8aa08224b2
+﻿00:38:04 : Player #1 Mr. Spock disconnected
+﻿00:41:30 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿00:46:19 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿00:51:29 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿00:56:19 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿01:00:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 2 hours
+﻿01:01:29 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿01:06:20 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿01:11:29 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿01:21:29 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿01:31:29 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿01:39:50 : Player #1 Changrey (5.103.103.247:2304) connected
+﻿01:39:51 : Player #1 Changrey - GUID: 9a70741bb80b2b5a6ca2f8d88f296576 (unverified)
+﻿01:39:52 : Verified GUID (9a70741bb80b2b5a6ca2f8d88f296576) of player #1 Changrey
+﻿01:39:52 : Player #1 Changrey - Legacy GUID: 966226735eabf21049b342d6de0e3f8f
+﻿01:41:30 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿01:49:20 : Player #0 hampuz disconnected
+﻿01:51:29 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿02:00:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 1 hours
+﻿02:01:30 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿02:11:29 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿02:13:07 : Player #0 SandReaper (71.199.99.212:2304) connected
+﻿02:13:08 : Player #0 SandReaper - GUID: 7b3b5d5f353cf7676aab6e240591671a (unverified)
+﻿02:13:08 : Verified GUID (7b3b5d5f353cf7676aab6e240591671a) of player #0 SandReaper
+﻿02:13:09 : Player #0 SandReaper - Legacy GUID: e924ca2ad1b201b25a900fffc98c1ac5
+﻿02:13:11 : Player #0 SandReaper disconnected
+﻿02:16:53 : Player #0 SandReaper (71.199.99.212:2304) connected
+﻿02:16:54 : Player #0 SandReaper - GUID: 7b3b5d5f353cf7676aab6e240591671a (unverified)
+﻿02:16:54 : Verified GUID (7b3b5d5f353cf7676aab6e240591671a) of player #0 SandReaper
+﻿02:16:55 : Player #0 SandReaper - Legacy GUID: e924ca2ad1b201b25a900fffc98c1ac5
+﻿02:21:29 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿02:30:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 30 minutes
+﻿02:31:29 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿02:33:51 : Player #2 LawnOfLegend (71.28.160.98:2304) connected
+﻿02:33:52 : Player #2 LawnOfLegend - GUID: 56952554e7f18db484f16a4adaf72def (unverified)
+﻿02:33:53 : Verified GUID (56952554e7f18db484f16a4adaf72def) of player #2 LawnOfLegend
+﻿02:33:53 : Player #2 LawnOfLegend - Legacy GUID: a25d52da355be06004bfe87de9c8590b
+﻿02:37:22 : Player #2 LawnOfLegend disconnected
+﻿02:39:36 : Player #2 LawnOfLegend (71.28.160.98:2304) connected
+﻿02:39:37 : Player #2 LawnOfLegend - GUID: 56952554e7f18db484f16a4adaf72def (unverified)
+﻿02:39:38 : Verified GUID (56952554e7f18db484f16a4adaf72def) of player #2 LawnOfLegend
+﻿02:39:38 : Player #2 LawnOfLegend - Legacy GUID: a25d52da355be06004bfe87de9c8590b
+﻿02:41:30 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿02:45:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 15 minutes
+﻿02:50:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 10 minutes
+﻿02:51:30 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿02:54:52 : Player #0 SandReaper disconnected
+﻿02:55:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 5 minutes. Stop all vehicles and get out!
+﻿02:55:46 : Player #1 Changrey disconnected
+﻿02:59:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 1 minutes. Hit ESC to save your character
+﻿02:59:29 : Player #2 LawnOfLegend disconnected
+﻿03:00:02 : Lost Connection!
+﻿03:00:02 : Closing socket & exiting!
+﻿03:01:04 : Rcon client logging in
+﻿03:01:04 : RCon admin #1 (127.0.0.1:65523) logged in
+﻿03:01:14 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿03:05:09 : Player #0 LawnOfLegend (71.28.160.98:2304) connected
+﻿03:05:10 : Player #0 LawnOfLegend - GUID: 56952554e7f18db484f16a4adaf72def (unverified)
+﻿03:05:11 : Verified GUID (56952554e7f18db484f16a4adaf72def) of player #0 LawnOfLegend
+﻿03:05:11 : Player #0 LawnOfLegend - Legacy GUID: a25d52da355be06004bfe87de9c8590b
+﻿03:07:22 : No Valid response. Trying to reconnect.!
+﻿03:07:22 : Rcon client logging in
+﻿03:07:23 : RCon admin #1 (127.0.0.1:65523) logged in
+﻿03:10:12 : Player #1 SandReaper (71.199.99.212:2304) connected
+﻿03:10:13 : Player #1 SandReaper - GUID: 7b3b5d5f353cf7676aab6e240591671a (unverified)
+﻿03:10:14 : Verified GUID (7b3b5d5f353cf7676aab6e240591671a) of player #1 SandReaper
+﻿03:10:14 : Player #1 SandReaper - Legacy GUID: e924ca2ad1b201b25a900fffc98c1ac5
+﻿03:10:43 : Player #0 LawnOfLegend disconnected
+﻿03:11:13 : Player #0 Changrey (5.103.103.247:2304) connected
+﻿03:11:14 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿03:11:15 : Player #0 Changrey - GUID: 9a70741bb80b2b5a6ca2f8d88f296576 (unverified)
+﻿03:11:15 : Player #0 Changrey - Legacy GUID: 966226735eabf21049b342d6de0e3f8f
+﻿03:11:16 : Verified GUID (9a70741bb80b2b5a6ca2f8d88f296576) of player #0 Changrey
+﻿03:16:04 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿03:21:14 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿03:26:04 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿03:31:14 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿03:36:04 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿03:41:14 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿03:46:04 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿03:51:14 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿03:56:04 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿04:00:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 2 hours
+﻿04:01:14 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿04:06:04 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿04:11:14 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿04:21:14 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿04:26:17 : Player #2 waka waka (117.156.5.28:63353) connected
+﻿04:26:19 : Player #2 waka waka - GUID: 504d817cd2951beea8399b98eef72ce8 (unverified)
+﻿04:26:19 : Verified GUID (504d817cd2951beea8399b98eef72ce8) of player #2 waka waka
+﻿04:26:19 : Player #2 waka waka - Legacy GUID: 6f3a0b39236b10629d7d40569c0be0ad
+﻿04:30:22 : RCon admin #1: (To waka waka) BEC : You have about 60 seconds left to join the mission.
+﻿04:30:51 : RCon admin #1: (To waka waka) BEC : You have about 30 seconds left to join the mission.
+﻿04:31:05 : RCon admin #1: (To waka waka) BEC : You have about 15 seconds left to join the mission.
+﻿04:31:08 : Player #2 waka waka disconnected
+﻿04:31:14 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿04:41:14 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿04:51:14 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿05:00:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 1 hours
+﻿05:01:14 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿05:01:21 : Failed to receive from BE Master (2)
+﻿05:01:21 : Update attempt failed
+﻿05:03:26 : Failed to receive from BE Master (2)
+﻿05:03:26 : Update attempt failed
+﻿05:07:20 : Could not connect to BE Master
+﻿05:07:20 : Update attempt failed
+﻿05:11:14 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿05:15:38 : Player #1 SandReaper disconnected
+﻿05:21:14 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿05:30:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 30 minutes
+﻿05:31:14 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿05:35:17 : Could not connect to BE Master
+﻿05:35:18 : Update attempt failed
+﻿05:39:23 : Failed to receive from BE Master (2)
+﻿05:39:23 : Update attempt failed
+﻿05:41:14 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿05:41:20 : Could not connect to BE Master
+﻿05:41:20 : Update attempt failed
+﻿05:43:16 : Could not connect to BE Master
+﻿05:43:17 : Update attempt failed
+﻿05:45:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 15 minutes
+﻿05:49:37 : Player #1 kelvin (76.30.160.157:2304) connected
+﻿05:49:38 : Player #1 kelvin - GUID: 805a5fa9fd3d01f5e0a29e1d66dfec2c (unverified)
+﻿05:49:39 : Verified GUID (805a5fa9fd3d01f5e0a29e1d66dfec2c) of player #1 kelvin
+﻿05:49:39 : Player #1 kelvin disconnected
+﻿05:49:40 : Player #1 kelvin - Legacy GUID: 7c23f00ae7f21eba9085a6d74bb48dc3
+﻿05:50:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 10 minutes
+﻿05:51:14 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿05:55:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 5 minutes. Stop all vehicles and get out!
+﻿05:56:28 : Player #0 Changrey disconnected
+﻿05:59:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 1 minutes. Hit ESC to save your character
+﻿06:00:01 : Lost Connection!
+﻿06:00:01 : Closing socket & exiting!
+﻿06:01:14 : Rcon client logging in
+﻿06:01:14 : RCon admin #0 (127.0.0.1:56773) logged in
+﻿06:01:18 : RCon admin #1 (24.7.165.67:55036) logged in
+﻿06:01:24 : RCon admin #0: (Global) .:DoC:. Overpoch
+﻿06:06:14 : RCon admin #0: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿06:11:24 : RCon admin #0: (Global) .:DoC:. Overpoch
+﻿06:16:14 : RCon admin #0: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿06:21:24 : RCon admin #0: (Global) .:DoC:. Overpoch
+﻿06:25:06 : Player #0 waka waka (117.156.5.28:16623) connected
+﻿06:25:08 : Could not connect to BE Master
+﻿06:25:08 : Update attempt failed
+﻿06:25:08 : Player #0 waka waka - GUID: 504d817cd2951beea8399b98eef72ce8 (unverified)
+﻿06:25:09 : Verified GUID (504d817cd2951beea8399b98eef72ce8) of player #0 waka waka
+﻿06:25:10 : Player #0 waka waka - Legacy GUID: 6f3a0b39236b10629d7d40569c0be0ad
+﻿06:26:14 : RCon admin #0: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿06:27:11 : Player #0 waka waka disconnected
+﻿06:29:23 : Player #0 waka waka (117.156.5.28:16623) connected
+﻿06:29:35 : Player #0 waka waka - GUID: 504d817cd2951beea8399b98eef72ce8 (unverified)
+﻿06:29:35 : Verified GUID (504d817cd2951beea8399b98eef72ce8) of player #0 waka waka
+﻿06:29:37 : Player #0 waka waka - Legacy GUID: 6f3a0b39236b10629d7d40569c0be0ad
+﻿06:29:40 : Player #0 waka waka disconnected
+﻿06:31:24 : RCon admin #0: (Global) .:DoC:. Overpoch
+﻿06:34:55 : Player #0 waka waka (117.156.5.28:11797) connected
+﻿06:34:57 : Player #0 waka waka - GUID: 504d817cd2951beea8399b98eef72ce8 (unverified)
+﻿06:34:57 : Verified GUID (504d817cd2951beea8399b98eef72ce8) of player #0 waka waka
+﻿06:34:59 : Player #0 waka waka - Legacy GUID: 6f3a0b39236b10629d7d40569c0be0ad
+﻿06:35:02 : Player #0 waka waka disconnected
+﻿06:36:14 : RCon admin #0: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿06:41:06 : Player #0 waka waka (117.156.5.39:53775) connected
+﻿06:41:08 : Player #0 waka waka - GUID: 504d817cd2951beea8399b98eef72ce8 (unverified)
+﻿06:41:08 : Verified GUID (504d817cd2951beea8399b98eef72ce8) of player #0 waka waka
+﻿06:41:10 : Player #0 waka waka - Legacy GUID: 6f3a0b39236b10629d7d40569c0be0ad
+﻿06:41:24 : RCon admin #0: (Global) .:DoC:. Overpoch
+﻿06:44:18 : Player #1 <[IDC]> Revixy (89.150.152.22:2304) connected
+﻿06:44:20 : Player #1 <[IDC]> Revixy - GUID: 384e3dc7eed8d13c94b11b20f2e8ca46 (unverified)
+﻿06:44:21 : Player #1 <[IDC]> Revixy - Legacy GUID: fbbecc0bfe5b93f3bd2be72b308e26ad
+﻿06:44:21 : Verified GUID (384e3dc7eed8d13c94b11b20f2e8ca46) of player #1 <[IDC]> Revixy
+﻿06:45:25 : No Valid response. Trying to reconnect.!
+﻿06:45:29 : No Valid response. Trying to reconnect.!
+﻿06:45:33 : No Valid response. Trying to reconnect.!
+﻿06:45:37 : Lost Connection!
+﻿06:45:37 : Closing socket & exiting!
+﻿07:11:21 : Rcon client logging in
+﻿07:11:22 : RCon admin #0 (127.0.0.1:54731) logged in
+﻿07:11:22 : RCon admin #1 (24.7.165.67:50031) logged in
+﻿07:11:32 : RCon admin #0: (Global) .:DoC:. Overpoch
+﻿07:13:35 : Player #0 waka waka (117.156.5.39:64432) connected
+﻿07:13:40 : Player #0 waka waka - GUID: 504d817cd2951beea8399b98eef72ce8 (unverified)
+﻿07:13:40 : Verified GUID (504d817cd2951beea8399b98eef72ce8) of player #0 waka waka
+﻿07:13:41 : Player #0 waka waka - Legacy GUID: 6f3a0b39236b10629d7d40569c0be0ad
+﻿07:13:51 : Player #1 SandReaper (71.199.99.212:2304) connected
+﻿07:13:52 : Player #1 SandReaper - GUID: 7b3b5d5f353cf7676aab6e240591671a (unverified)
+﻿07:13:52 : Verified GUID (7b3b5d5f353cf7676aab6e240591671a) of player #1 SandReaper
+﻿07:13:53 : Player #1 SandReaper - Legacy GUID: e924ca2ad1b201b25a900fffc98c1ac5
+﻿07:13:56 : Player #1 SandReaper disconnected
+﻿07:16:22 : RCon admin #0: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿07:16:47 : Player #1 SandReaper (71.199.99.212:2304) connected
+﻿07:16:48 : Player #1 SandReaper - GUID: 7b3b5d5f353cf7676aab6e240591671a (unverified)
+﻿07:16:49 : Verified GUID (7b3b5d5f353cf7676aab6e240591671a) of player #1 SandReaper
+﻿07:16:49 : Player #1 SandReaper - Legacy GUID: e924ca2ad1b201b25a900fffc98c1ac5
+﻿07:21:32 : RCon admin #0: (Global) .:DoC:. Overpoch
+﻿07:26:22 : RCon admin #0: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿07:26:50 : RCon admin #0: (To waka waka) BEC : You have about 60 seconds left to join the mission.
+﻿07:27:22 : RCon admin #0: (To waka waka) BEC : You have about 30 seconds left to join the mission.
+﻿07:27:36 : RCon admin #0: (To waka waka) BEC : You have about 15 seconds left to join the mission.
+﻿07:27:53 : Player #0 waka waka (504d817cd2951beea8399b98eef72ce8) has been kicked by BattlEye: Admin Kick (BEC : Lobby idling to long)
+﻿07:29:34 : Player #0 Kohanah (71.84.182.108:2304) connected
+﻿07:29:36 : Player #0 Kohanah - GUID: 7f6de868c83e049a9deb7b226be91113 (unverified)
+﻿07:29:36 : Player #0 Kohanah - Legacy GUID: e2ecae65cadb902353e3deee1bc12d08
+﻿07:29:39 : Verified GUID (7f6de868c83e049a9deb7b226be91113) of player #0 Kohanah
+﻿07:31:32 : RCon admin #0: (Global) .:DoC:. Overpoch
+﻿07:32:06 : Player #0 Kohanah - Legacy GUID: e2ecae65cadb902353e3deee1bc12d08
+﻿07:36:22 : RCon admin #0: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿07:41:32 : RCon admin #0: (Global) .:DoC:. Overpoch
+﻿07:46:22 : RCon admin #0: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿07:51:32 : RCon admin #0: (Global) .:DoC:. Overpoch
+﻿07:56:22 : RCon admin #0: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿07:56:25 : Player #2 Fenrir (87.163.65.25:2304) connected
+﻿07:56:26 : Player #2 Fenrir - GUID: 2af1cee59477e22306a993668ba4e6ea (unverified)
+﻿07:56:26 : Verified GUID (2af1cee59477e22306a993668ba4e6ea) of player #2 Fenrir
+﻿07:56:27 : Player #2 Fenrir - Legacy GUID: 0d82f566b6136252e799a9369c34aa85
+﻿07:56:30 : Player #2 Fenrir disconnected
+﻿08:00:00 : RCon admin #0: (Global) .:DoC:. Server restarts in 1 hours
+﻿08:01:32 : RCon admin #0: (Global) .:DoC:. Overpoch
+﻿08:06:22 : RCon admin #0: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿08:11:32 : RCon admin #0: (Global) .:DoC:. Overpoch
+﻿08:16:22 : RCon admin #0: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿08:21:32 : RCon admin #0: (Global) .:DoC:. Overpoch
+﻿08:25:05 : Player #2 =Covert= ojs22 (90.204.201.82:2304) connected
+﻿08:25:06 : Player #2 =Covert= ojs22 - GUID: 75643f4139ba5a4f6253eb4f6b59428b (unverified)
+﻿08:25:06 : Player #2 =Covert= ojs22 (75643f4139ba5a4f6253eb4f6b59428b) has been kicked by BattlEye: Admin Kick (BEC : Your player name can not contain any of the chars:{}()0123)
+﻿08:30:00 : RCon admin #0: (Global) .:DoC:. Server restarts in 30 minutes
+﻿08:31:32 : RCon admin #0: (Global) .:DoC:. Overpoch
+﻿08:41:32 : RCon admin #0: (Global) .:DoC:. Overpoch
+﻿08:42:17 : Player #1 SandReaper disconnected
+﻿08:45:00 : RCon admin #0: (Global) .:DoC:. Server restarts in 15 minutes
+﻿08:46:11 : Player #1 Snake Eyes [DOC] (142.179.143.164:2304) connected
+﻿08:46:12 : Player #1 Snake Eyes [DOC] - GUID: 97c24e34f15bbafe4489eaa496782cb1 (unverified)
+﻿08:46:12 : Verified GUID (97c24e34f15bbafe4489eaa496782cb1) of player #1 Snake Eyes [DOC]
+﻿08:46:13 : Player #1 Snake Eyes [DOC] - Legacy GUID: 73eed24ea4d94d73d44a348d92b21ea5
+﻿08:50:00 : RCon admin #0: (Global) .:DoC:. Server restarts in 10 minutes
+﻿08:51:32 : RCon admin #0: (Global) .:DoC:. Overpoch
+﻿08:53:04 : Player #1 Snake Eyes [DOC] disconnected
+﻿08:55:00 : RCon admin #0: (Global) .:DoC:. Server restarts in 5 minutes. Stop all vehicles and get out!
+﻿08:56:07 : Player #0 Kohanah disconnected
+﻿08:59:00 : RCon admin #0: (Global) .:DoC:. Server restarts in 1 minutes. Hit ESC to save your character
+﻿09:00:03 : Lost Connection!
+﻿09:00:03 : Closing socket & exiting!
+﻿09:01:13 : Rcon client logging in
+﻿09:01:13 : RCon admin #0 (127.0.0.1:52808) logged in
+﻿09:01:14 : RCon admin #1 (24.7.165.67:59447) logged in
+﻿09:01:23 : RCon admin #0: (Global) .:DoC:. Overpoch
+﻿09:06:13 : RCon admin #0: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿09:11:23 : RCon admin #0: (Global) .:DoC:. Overpoch
+﻿09:16:13 : RCon admin #0: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿09:21:23 : RCon admin #0: (Global) .:DoC:. Overpoch
+﻿09:26:13 : RCon admin #0: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿09:31:23 : RCon admin #0: (Global) .:DoC:. Overpoch
+﻿09:36:13 : RCon admin #0: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿09:41:23 : RCon admin #0: (Global) .:DoC:. Overpoch
+﻿09:46:13 : RCon admin #0: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿09:51:23 : RCon admin #0: (Global) .:DoC:. Overpoch
+﻿09:56:13 : RCon admin #0: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿10:00:00 : RCon admin #0: (Global) .:DoC:. Server restarts in 2 hours
+﻿10:01:23 : RCon admin #0: (Global) .:DoC:. Overpoch
+﻿10:05:45 : Player #0 DaBethum (73.175.154.94:2304) connected
+﻿10:05:47 : Player #0 DaBethum - GUID: 742b776f3e650847db12c4b20a384d86 (unverified)
+﻿10:05:47 : Player #0 DaBethum - Legacy GUID: ddd0a79f185c67916d68bdd6c94aaec3
+﻿10:05:47 : Verified GUID (742b776f3e650847db12c4b20a384d86) of player #0 DaBethum
+﻿10:05:53 : Player #0 DaBethum disconnected
+﻿10:06:13 : RCon admin #0: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿10:07:21 : Player #0 DaBethum (73.175.154.94:2304) connected
+﻿10:07:22 : Player #0 DaBethum - GUID: 742b776f3e650847db12c4b20a384d86 (unverified)
+﻿10:07:23 : Verified GUID (742b776f3e650847db12c4b20a384d86) of player #0 DaBethum
+﻿10:07:23 : Player #0 DaBethum - Legacy GUID: ddd0a79f185c67916d68bdd6c94aaec3
+﻿10:09:45 : Player #0 DaBethum (742b776f3e650847db12c4b20a384d86) has been kicked by BattlEye: Client not responding
+﻿10:11:23 : RCon admin #0: (Global) .:DoC:. Overpoch
+﻿10:14:43 : Player #0 DaBethum (73.175.154.94:2304) connected
+﻿10:14:44 : Player #0 DaBethum - GUID: 742b776f3e650847db12c4b20a384d86 (unverified)
+﻿10:14:45 : Verified GUID (742b776f3e650847db12c4b20a384d86) of player #0 DaBethum
+﻿10:14:45 : Player #0 DaBethum - Legacy GUID: ddd0a79f185c67916d68bdd6c94aaec3
+﻿10:17:54 : No Valid response. Trying to reconnect.!
+﻿10:17:58 : No Valid response. Trying to reconnect.!
+﻿10:18:02 : No Valid response. Trying to reconnect.!
+﻿10:18:06 : Lost Connection!
+﻿10:18:06 : Closing socket & exiting!
+﻿15:51:12 : Rcon client logging in
+﻿15:51:12 : RCon admin #1 (127.0.0.1:59988) logged in
+﻿15:51:23 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿15:56:13 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿15:57:14 : Player #0 Vesicant (24.222.127.207:2304) connected
+﻿15:57:15 : Player #0 Vesicant - GUID: ade72cc2c5c71c96de7421afef156d44 (unverified)
+﻿15:57:16 : Player #0 Vesicant - Legacy GUID: dfe979a05e7eda44a463d2d5da7b7e7f
+﻿15:57:16 : Verified GUID (ade72cc2c5c71c96de7421afef156d44) of player #0 Vesicant
+﻿15:57:58 : Player #1 Rapture (173.218.2.244:2304) connected
+﻿15:57:59 : Player #1 Rapture - GUID: cfb6d47b3a9e2f8834cebf9c72f0900c (unverified)
+﻿15:57:59 : Verified GUID (cfb6d47b3a9e2f8834cebf9c72f0900c) of player #1 Rapture
+﻿15:58:00 : Player #1 Rapture - Legacy GUID: 2512716e7b10b86a775999ce808dca6e
+﻿15:58:29 : Player #2 red beret (24.239.58.100:2304) connected
+﻿15:58:30 : Player #2 red beret - GUID: a1c207391eb02db8acaa6d0ef3dbaa68 (unverified)
+﻿15:58:30 : Verified GUID (a1c207391eb02db8acaa6d0ef3dbaa68) of player #2 red beret
+﻿15:58:30 : Player #2 red beret - Owner GUID: 1f1bd295ebaee9b0d898f3412f9e79f4
+﻿15:58:31 : Player #2 red beret - Legacy GUID: 1f47515801f344af4ef4983fa0890d1b
+﻿15:59:11 : Player #0 Vesicant disconnected
+﻿15:59:25 : Player #1 Rapture (cfb6d47b3a9e2f8834cebf9c72f0900c) has been kicked by BattlEye: Client not responding
+﻿15:59:51 : Player #0 Vesicant (24.222.127.207:2304) connected
+﻿15:59:52 : Player #0 Vesicant - GUID: ade72cc2c5c71c96de7421afef156d44 (unverified)
+﻿15:59:52 : Verified GUID (ade72cc2c5c71c96de7421afef156d44) of player #0 Vesicant
+﻿15:59:53 : Player #0 Vesicant - Legacy GUID: dfe979a05e7eda44a463d2d5da7b7e7f
+﻿16:00:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 2 hours
+﻿16:00:39 : Player #1 TobyonPC (155.143.47.130:55044) connected
+﻿16:00:40 : Player #1 TobyonPC - GUID: e2022ac91fb9f331e3624e4e106ae8b4 (unverified)
+﻿16:00:40 : Verified GUID (e2022ac91fb9f331e3624e4e106ae8b4) of player #1 TobyonPC
+﻿16:00:40 : Player #1 TobyonPC disconnected
+﻿16:01:23 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿16:06:13 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿16:06:20 : Player #1 MasterChief (50.4.72.93:2304) connected
+﻿16:06:34 : Player #1 MasterChief - GUID: 9f05d38b2e454829aafa8cc12b8371a0 (unverified)
+﻿16:06:35 : Verified GUID (9f05d38b2e454829aafa8cc12b8371a0) of player #1 MasterChief
+﻿16:06:36 : Player #1 MasterChief - Legacy GUID: bf2e3cc1fe99153ef90e6345cb37e484
+﻿16:09:46 : Player #3 Rapture (173.218.2.244:2304) connected
+﻿16:09:47 : Player #3 Rapture - GUID: cfb6d47b3a9e2f8834cebf9c72f0900c (unverified)
+﻿16:09:47 : Verified GUID (cfb6d47b3a9e2f8834cebf9c72f0900c) of player #3 Rapture
+﻿16:09:48 : Player #3 Rapture - Legacy GUID: 2512716e7b10b86a775999ce808dca6e
+﻿16:09:50 : Player #1 MasterChief (9f05d38b2e454829aafa8cc12b8371a0) has been kicked by BattlEye: Client not responding
+﻿16:11:09 : Player #1 MasterChief (50.4.72.93:2304) connected
+﻿16:11:10 : Player #1 MasterChief - GUID: 9f05d38b2e454829aafa8cc12b8371a0 (unverified)
+﻿16:11:10 : Verified GUID (9f05d38b2e454829aafa8cc12b8371a0) of player #1 MasterChief
+﻿16:11:11 : Player #1 MasterChief - Legacy GUID: bf2e3cc1fe99153ef90e6345cb37e484
+﻿16:11:23 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿16:12:06 : Player #1 MasterChief (9f05d38b2e454829aafa8cc12b8371a0) has been kicked by BattlEye: Client not responding
+﻿16:14:36 : Player #1 Hunter Atkinson (71.86.126.151:2304) connected
+﻿16:14:37 : Player #1 Hunter Atkinson - GUID: 958443747fb5a53c606fc305f14899ef (unverified)
+﻿16:14:37 : Verified GUID (958443747fb5a53c606fc305f14899ef) of player #1 Hunter Atkinson
+﻿16:14:38 : Player #1 Hunter Atkinson - Legacy GUID: 560721445d52490bb9f3be063aaf46b3
+﻿16:14:48 : Player #4 MasterChief (50.4.72.93:2304) connected
+﻿16:14:49 : Player #4 MasterChief - GUID: 9f05d38b2e454829aafa8cc12b8371a0 (unverified)
+﻿16:14:50 : Verified GUID (9f05d38b2e454829aafa8cc12b8371a0) of player #4 MasterChief
+﻿16:14:51 : Player #4 MasterChief - Legacy GUID: bf2e3cc1fe99153ef90e6345cb37e484
+﻿16:16:13 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿16:17:11 : Player #1 Hunter Atkinson disconnected
+﻿16:19:14 : Player #3 Rapture disconnected
+﻿16:21:23 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿16:23:10 : Player #4 MasterChief disconnected
+﻿16:23:14 : Rcon client logging in
+﻿16:23:14 : RCon admin #2 (127.0.0.1:52661) logged in
+﻿16:23:14 : RCon admin #2 (127.0.0.1:52661) logged in
+﻿16:26:13 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿16:26:26 : Player #1 Hunter Atkinson (71.86.126.151:2304) connected
+﻿16:26:27 : Player #1 Hunter Atkinson - GUID: 958443747fb5a53c606fc305f14899ef (unverified)
+﻿16:26:27 : Verified GUID (958443747fb5a53c606fc305f14899ef) of player #1 Hunter Atkinson
+﻿16:26:28 : Player #1 Hunter Atkinson - Legacy GUID: 560721445d52490bb9f3be063aaf46b3
+﻿16:28:50 : Player #3 LawnOfLegend (71.28.160.98:2304) connected
+﻿16:28:51 : Player #3 LawnOfLegend - GUID: 56952554e7f18db484f16a4adaf72def (unverified)
+﻿16:28:51 : Verified GUID (56952554e7f18db484f16a4adaf72def) of player #3 LawnOfLegend
+﻿16:28:52 : Player #3 LawnOfLegend - Legacy GUID: a25d52da355be06004bfe87de9c8590b
+﻿16:29:00 : Player #3 LawnOfLegend disconnected
+﻿16:29:59 : Player #3 LawnOfLegend (71.28.160.98:2304) connected
+﻿16:29:59 : Player #3 LawnOfLegend - GUID: 56952554e7f18db484f16a4adaf72def (unverified)
+﻿16:30:00 : Verified GUID (56952554e7f18db484f16a4adaf72def) of player #3 LawnOfLegend
+﻿16:30:01 : Player #3 LawnOfLegend - Legacy GUID: a25d52da355be06004bfe87de9c8590b
+﻿16:31:23 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿16:32:08 : Player #4 Spud (76.103.77.135:2304) connected
+﻿16:32:10 : Player #4 Spud - GUID: 158f7138100ee029faeeaad574cca4fe (unverified)
+﻿16:32:10 : Verified GUID (158f7138100ee029faeeaad574cca4fe) of player #4 Spud
+﻿16:32:11 : Player #4 Spud - Legacy GUID: 5d9f1b52c6ba054b735ddce0f4358aac
+﻿16:36:13 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿16:40:10 : Player #3 LawnOfLegend disconnected
+﻿16:41:23 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿16:45:00 : Player #3 MasterChief (50.4.72.93:2304) connected
+﻿16:45:02 : Player #3 MasterChief - GUID: 9f05d38b2e454829aafa8cc12b8371a0 (unverified)
+﻿16:45:02 : Verified GUID (9f05d38b2e454829aafa8cc12b8371a0) of player #3 MasterChief
+﻿16:45:02 : Player #3 MasterChief - Legacy GUID: bf2e3cc1fe99153ef90e6345cb37e484
+﻿16:45:32 : Player #3 MasterChief disconnected
+﻿16:46:13 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿16:48:07 : Player #3 Duke of Wu-Tang (99.90.75.108:2304) connected
+﻿16:48:08 : Player #3 Duke of Wu-Tang - GUID: 4bead3f64b1d623c67894ca614ce7cb8 (unverified)
+﻿16:48:08 : Verified GUID (4bead3f64b1d623c67894ca614ce7cb8) of player #3 Duke of Wu-Tang
+﻿16:48:09 : Player #3 Duke of Wu-Tang - Legacy GUID: 81655eacc78f2eefd7f7bb5cf276eaba
+﻿16:50:13 : Player #5 MasterChief (50.4.72.93:2304) connected
+﻿16:50:15 : Player #5 MasterChief - GUID: 9f05d38b2e454829aafa8cc12b8371a0 (unverified)
+﻿16:50:15 : Player #5 MasterChief - Legacy GUID: bf2e3cc1fe99153ef90e6345cb37e484
+﻿16:50:16 : Verified GUID (9f05d38b2e454829aafa8cc12b8371a0) of player #5 MasterChief
+﻿16:51:23 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿16:54:04 : Player #5 MasterChief disconnected
+﻿16:56:03 : Player #1 Hunter Atkinson disconnected
+﻿16:56:13 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿17:00:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 1 hours
+﻿17:01:23 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿17:01:29 : Player #1 Captain Cuddles (76.200.226.168:2304) connected
+﻿17:01:30 : Player #1 Captain Cuddles - GUID: 7103756361984c4974964159e4147665 (unverified)
+﻿17:01:31 : Verified GUID (7103756361984c4974964159e4147665) of player #1 Captain Cuddles
+﻿17:01:31 : Player #1 Captain Cuddles - Legacy GUID: 4762f19ba4fcafee560ffd7fbe70294c
+﻿17:04:09 : Player #5 DaBethum (73.175.154.94:2304) connected
+﻿17:04:10 : Player #5 DaBethum - GUID: 742b776f3e650847db12c4b20a384d86 (unverified)
+﻿17:04:10 : Verified GUID (742b776f3e650847db12c4b20a384d86) of player #5 DaBethum
+﻿17:04:11 : Player #5 DaBethum - Legacy GUID: ddd0a79f185c67916d68bdd6c94aaec3
+﻿17:06:16 : Player #6 MasterChief (50.4.72.93:2304) connected
+﻿17:06:17 : Player #6 MasterChief - GUID: 9f05d38b2e454829aafa8cc12b8371a0 (unverified)
+﻿17:06:17 : Verified GUID (9f05d38b2e454829aafa8cc12b8371a0) of player #6 MasterChief
+﻿17:06:18 : Player #6 MasterChief - Legacy GUID: bf2e3cc1fe99153ef90e6345cb37e484
+﻿17:10:59 : Player #6 MasterChief (9f05d38b2e454829aafa8cc12b8371a0) has been kicked by BattlEye: Client not responding
+﻿17:11:23 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿17:19:11 : Player #6 Ricky (122.148.87.158:2304) connected
+﻿17:19:13 : Player #6 Ricky - GUID: f17fcf96d46be59cc5bdd82f23b7453c (unverified)
+﻿17:19:13 : Verified GUID (f17fcf96d46be59cc5bdd82f23b7453c) of player #6 Ricky
+﻿17:19:14 : Player #6 Ricky - Legacy GUID: b47014771a9547028d3f4c474ac82a2e
+﻿17:20:45 : Player #7 MasterChief (50.4.72.93:2304) connected
+﻿17:20:46 : Player #7 MasterChief - GUID: 9f05d38b2e454829aafa8cc12b8371a0 (unverified)
+﻿17:20:46 : Verified GUID (9f05d38b2e454829aafa8cc12b8371a0) of player #7 MasterChief
+﻿17:20:47 : Player #7 MasterChief - Legacy GUID: bf2e3cc1fe99153ef90e6345cb37e484
+﻿17:21:23 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿17:30:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 30 minutes
+﻿17:30:08 : Player #8 Hunter Atkinson (71.86.126.151:2304) connected
+﻿17:30:14 : Player #8 Hunter Atkinson - GUID: 958443747fb5a53c606fc305f14899ef (unverified)
+﻿17:30:14 : Verified GUID (958443747fb5a53c606fc305f14899ef) of player #8 Hunter Atkinson
+﻿17:30:14 : Player #8 Hunter Atkinson - Legacy GUID: 560721445d52490bb9f3be063aaf46b3
+﻿17:31:23 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿17:33:35 : Player #9 Gomez-R (50.109.235.41:2304) connected
+﻿17:33:36 : Player #9 Gomez-R - GUID: d989990db3b07c75cde4cb8769ce38f2 (unverified)
+﻿17:33:37 : Verified GUID (d989990db3b07c75cde4cb8769ce38f2) of player #9 Gomez-R
+﻿17:33:37 : Player #9 Gomez-R - Legacy GUID: a94e449ba191faa1265f70f96c3ddefb
+﻿17:33:39 : Player #9 Gomez-R disconnected
+﻿17:35:46 : Player #6 Ricky disconnected
+﻿17:39:22 : Player #7 MasterChief (9f05d38b2e454829aafa8cc12b8371a0) has been kicked by BattlEye: Client not responding
+﻿17:41:23 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿17:44:13 : Player #6 MasterChief (50.4.72.93:2304) connected
+﻿17:44:14 : Player #6 MasterChief - GUID: 9f05d38b2e454829aafa8cc12b8371a0 (unverified)
+﻿17:44:14 : Verified GUID (9f05d38b2e454829aafa8cc12b8371a0) of player #6 MasterChief
+﻿17:44:15 : Player #6 MasterChief - Legacy GUID: bf2e3cc1fe99153ef90e6345cb37e484
+﻿17:45:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 15 minutes
+﻿17:46:19 : Player #7 Rapture (173.218.2.244:2304) connected
+﻿17:46:20 : Player #7 Rapture - GUID: cfb6d47b3a9e2f8834cebf9c72f0900c (unverified)
+﻿17:46:20 : Verified GUID (cfb6d47b3a9e2f8834cebf9c72f0900c) of player #7 Rapture
+﻿17:46:21 : Player #7 Rapture - Legacy GUID: 2512716e7b10b86a775999ce808dca6e
+﻿17:46:34 : Player #7 Rapture disconnected
+﻿17:47:01 : Player #7 Rapture (173.218.2.244:2304) connected
+﻿17:47:02 : Player #7 Rapture - GUID: cfb6d47b3a9e2f8834cebf9c72f0900c (unverified)
+﻿17:47:02 : Verified GUID (cfb6d47b3a9e2f8834cebf9c72f0900c) of player #7 Rapture
+﻿17:47:03 : Player #7 Rapture - Legacy GUID: 2512716e7b10b86a775999ce808dca6e
+﻿17:49:03 : Player #1 Captain Cuddles disconnected
+﻿17:50:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 10 minutes
+﻿17:51:23 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿17:55:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 5 minutes. Stop all vehicles and get out!
+﻿17:56:17 : Player #1 Captain Cuddles (76.200.226.168:2304) connected
+﻿17:56:18 : Player #1 Captain Cuddles - GUID: 7103756361984c4974964159e4147665 (unverified)
+﻿17:56:18 : Verified GUID (7103756361984c4974964159e4147665) of player #1 Captain Cuddles
+﻿17:56:19 : Player #1 Captain Cuddles - Legacy GUID: 4762f19ba4fcafee560ffd7fbe70294c
+﻿17:59:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 1 minutes. Hit ESC to save your character
+﻿17:59:32 : RCon admin #1: (To Vesicant) BEC : You have about 60 seconds left to join the mission.
+﻿18:00:00 : Lost Connection!
+﻿18:00:00 : Closing socket & exiting!
+﻿18:00:25 : Rcon client logging in
+﻿18:00:26 : RCon admin #1 (127.0.0.1:49286) logged in
+﻿18:00:36 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿18:00:47 : Player #1 DaBethum (73.175.154.94:2304) connected
+﻿18:00:48 : Player #1 DaBethum - GUID: 742b776f3e650847db12c4b20a384d86 (unverified)
+﻿18:00:48 : Verified GUID (742b776f3e650847db12c4b20a384d86) of player #1 DaBethum
+﻿18:01:05 : Player #2 MasterChief (50.4.72.93:2304) connected
+﻿18:01:05 : Player #1 DaBethum - Legacy GUID: ddd0a79f185c67916d68bdd6c94aaec3
+﻿18:01:06 : Player #2 MasterChief - GUID: 9f05d38b2e454829aafa8cc12b8371a0 (unverified)
+﻿18:01:06 : Verified GUID (9f05d38b2e454829aafa8cc12b8371a0) of player #2 MasterChief
+﻿18:01:07 : Player #2 MasterChief - Legacy GUID: bf2e3cc1fe99153ef90e6345cb37e484
+﻿18:01:23 : Player #3 Hunter Atkinson (71.86.126.151:2304) connected
+﻿18:01:23 : Player #4 Saag (70.72.185.27:2304) connected
+﻿18:01:24 : Player #4 Saag - GUID: 9c1fc17aad99c7fadac00319ada409af (unverified)
+﻿18:01:24 : Verified GUID (9c1fc17aad99c7fadac00319ada409af) of player #4 Saag
+﻿18:01:24 : Player #3 Hunter Atkinson - GUID: 958443747fb5a53c606fc305f14899ef (unverified)
+﻿18:01:24 : Player #4 Saag disconnected
+﻿18:01:24 : Verified GUID (958443747fb5a53c606fc305f14899ef) of player #3 Hunter Atkinson
+﻿18:01:25 : Player #3 Hunter Atkinson - Legacy GUID: 560721445d52490bb9f3be063aaf46b3
+﻿18:01:26 : Player #4 Rapture (173.218.2.244:2304) connected
+﻿18:01:28 : Player #4 Rapture - GUID: cfb6d47b3a9e2f8834cebf9c72f0900c (unverified)
+﻿18:01:28 : Player #4 Rapture - Legacy GUID: 2512716e7b10b86a775999ce808dca6e
+﻿18:01:28 : Verified GUID (cfb6d47b3a9e2f8834cebf9c72f0900c) of player #4 Rapture
+﻿18:02:38 : Player #5 Duke of Wu-Tang (99.90.75.108:2304) connected
+﻿18:02:39 : Player #5 Duke of Wu-Tang - GUID: 4bead3f64b1d623c67894ca614ce7cb8 (unverified)
+﻿18:02:39 : Verified GUID (4bead3f64b1d623c67894ca614ce7cb8) of player #5 Duke of Wu-Tang
+﻿18:02:41 : Player #5 Duke of Wu-Tang - Legacy GUID: 81655eacc78f2eefd7f7bb5cf276eaba
+﻿18:04:00 : Player #4 Rapture disconnected
+﻿18:04:42 : Player #4 Rapture (173.218.2.244:2304) connected
+﻿18:04:44 : Player #4 Rapture - GUID: cfb6d47b3a9e2f8834cebf9c72f0900c (unverified)
+﻿18:04:44 : Player #4 Rapture - Legacy GUID: 2512716e7b10b86a775999ce808dca6e
+﻿18:04:44 : Verified GUID (cfb6d47b3a9e2f8834cebf9c72f0900c) of player #4 Rapture
+﻿18:05:10 : Player #6 Captain Cuddles (76.200.226.168:2304) connected
+﻿18:05:11 : Player #6 Captain Cuddles - GUID: 7103756361984c4974964159e4147665 (unverified)
+﻿18:05:12 : Verified GUID (7103756361984c4974964159e4147665) of player #6 Captain Cuddles
+﻿18:05:12 : Player #6 Captain Cuddles - Legacy GUID: 4762f19ba4fcafee560ffd7fbe70294c
+﻿18:05:26 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿18:06:07 : Player #7 Vesicant (24.222.127.207:2304) connected
+﻿18:06:08 : Player #7 Vesicant - GUID: ade72cc2c5c71c96de7421afef156d44 (unverified)
+﻿18:06:08 : Verified GUID (ade72cc2c5c71c96de7421afef156d44) of player #7 Vesicant
+﻿18:06:09 : Player #7 Vesicant - Legacy GUID: dfe979a05e7eda44a463d2d5da7b7e7f
+﻿18:10:36 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿18:14:33 : Player #3 Hunter Atkinson disconnected
+﻿18:15:26 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿18:15:30 : Player #3 Hunter Atkinson (71.86.126.151:2304) connected
+﻿18:15:31 : Player #3 Hunter Atkinson - GUID: 958443747fb5a53c606fc305f14899ef (unverified)
+﻿18:15:31 : Verified GUID (958443747fb5a53c606fc305f14899ef) of player #3 Hunter Atkinson
+﻿18:15:32 : Player #3 Hunter Atkinson - Legacy GUID: 560721445d52490bb9f3be063aaf46b3
+﻿18:18:27 : Player #3 Hunter Atkinson disconnected
+﻿18:19:07 : Player #3 Hunter Atkinson (71.86.126.151:2304) connected
+﻿18:19:08 : Player #3 Hunter Atkinson - GUID: 958443747fb5a53c606fc305f14899ef (unverified)
+﻿18:19:08 : Verified GUID (958443747fb5a53c606fc305f14899ef) of player #3 Hunter Atkinson
+﻿18:19:09 : Player #3 Hunter Atkinson - Legacy GUID: 560721445d52490bb9f3be063aaf46b3
+﻿18:20:36 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿18:23:20 : Player #6 Captain Cuddles disconnected
+﻿18:24:06 : Player #6 Captain Cuddles (76.200.226.168:2304) connected
+﻿18:24:07 : Player #6 Captain Cuddles - GUID: 7103756361984c4974964159e4147665 (unverified)
+﻿18:24:08 : Player #6 Captain Cuddles - Legacy GUID: 4762f19ba4fcafee560ffd7fbe70294c
+﻿18:24:10 : Verified GUID (7103756361984c4974964159e4147665) of player #6 Captain Cuddles
+﻿18:25:03 : Player #8 XPlorer2 (135.26.28.135:2304) connected
+﻿18:25:04 : Player #8 XPlorer2 - GUID: 602c2c439849ff3d62748d63ec86a873 (unverified)
+﻿18:25:04 : Player #8 XPlorer2 (602c2c439849ff3d62748d63ec86a873) has been kicked by BattlEye: Admin Kick (BEC : Your player name can not contain any of the chars:{}()0123)
+﻿18:25:26 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿18:30:36 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿18:33:19 : Player #0 Spud disconnected
+﻿18:33:23 : Player #0 Spud (76.103.77.135:2304) connected
+﻿18:33:24 : Player #0 Spud - GUID: 158f7138100ee029faeeaad574cca4fe (unverified)
+﻿18:33:24 : Verified GUID (158f7138100ee029faeeaad574cca4fe) of player #0 Spud
+﻿18:33:27 : Player #0 Spud - Legacy GUID: 5d9f1b52c6ba054b735ddce0f4358aac
+﻿18:34:52 : Player #8 SandReaper (71.199.99.212:2304) connected
+﻿18:34:53 : Player #8 SandReaper - GUID: 7b3b5d5f353cf7676aab6e240591671a (unverified)
+﻿18:34:53 : Verified GUID (7b3b5d5f353cf7676aab6e240591671a) of player #8 SandReaper
+﻿18:34:54 : Player #8 SandReaper - Legacy GUID: e924ca2ad1b201b25a900fffc98c1ac5
+﻿18:35:26 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿18:36:55 : Player #0 Spud disconnected
+﻿18:37:16 : Player #4 Rapture disconnected
+﻿18:40:36 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿18:41:32 : No Valid response. Trying to reconnect.!
+﻿18:41:32 : Rcon client logging in
+﻿18:41:32 : RCon admin #1 (127.0.0.1:49286) logged in
+﻿18:42:05 : Player #0 Spud (76.103.77.135:2304) connected
+﻿18:42:06 : Player #0 Spud - GUID: 158f7138100ee029faeeaad574cca4fe (unverified)
+﻿18:42:06 : Verified GUID (158f7138100ee029faeeaad574cca4fe) of player #0 Spud
+﻿18:42:07 : Player #0 Spud - Legacy GUID: 5d9f1b52c6ba054b735ddce0f4358aac
+﻿18:45:26 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿18:50:36 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿18:55:26 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿19:00:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 2 hours
+﻿19:00:36 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿19:00:38 : Player #4 Administrator (206.174.107.150:2304) connected
+﻿19:00:41 : Player #4 Administrator disconnected
+﻿19:05:10 : Player #0 Spud disconnected
+﻿19:05:26 : RCon admin #1: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿19:10:36 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿19:14:44 : Player #1 DaBethum disconnected
+﻿19:20:36 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿19:20:43 : Player #3 Hunter Atkinson disconnected
+﻿19:27:42 : Player #0 Needy (67.161.100.173:2304) connected
+﻿19:27:43 : Player #0 Needy - GUID: 92ab092224b61a65ec30460322329469 (unverified)
+﻿19:27:44 : Verified GUID (92ab092224b61a65ec30460322329469) of player #0 Needy
+﻿19:27:44 : Player #0 Needy - Legacy GUID: 9a6ec03c4a83e51dd50813019da2e1be
+﻿19:27:45 : Player #0 Needy disconnected
+﻿19:27:54 : Player #0 James (70.69.160.229:2304) connected
+﻿19:27:55 : Player #0 James - GUID: 39f95cbbeaa658784209f0e04310bef6 (unverified)
+﻿19:27:56 : Verified GUID (39f95cbbeaa658784209f0e04310bef6) of player #0 James
+﻿19:27:57 : Player #0 James - Legacy GUID: 60bd2bd287fec63c4487353b87492aeb
+﻿19:28:24 : Player #1 Canadian Bacon (174.1.93.190:2304) connected
+﻿19:28:25 : Player #1 Canadian Bacon - GUID: d3b8154bc457e306ae14d726b1d72d8a (unverified)
+﻿19:28:26 : Verified GUID (d3b8154bc457e306ae14d726b1d72d8a) of player #1 Canadian Bacon
+﻿19:28:26 : Player #1 Canadian Bacon - Legacy GUID: e0cb8cf999f5953bc1605680e94b0ea8
+﻿19:30:36 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿19:32:26 : RCon admin #1: (To Canadian Bacon) BEC : You have about 60 seconds left to join the mission.
+﻿19:32:57 : RCon admin #1: (To Canadian Bacon) BEC : You have about 30 seconds left to join the mission.
+﻿19:33:12 : RCon admin #1: (To Canadian Bacon) BEC : You have about 15 seconds left to join the mission.
+﻿19:34:22 : Player #3 Bryan (98.247.109.160:2304) connected
+﻿19:34:23 : Player #3 Bryan disconnected
+﻿19:34:35 : Player #3 Needy (67.161.100.173:2304) connected
+﻿19:34:36 : Player #3 Needy - GUID: 92ab092224b61a65ec30460322329469 (unverified)
+﻿19:34:37 : Verified GUID (92ab092224b61a65ec30460322329469) of player #3 Needy
+﻿19:34:37 : Player #3 Needy - Legacy GUID: 9a6ec03c4a83e51dd50813019da2e1be
+﻿19:37:46 : Player #0 James disconnected
+﻿19:38:18 : RCon admin #1: (To Vesicant) Only use Ascii on chat. Warnings left:2
+﻿19:38:30 : Player #0 James (70.69.160.229:2304) connected
+﻿19:38:31 : Player #0 James - GUID: 39f95cbbeaa658784209f0e04310bef6 (unverified)
+﻿19:38:32 : Verified GUID (39f95cbbeaa658784209f0e04310bef6) of player #0 James
+﻿19:38:33 : Player #0 James - Legacy GUID: 60bd2bd287fec63c4487353b87492aeb
+﻿19:40:36 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿19:41:09 : RCon admin #1: (To Vesicant) Only use Ascii on chat. Warnings left:1
+﻿19:47:51 : Player #2 MasterChief disconnected
+﻿19:50:36 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿19:54:05 : Player #7 Vesicant disconnected
+﻿19:57:42 : Player #2 Bill Guarnere (74.133.124.200:2304) connected
+﻿19:57:43 : Player #2 Bill Guarnere - GUID: 6adc41a6b0075c3a1c5b3291d619a330 (unverified)
+﻿19:57:43 : Verified GUID (6adc41a6b0075c3a1c5b3291d619a330) of player #2 Bill Guarnere
+﻿19:57:44 : Player #2 Bill Guarnere - Legacy GUID: b41480466edf7fd2aa599875b0b8ccc2
+﻿19:59:07 : Player #1 Canadian Bacon disconnected
+﻿19:59:14 : Player #0 James disconnected
+﻿19:59:51 : Player #0 matthew (71.32.245.211:2304) connected
+﻿19:59:52 : Player #0 matthew - GUID: 081b6d150710a2be6133068b108daccf (unverified)
+﻿19:59:53 : Verified GUID (081b6d150710a2be6133068b108daccf) of player #0 matthew
+﻿19:59:53 : Player #0 matthew disconnected
+﻿20:00:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 1 hours
+﻿20:00:29 : Player #3 Needy disconnected
+﻿20:00:36 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿20:07:34 : Player #5 Duke of Wu-Tang disconnected
+﻿20:07:37 : Player #6 Captain Cuddles disconnected
+﻿20:10:24 : Player #2 Bill Guarnere disconnected
+﻿20:10:36 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿20:20:36 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿20:30:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 30 minutes
+﻿20:30:36 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿20:40:36 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿20:45:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 15 minutes
+﻿20:50:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 10 minutes
+﻿20:50:36 : RCon admin #1: (Global) .:DoC:. Overpoch
+﻿20:55:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 5 minutes. Stop all vehicles and get out!
+﻿20:57:12 : Player #8 SandReaper disconnected
+﻿20:59:00 : RCon admin #1: (Global) .:DoC:. Server restarts in 1 minutes. Hit ESC to save your character
+﻿21:00:03 : Lost Connection!
+﻿21:00:03 : Closing socket & exiting!
+﻿21:01:09 : Rcon client logging in
+﻿21:01:10 : RCon admin #0 (127.0.0.1:55593) logged in
+﻿21:01:14 : RCon admin #1 (24.7.165.67:54127) logged in
+﻿21:01:20 : RCon admin #0: (Global) .:DoC:. Overpoch
+﻿21:06:10 : RCon admin #0: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿21:08:19 : Player #0 SandReaper (71.199.99.212:2304) connected
+﻿21:08:21 : Player #0 SandReaper - GUID: 7b3b5d5f353cf7676aab6e240591671a (unverified)
+﻿21:08:21 : Verified GUID (7b3b5d5f353cf7676aab6e240591671a) of player #0 SandReaper
+﻿21:08:22 : Player #0 SandReaper - Legacy GUID: e924ca2ad1b201b25a900fffc98c1ac5
+﻿21:11:20 : RCon admin #0: (Global) .:DoC:. Overpoch
+﻿21:16:10 : RCon admin #0: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿21:21:20 : RCon admin #0: (Global) .:DoC:. Overpoch
+﻿21:26:10 : RCon admin #0: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿21:31:20 : RCon admin #0: (Global) .:DoC:. Overpoch
+﻿21:36:10 : RCon admin #0: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿21:40:35 : Player #1 danil (62.33.72.35:7701) connected
+﻿21:40:36 : Player #1 danil - GUID: 2635b9b21ae7b2095ddd97f34a7c619b (unverified)
+﻿21:40:36 : Verified GUID (2635b9b21ae7b2095ddd97f34a7c619b) of player #1 danil
+﻿21:40:37 : Player #1 danil - Legacy GUID: 4cd3d25bacc5d49a66c40087568b8275
+﻿21:40:39 : Player #1 danil disconnected
+﻿21:41:20 : RCon admin #0: (Global) .:DoC:. Overpoch
+﻿21:46:10 : RCon admin #0: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿21:51:20 : RCon admin #0: (Global) .:DoC:. Overpoch
+﻿21:56:10 : RCon admin #0: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿22:00:00 : RCon admin #0: (Global) .:DoC:. Server restarts in 2 hours
+﻿22:01:20 : RCon admin #0: (Global) .:DoC:. Overpoch
+﻿22:06:10 : RCon admin #0: (Global) .:DoC:. Server restarts every 3 hrs starting at 12am PST
+﻿22:06:42 : Player #0 SandReaper disconnected
+﻿22:11:20 : RCon admin #0: (Global) .:DoC:. Overpoch
+﻿22:16:49 : Player #0 [NSG] Bdoodb (174.4.185.57:2304) connected
+﻿22:16:51 : Player #0 [NSG] Bdoodb - GUID: 65e2dec4c50de870caa399bc4a0c4bc8 (unverified)
+﻿22:16:51 : Verified GUID (65e2dec4c50de870caa399bc4a0c4bc8) of player #0 [NSG] Bdoodb
+﻿22:16:51 : Player #0 [NSG] Bdoodb - Legacy GUID: 91940d85a90c36dcfc3626340dcbd82c
+﻿22:16:56 : Player #0 [NSG] Bdoodb disconnected
+﻿22:19:15 : Player #0 [NSG] Bdoodb (174.4.185.57:2304) connected
+﻿22:19:16 : Player #0 [NSG] Bdoodb - GUID: 65e2dec4c50de870caa399bc4a0c4bc8 (unverified)
+﻿22:19:16 : Verified GUID (65e2dec4c50de870caa399bc4a0c4bc8) of player #0 [NSG] Bdoodb
+﻿22:19:17 : Player #0 [NSG] Bdoodb - Legacy GUID: 91940d85a90c36dcfc3626340dcbd82c
+﻿22:21:20 : RCon admin #0: (Global) .:DoC:. Overpoch
+﻿22:31:20 : RCon admin #0: (Global) .:DoC:. Overpoch
+﻿22:38:49 : Player #1 Jenkworthy (68.149.226.108:2304) connected
+﻿22:38:50 : Player #1 Jenkworthy - GUID: cb7e5cfc7529df7e8ca8fbc31baac2f7 (unverified)
+﻿22:38:51 : Verified GUID (cb7e5cfc7529df7e8ca8fbc31baac2f7) of player #1 Jenkworthy
+﻿22:38:51 : Player #1 Jenkworthy disconnected
+﻿22:41:20 : RCon admin #0: (Global) .:DoC:. Overpoch
+﻿22:45:57 : Player #1 Nick (154.20.111.66:2304) connected
+﻿22:45:58 : Player #1 Nick - GUID: d7f37085d539b1c1ab4842308b1fb2a2 (unverified)
+﻿22:45:58 : Verified GUID (d7f37085d539b1c1ab4842308b1fb2a2) of player #1 Nick
+﻿22:45:59 : Player #1 Nick disconnected
+﻿22:51:20 : RCon admin #0: (Global) .:DoC:. Overpoch
+﻿22:56:44 : Player #1 Austin (50.170.44.229:2304) connected
+﻿22:56:45 : Player #1 Austin - GUID: d598b29cc49aab9c66529fbd2e8d58ae (unverified)
+﻿22:56:45 : Verified GUID (d598b29cc49aab9c66529fbd2e8d58ae) of player #1 Austin
+﻿22:56:46 : Player #1 Austin disconnected
+﻿23:00:00 : RCon admin #0: (Global) .:DoC:. Server restarts in 1 hours
+﻿23:01:20 : RCon admin #0: (Global) .:DoC:. Overpoch
+﻿23:11:20 : RCon admin #0: (Global) .:DoC:. Overpoch
+﻿23:13:53 : Player #1 hampuz (85.227.130.109:2304) connected
+﻿23:13:54 : Player #1 hampuz - GUID: 2205a3ef83c61033eeb504e6524a0e56 (unverified)
+﻿23:13:54 : Verified GUID (2205a3ef83c61033eeb504e6524a0e56) of player #1 hampuz
+﻿23:13:55 : Player #1 hampuz - Legacy GUID: dc9d62215193a6b327ad061927625172
+﻿23:21:20 : RCon admin #0: (Global) .:DoC:. Overpoch
+﻿23:29:20 : Player #2 Heatseeker (75.165.8.240:2304) connected
+﻿23:29:21 : Player #2 Heatseeker - GUID: f71dc72fe8ca419393e015a218b39582 (unverified)
+﻿23:29:21 : Verified GUID (f71dc72fe8ca419393e015a218b39582) of player #2 Heatseeker
+﻿23:29:22 : Player #2 Heatseeker disconnected
+﻿23:30:00 : RCon admin #0: (Global) .:DoC:. Server restarts in 30 minutes
+﻿23:31:20 : RCon admin #0: (Global) .:DoC:. Overpoch
+﻿23:41:20 : RCon admin #0: (Global) .:DoC:. Overpoch
+﻿23:45:00 : RCon admin #0: (Global) .:DoC:. Server restarts in 15 minutes
+﻿23:50:00 : RCon admin #0: (Global) .:DoC:. Server restarts in 10 minutes
+﻿23:51:05 : Player #1 hampuz disconnected
+﻿23:51:20 : RCon admin #0: (Global) .:DoC:. Overpoch
+﻿23:55:00 : RCon admin #0: (Global) .:DoC:. Server restarts in 5 minutes. Stop all vehicles and get out!
+﻿23:59:00 : RCon admin #0: (Global) .:DoC:. Server restarts in 1 minutes. Hit ESC to save your character
