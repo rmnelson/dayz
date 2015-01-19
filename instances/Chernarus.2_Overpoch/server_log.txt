@@ -29452,4 +29452,41 @@
  0:54:07 BattlEye Server: Player #2 damic (24.7.165.67:2304) connected
  0:54:07 Player damic connecting.
  0:54:08 BattlEye Server: Player #2 damic - GUID: 4af32554a2d84a4b2aededf38728bf33 (unverified)
- 0:54:08 Player damic connected
+ 0:54:08 Player damic connected 0:29:44 BattlEye Server: Initialized (v1.195)
+ 0:29:44 Host identity created.
+ 0:29:45 BattlEye Server: Unknown command
+ 0:35:37 BattlEye Server: RCon admin #0 (127.0.0.1:55122) logged in
+ 0:35:47 BattlEye Server: RCon admin #0: (Global) .:DoC:. Overpoch
+ 0:36:04 BattlEye Server: Player #0 Mr. Spock (24.7.165.67:2304) connected
+ 0:36:04 Player Mr. Spock connecting.
+ 0:36:04 Mission DayZ Overpoch Chernarus read from directory.
+ 0:36:06 BattlEye Server: Player #0 Mr. Spock - GUID: 4af32554a2d84a4b2aededf38728bf33 (unverified)
+ 0:36:06 Player Mr. Spock connected (id=76561197970173215).
+ 0:36:06 BattlEye Server: Verified GUID (4af32554a2d84a4b2aededf38728bf33) of player #0 Mr. Spock
+ 0:36:06 BattlEye Server: Player #0 Mr. Spock - Legacy GUID: fdd59afb221ccbac5728bf8aa08224b2
+ 0:36:10 Roles assigned.
+ 0:36:10 Reading mission ...
+ 0:36:16 Mission read.
+ 0:36:41 Game started.
+ 0:38:43 BattlEye Server: Initialized (v1.195)
+ 0:38:43 Host identity created.
+ 0:38:44 BattlEye Server: Unknown command
+ 0:39:42 BattlEye Server: Initialized (v1.195)
+ 0:39:43 Host identity created.
+ 0:39:43 BattlEye Server: Unknown command
+ 0:39:52 BattlEye Server: RCon admin #0 (127.0.0.1:58718) logged in
+ 0:40:02 BattlEye Server: RCon admin #0: (Global) .:DoC:. Overpoch
+ 0:40:11 Mr. Spock uses modified data file
+ 0:40:11 BattlEye Server: Player #0 Mr. Spock (24.7.165.67:2304) connected
+ 0:40:12 Player Mr. Spock connecting.
+ 0:40:12 Mission DayZ Overpoch Chernarus read from directory.
+ 0:40:13 BattlEye Server: Player #0 Mr. Spock - GUID: 4af32554a2d84a4b2aededf38728bf33 (unverified)
+ 0:40:13 BattlEye Server: Player #0 Mr. Spock - Legacy GUID: fdd59afb221ccbac5728bf8aa08224b2
+ 0:40:14 Player Mr. Spock connected (id=76561197970173215).
+ 0:40:14 BattlEye Server: Verified GUID (4af32554a2d84a4b2aededf38728bf33) of player #0 Mr. Spock
+ 0:40:19 Roles assigned.
+ 0:40:19 Reading mission ...
+ 0:40:25 Mission read.
+ 0:40:31 Game started.
+ 0:41:44 Player Mr. Spock disconnected.
+ 0:41:44 BattlEye Server: Player #0 Mr. Spock disconnected

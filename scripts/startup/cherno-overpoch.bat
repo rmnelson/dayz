@@ -1,7 +1,7 @@
 @echo off
 
 REM ENVIRONMENT VARIABLES
-set cherno_bec_path="D:\dayz\instances\Chernarus_Overpoch\BattlEye\bec"
+set cherno_bec_path="D:\dayz\instances\Chernarus.2_Overpoch\BattlEye\bec"
 set bec_bin="D:\dayz\scripts\Bec\Bec.exe"
 
 REM ####
