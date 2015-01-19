@@ -43,19 +43,19 @@ set dbuser=backup
 set dbpass=aere3eif7Aeh
 
 :: Error log path - Important in debugging your issues
-set errorLogPath="C:\dayz\scripts\MySQLBackups\backupfiles\dumperrors.txt"
+set errorLogPath="D:\dayz\scripts\MySQLBackups\backupfiles\dumperrors.txt"
 
 :: MySQL EXE Path
-set mysqldumpexe="C:\xampp\mysql\bin\mysqldump.exe"
+set mysqldumpexe="C:\Program Files\MySQL\MySQL Server 5.6\bin\mysqldump.exe"
 
 :: Error log path
-set backupfldr="C:\dayz\db_dumps\"
+set backupfldr="D:\dayz\db_dumps\"
 
 :: Path to data folder which may differ from install dir
-set datafldr="C:\xampp\mysql\data"
+set datafldr="C:\Program Files\MySQL\MySQL Server 5.6\data"
 
 :: Path to zip executable
-set zipper="C:\dayz\scripts\MySQLBackups\zip\7za.exe"
+set zipper="D:\dayz\scripts\MySQLBackups\zip\7za.exe"
 
 :: Number of days to retain .zip backup files 
 set retaindays=90

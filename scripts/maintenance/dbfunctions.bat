@@ -1,1 +1,1 @@
-"C:\xampp\mysql\bin\mysql.exe" -h localhost -udayz -ppass4dayz dayz -e "call removeDamagedVehicles"
+"C:\Program Files\MySQL\MySQL Server 5.6\bin\mysql.exe" -h localhost -udayz -ppass4dayz dayz -e "call removeDamagedVehicles"
