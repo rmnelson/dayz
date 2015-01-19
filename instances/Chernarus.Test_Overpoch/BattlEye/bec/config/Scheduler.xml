@@ -164,7 +164,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>23:59:50</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>d:\dayz\scripts\startup\cherno-overpoch.bat</cmd>
+		<cmd>d:\dayz\scripts\startup\cherno-test-overpoch.bat</cmd>
 	</job>
 	
 	<job id="3">
@@ -236,7 +236,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>02:59:50</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>d:\dayz\scripts\startup\cherno-overpoch.bat</cmd>
+		<cmd>d:\dayz\scripts\startup\cherno-test-overpoch.bat</cmd>
 	</job>
 	
 	<job id="12">
@@ -308,7 +308,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>05:59:50</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>d:\dayz\scripts\startup\cherno-overpoch.bat</cmd>
+		<cmd>d:\dayz\scripts\startup\cherno-test-overpoch.bat</cmd>
 	</job>
 	
 	<job id="21">
@@ -380,7 +380,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>08:59:50</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>d:\dayz\scripts\startup\cherno-overpoch.bat</cmd>
+		<cmd>d:\dayz\scripts\startup\cherno-test-overpoch.bat</cmd>
 	</job>
 	
 	<job id="30">
@@ -452,7 +452,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>11:59:50</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>d:\dayz\scripts\startup\cherno-overpoch.bat</cmd>
+		<cmd>d:\dayz\scripts\startup\cherno-test-overpoch.bat</cmd>
 	</job>
 	
 	<job id="39">
@@ -524,7 +524,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>14:59:50</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>d:\dayz\scripts\startup\cherno-overpoch.bat</cmd>
+		<cmd>d:\dayz\scripts\startup\cherno-test-overpoch.bat</cmd>
 	</job>
 	
 	<job id="48">
@@ -660,7 +660,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>17:59:50</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>d:\dayz\scripts\startup\cherno-overpoch.bat</cmd>
+		<cmd>d:\dayz\scripts\startup\cherno-test-overpoch.bat</cmd>
 	</job>
 	
 	<job id="65">
@@ -732,7 +732,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>20:59:50</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>d:\dayz\scripts\startup\cherno-overpoch.bat</cmd>
+		<cmd>d:\dayz\scripts\startup\cherno-test-overpoch.bat</cmd>
 	</job>
 	
 </Scheduler>
