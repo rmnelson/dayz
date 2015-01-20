@@ -1,7 +1,7 @@
 @echo off
 
 REM ENVIRONMENT VARIABLES
-set cherno_bec_path="D:\dayz\instances\Chernarus.2_Overpoch\BattlEye\bec"
+set cherno_bec_path="D:\dayz\instances\Chernarus.Test_Overpoch\BattlEye\bec"
 set bec_bin="D:\dayz\scripts\Bec\Bec.exe"
 
 REM ####
@@ -15,7 +15,7 @@ REM This is here cause its being called in BEC before the shutdown
 timeout 11
 REM This is to make sure it died, if not we are going to kill it
 echo Killing any old Arma OA 2 that are still up
-taskkill /fi "WINDOWTITLE eq ArmA 2 OA Console version 1.63 : port 2302"
+taskkill /fi "WINDOWTITLE eq ArmA 2 OA Console version 1.63 : port 2312"
 
 REM Running any maintenance that should happen
 echo Running maintenance stuff
@@ -24,7 +24,7 @@ start /wait cmd /c D:\dayz\scripts\maintenance\dbfunctions.bat
 REM Now lets start the server
 echo Starting Dayz Overpoch Chernarus Server
 :: start the server..
-start "cherno" /min "D:\dayz\a2oa\arma2oaserver.exe" -port=2302 "-config=D:\dayz\instances\Chernarus.2_Overpoch\config.cfg" "-cfg=D:\dayz\instances\Chernarus.2_Overpoch\basic.cfg" "-profiles=D:\dayz\instances\Chernarus.2_Overpoch" "-name=D:\dayz\instances\Chernarus.2_Overpoch" "-mod=@DayZOverwatch;@DayZ_Epoch;@DayZ_Epoch_Server.b2" -noPause -noSound -cpuCount=2 -maxMem=2047 -bandwidthAlg=2 -exThreads=2
+start "cherno" /min "D:\dayz\a2oa\arma2oaserver.exe" -port=2312 "-config=D:\dayz\instances\Chernarus.Test_Overpoch\config.cfg" "-cfg=D:\dayz\instances\Chernarus.Test_Overpoch\basic.cfg" "-profiles=D:\dayz\instances\Chernarus.Test_Overpoch" "-name=D:\dayz\instances\Chernarus.Test_Overpoch" "-mod=@DayZOverwatch;@DayZ_Epoch;@DayZ_Epoch_Server.t1" -noPause -noSound -cpuCount=2 -maxMem=2047 -bandwidthAlg=2 -exThreads=2
 
 REM waitting for Arma OA 2 to startup, this timeout will be diff per server
 timeout 20
@@ -32,8 +32,7 @@ echo
 
 echo Starting BEC Service
 :: start bec..
-cd %cherno_bec_path%
-%bec_bin% -f bec-config.cfg
+D:\dayz\instances\Chernarus.Test_Overpoch\BattlEye\bec\start_bec.bat
 
 REM Create links
-REM mklink /d d:\dayz\a2oa\@DayZ_Epoch_Server.b1\addons d:\dayz\dayz_epoch_server\b1\
+REM mklink /d d:\dayz\a2oa\@DayZ_Epoch_Server.t1\addons d:\dayz\dayz_epoch_server\test\
