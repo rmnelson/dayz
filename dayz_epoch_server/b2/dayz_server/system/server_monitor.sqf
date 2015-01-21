@@ -131,6 +131,9 @@ if (isServer && isNil "sm_done") then {
 			
 			//Create it
 			_object = createVehicle [_type, _pos, [], 0, "CAN_COLLIDE"];
+			if (typeOf (_object) in  DZE_DoorsLocked) then {
+				_object setVariable ["doorfriends", _intentory, true];
+			};
 			_object setVariable ["lastUpdate",time];
 			_object setVariable ["ObjectID", _idKey, true];
 			if (typeOf (_object) == "Plastic_Pole_EP1_DZ") then {
@@ -190,7 +193,7 @@ if (isServer && isNil "sm_done") then {
 				
 			};
 
-			if ((count _intentory > 0) && !(typeOf( _object) == "Plastic_Pole_EP1_DZ")) then {
+			if ((count _intentory > 0) && !(typeOf( _object) == "Plastic_Pole_EP1_DZ") && !(typeOf( _object) in  DZE_DoorsLocked)) then {
 				if (_type in DZE_LockedStorage) then {
 					// Fill variables with loot
 					_object setVariable ["WeaponCargo", (_intentory select 0),true];

@@ -43,7 +43,17 @@ SC_fnc_addCoins = {
 if (!isDedicated) then {
 
 	"filmic" setToneMappingParams [0.07, 0.31, 0.23, 0.37, 0.011, 3.750, 6, 4]; setToneMapping "Filmic";
-
+	/*DoorManagement Zupa*/
+	DoorGetFriends 		= compile preprocessFileLineNumbers "doorManagement\doorGetFriends.sqf";
+	DoorNearbyHumans 	= compile preprocessFileLineNumbers "doorManagement\doorNearbyHumans.sqf";
+	DoorAddFriend 		= compile preprocessFileLineNumbers "doorManagement\doorAddFriend.sqf";
+	DoorRemoveFriend 	= compile preprocessFileLineNumbers "doorManagement\doorRemoveFriend.sqf";
+	player_unlockDoor       = compile preprocessFileLineNumbers "doorManagement\player_unlockDoor.sqf";
+	player_unlockDoorCode = compile preprocessFileLineNumbers "doorManagement\player_unlockDoorCode.sqf";
+	player_manageDoor       = compile preprocessFileLineNumbers "doorManagement\initDoorManagement.sqf";
+	player_enterCode       = compile preprocessFileLineNumbers "doorManagement\player_enterCode.sqf";
+	player_changeCombo = compile preprocessFileLineNumbers "doorManagement\player_changeCombo.sqf"; 
+	/*DoorManagement End*/
 	BIS_Effects_Burn = 				compile preprocessFile "\ca\Data\ParticleEffects\SCRIPTS\destruction\burn.sqf";
 	player_zombieCheck = 			compile preprocessFileLineNumbers "\z\addons\dayz_code\compile\player_zombieCheck.sqf";	//Run on a players computer, checks if the player is near a zombie
 	player_zombieAttack = 			compile preprocessFileLineNumbers "\z\addons\dayz_code\compile\player_zombieAttack.sqf";	//Run on a players computer, causes a nearby zombie to attack them
@@ -90,8 +100,8 @@ if (!isDedicated) then {
 		};
 	};
 
-	player_unlockDoor =			compile preprocessFileLineNumbers "\z\addons\dayz_code\compile\player_unlockDoor.sqf";
-	player_changeCombo =		compile preprocessFileLineNumbers "\z\addons\dayz_code\compile\player_changeCombo.sqf";
+	//player_unlockDoor =			compile preprocessFileLineNumbers "\z\addons\dayz_code\compile\player_unlockDoor.sqf";
+	//player_changeCombo =		compile preprocessFileLineNumbers "\z\addons\dayz_code\compile\player_changeCombo.sqf";
 
 	player_lockVault =			compile preprocessFileLineNumbers "compiles\player_lockVault.sqf";
 	player_updateGui =			compile preprocessFileLineNumbers "compiles\player_updateGui.sqf";

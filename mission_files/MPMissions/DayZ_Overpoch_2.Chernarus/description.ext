@@ -188,6 +188,11 @@ class DayZ_loadingScreen
 #include "zupa\advancedTrading\ZSCdefines.hpp" // if u don't have it from ZSC
 #include "zupa\advancedTrading\advancedTrading.hpp"
 
+//#include "doorManagement\defines.hpp"
+#include "doorManagement\doorUnlock.hpp"
+#include "doorManagement\doorManagement.hpp"
+#include "doorManagement\ComboLockUI.hpp"
+
 class RscTitles
 {
 #include "dzgm\icons.hpp"
