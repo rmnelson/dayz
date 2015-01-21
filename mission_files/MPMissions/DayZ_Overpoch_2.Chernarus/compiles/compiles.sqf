@@ -64,10 +64,14 @@ if (!isDedicated) then {
 	player_packTent =				compile preprocessFileLineNumbers "compiles\player_packTent.sqf";
 	player_packVault =				compile preprocessFileLineNumbers "compiles\player_packVault.sqf";
 	player_unlockVault =			compile preprocessFileLineNumbers "compiles\player_unlockVault.sqf";
-	
-
 	player_removeObject =			compile preprocessFileLineNumbers "compiles\remove.sqf";
 	player_removeNearby =    		compile preprocessFileLineNumbers "\z\addons\dayz_code\compile\object_removeNearby.sqf";
+	/*Plot*/
+	PlotGetFriends      = compile preprocessFileLineNumbers "plotManagement\plotGetFriends.sqf";
+	PlotNearbyHumans    = compile preprocessFileLineNumbers "plotManagement\plotNearbyHumans.sqf";
+	PlotAddFriend       = compile preprocessFileLineNumbers "plotManagement\plotAddFriend.sqf";
+	PlotRemoveFriend    = compile preprocessFileLineNumbers "plotManagement\plotRemoveFriend.sqf";
+	/*Plot End*/
 
 	player_removeTankTrap = {
 		//Object Array, Range, Error Message (@Skaronator)

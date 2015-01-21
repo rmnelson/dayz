@@ -182,6 +182,9 @@ class DayZ_loadingScreen
 #include "spawn\halo.hpp"
 #include "spawn\spawn.hpp"
 
+#include "plotManagement\defines.hpp"
+#include "plotManagement\plotManagement.hpp"
+
 class RscTitles
 {
 #include "dzgm\icons.hpp"
