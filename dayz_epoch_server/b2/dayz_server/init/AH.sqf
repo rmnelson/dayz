@@ -54,7 +54,7 @@ if (isNil '_CCM') then {_CCM = false;_cconfig=true;};
 if (isNil '_BCM') then {_BCM = false;_cconfig=true;};
 if (isNil '_CSA') then {_CSA = false;_cconfig=true;};
 if (isNil '_FTG') then {_FTG = 25;_cconfig=true;};
-if (isNil '_ALLOWED_Dialogs') then {_ALLOWED_Dialogs = [-1,106,6900,6901,6902,6903,420420,41144,711194];_cconfig=true;};
+if (isNil '_ALLOWED_Dialogs') then {_ALLOWED_Dialogs = [-1,106,6900,6901,6902,6903,420420,41144,711194,711197];_cconfig=true;};
 if (isNil '_ForbiddenWeapons') then {_ForbiddenWeapons = [''];_cconfig=true;};
 if (isNil '_ALLOWED_Vehicles') then {_ALLOWED_Vehicles = [''];_cconfig=true;};
 if (isNil '_FORBIDDEN_Vehicles') then {_FORBIDDEN_Vehicles = [''];_cconfig=true;};

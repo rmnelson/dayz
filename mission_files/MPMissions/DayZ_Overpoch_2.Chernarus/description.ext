@@ -185,6 +185,9 @@ class DayZ_loadingScreen
 #include "plotManagement\defines.hpp"
 #include "plotManagement\plotManagement.hpp"
 
+#include "zupa\advancedTrading\ZSCdefines.hpp" // if u don't have it from ZSC
+#include "zupa\advancedTrading\advancedTrading.hpp"
+
 class RscTitles
 {
 #include "dzgm\icons.hpp"
