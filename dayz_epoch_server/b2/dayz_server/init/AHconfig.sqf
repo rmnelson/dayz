@@ -6,16 +6,16 @@
 /*  Key to open the menu  */ _OpenMenuKey = 0x3C;    /* google DIK_KeyCodes (0x3C is F2) */
 /*  LOW ADMIN HERE        */ _LAdmins = []; //do not have a , at the end.
 /*  NORMAL ADMIN HERE     */ _NAdmins = []; //do not have a , at the end.
-/*  SUPER ADMIN HERE      */ _SAdmins = ["76561197976551446","76561197970173215","76561198107101946","76561198121761635","76561197983138712"]; //do not have a , at the end.
-/*  SUPER ADMIN HERE         _SAdmins = ["DaBethum","DaMic","Fizz","MasterChief","Kazooie"]; //do not have a , at the end.
+/*  SUPER ADMIN HERE      */ _SAdmins = ["76561197970173215","76561197983138712"]; //do not have a , at the end.
+/*  SUPER ADMIN HERE         _SAdmins = ["DaMic","Kazooie"]; //do not have a , at the end.
 
 /*  BANNED PLAYER HERE    */ _BLOCKED = []; //do not have a , at the end.
 /* ********************************************************************************* */
-/*  Top esc menu TXT      */ _TopOfESC = "google.com"; //do not use " in this text.
+/*  Top esc menu TXT      */ _TopOfESC = "rnelnet.com/dayz"; //do not use " in this text.
 /*  Bottom esc menu TXT   */ _LowerTop = "Team Speak 3"; //do not use " in this text.
-/*  Bottom esc menu TXT2  */ _LowerBottom = "coming soon"; //do not use " in this text.
+/*  Bottom esc menu TXT2  */ _LowerBottom = "ts.rnelnet.com"; //do not use " in this text.
 /*  Color esc menu TXT    */ _EscColor = [0.6,0,0,1];
-/*  DebugMonitor TXT      */ _BottomDebug = "My Frikin Game"; //do not use " in this text.
+/*  DebugMonitor TXT      */ _BottomDebug = "RNelNet Gaming"; //do not use " in this text.
 /*  DebugMonitor Key      */ _ODK =  0xCF;	/* google DIK_KeyCodes (0xCF is END) */
 /*  Use DebugMonitor      */ _DMS =  true;	/* true or false */	/* starts up with debugmonitor ON if true */
 /*  DebugMonitor Action   */ _DMW = false;	/* true or false */	/* "Debug" option on mousewheel */

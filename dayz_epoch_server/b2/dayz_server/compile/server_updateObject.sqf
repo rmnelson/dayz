@@ -61,7 +61,9 @@ _object_position = {
 };
 
 _object_inventory = {
-	private["_inventory","_previous","_key"];
+		_isNormal = true;
+		private["_inventory","_previous","_key"];
+		
 		if (typeOf (_object) == "Plastic_Pole_EP1_DZ") then{
 			_isNormal = false;
 			_inventory = _object getVariable ["plotfriends", []]; //We're replacing the inventory with UIDs for this item

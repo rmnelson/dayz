@@ -881,6 +881,9 @@ if (!isNull cursorTarget && !_inVehicle && !_isPZombie && (player distance curso
 			if((_traderMenu select 2) == "hero") then {
 				_humanity_logic = (_humanity < 5000);
 			};
+			if((_traderMenu select 2) == "superh") then {
+				_humanity_logic = (_humanity < 30000);
+			};
 			if(_humanity_logic) then {
 				_cancel = player addAction [format[localize "STR_EPOCH_ACTIONS_HUMANITY",_low_high], "\z\addons\dayz_code\actions\trade_cancel.sqf",["na"], 0, true, false, "",""];
 				s_player_parts set [count s_player_parts,_cancel];

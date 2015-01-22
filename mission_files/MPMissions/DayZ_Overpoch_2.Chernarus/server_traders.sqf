@@ -1,5 +1,5 @@
 // DayZ Epoch TRADERS for 11
-serverTraders = ["RU_Functionary1","RU_Citizen3","Rocker4","Profiteer4","Rita_Ensler_EP1","CIV_EuroMan01_EP1","CIV_EuroMan02_EP1","TK_GUE_Soldier_5_EP1","GUE_Soldier_MG","Worker2","Worker3","Woodlander1","UN_CDF_Soldier_Pilot_EP1","RU_WorkWoman1","Dr_Annie_Baker_EP1","RU_Citizen4","RU_WorkWoman5","RU_Citizen1","RU_Villager3","TK_CIV_Takistani04_EP1","Pilot_EP1","RU_Profiteer4","Woodlander3","Dr_Hladik_EP1","Doctor","HouseWife1","GUE_Woodlander2","USSR_solcheytac_sd","Damsel2","UN_CDF_Soldier_SL_EP1","US_Delta_Force_AR_EP1","Hooker3","CZ_Soldier_SL_DES_EP1"];
+serverTraders = ["RU_Functionary1","RU_Citizen3","Rocker4","Profiteer4","Rita_Ensler_EP1","CIV_EuroMan01_EP1","CIV_EuroMan02_EP1","TK_GUE_Soldier_5_EP1","GUE_Soldier_MG","Worker2","Worker3","Woodlander1","UN_CDF_Soldier_Pilot_EP1","RU_WorkWoman1","Dr_Annie_Baker_EP1","RU_Citizen4","RU_WorkWoman5","RU_Citizen1","RU_Villager3","TK_CIV_Takistani04_EP1","Pilot_EP1","RU_Profiteer4","Woodlander3","Dr_Hladik_EP1","Doctor","HouseWife1","GUE_Woodlander2","USSR_solcheytac_sd","Damsel2","UN_CDF_Soldier_SL_EP1","US_Delta_Force_AR_EP1","Hooker3","CZ_Soldier_SL_DES_EP1","Functionary1_EP1_DZ"];
 // Hero Vendor
 menu_RU_Functionary1 = [
 	[["Ammunition",478],["Clothes",683],["Helicopter Armed",493],["Military Armed",562],["Trucks Armed",479],["Weapons",477],["Vehicle AMMO",1005],["TAR Variants",1003],["Sniper Variants",1006],["SCAR Variants",1007],["Overwatch Pistols",1008],["HK417 Variants",1010],["HK416 Variants",1011],["G3 Variants",1012],["Masada Variants",1014],["VIL Variants",1017],["ACR Variants",1018],["OW Pistol Ammo",1009],["Overwatch Gun Ammo",1016],["Money",1020]],
@@ -202,4 +202,11 @@ menu_CZ_Soldier_SL_DES_EP1 = [
 	[["Bikes and ATV",650],["Used Cars",660],["Utility Vehicles",661],["Toolbelt Items",663],["Vehicle Parts",664],["Money",1020]],
 	[],
 	"neutral"
+];
+
+// Hero Super Trader
+menu_Functionary1_EP1_DZ = [
+	[["Really Big Stuff",693]],
+	[],
+	"hero"
 ];

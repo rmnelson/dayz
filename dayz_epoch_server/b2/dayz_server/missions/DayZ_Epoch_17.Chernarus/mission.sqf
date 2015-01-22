@@ -3039,4 +3039,15 @@ if (true) then
   _this setPos [13817.806, 11746.111, -27.215347];
 };
 
+_unit_201 = objNull;
+if (true) then
+{
+  _this = createAgent ["Functionary1_EP1_DZ", [8498.45, 12002.2, 0.00141907], [], 0, "CAN_COLLIDE"];
+  _unit_201 = _this;
+  _this setDir 47.336;
+  _this setVehicleInit "this allowDammage false; this disableAI 'FSM'; this disableAI 'MOVE'; this disableAI 'AUTOTARGET'; this disableAI 'TARGET'; this setBehaviour 'CARELESS'; this forceSpeed 0;  ";
+  _this setUnitAbility 0.60000002;
+_this allowDammage false; _this disableAI 'FSM'; _this disableAI 'MOVE'; _this disableAI 'AUTOTARGET'; _this disableAI 'TARGET'; _this setBehaviour 'CARELESS'; _this forceSpeed 0;_this enableSimulation false;};
+
+
 processInitCommands;

@@ -3,7 +3,7 @@
 respawn = "BASE";
 respawndelay = 5;
 onLoadMission= "DayZ Overpoch Chernarus";
-OnLoadIntro = "Welcome to DayZ Overpoch Chernarus";
+OnLoadIntro = "Welcome to RNelNet DayZ Overpoch Chernarus";
 OnLoadIntroTime = False;
 OnLoadMissionTime = False;
 disabledAI = true;
@@ -32,13 +32,13 @@ briefing = 0;
 debriefing = 0;
 
 onPauseScript = "custom\DupingFix.sqf";
-loadScreen = "doc.jpg";
+loadScreen = "chickncan.jpg";
 
 class Header
 {
  gameType = COOP;            //DM, Team, Coop, ...
  minPlayers = 1;             //min # of players the mission supports
- maxPlayers = 100;            //Max # of players the mission supports
+ maxPlayers = 40;            //Max # of players the mission supports
 };
 
 aiKills = 1;

@@ -148,7 +148,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<runtime>001000</runtime> <!-- every 10 min-->
 		<day>1,2,3,4,5,6,7</day> <!--every day of the week-->
 		<loop>-1</loop> <!-- loop forever -->
-		<cmd>say -1 .:DoC:. Overpoch</cmd> <!-- blast a message 30chars to a line -->
+		<cmd>say -1 RNelNet DayZ Overpoch</cmd> <!-- blast a message 30chars to a line -->
 	</job>
 	
 	<job id="1">
@@ -156,7 +156,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>000500</start>
 		<runtime>001000</runtime>
 		<loop>6</loop>
-		<cmd>say -1 .:DoC:. Server restarts every 3 hrs starting at 12am PST</cmd>
+		<cmd>say -1 RNelNet Gaming server restarts every 3 hrs starting at 12am PST visit rnelnet.com/dayz</cmd>
 	</job>
 	
 	<job id="2">
@@ -180,7 +180,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>01:00:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 2 hours</cmd>
+		<cmd>say -1 Server restarts in 2 hours</cmd>
 	</job>
 	
 	<job id="5">
@@ -188,7 +188,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>02:00:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 1 hours</cmd>
+		<cmd>say -1 Server restarts in 1 hours</cmd>
 	</job>
 	
 	<job id="6">
@@ -196,7 +196,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>02:30:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 30 minutes</cmd>
+		<cmd>say -1 Server restarts in 30 minutes</cmd>
 	</job>
 	
 	<job id="7">
@@ -204,7 +204,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>02:45:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 15 minutes</cmd>
+		<cmd>say -1 Server restarts in 15 minutes</cmd>
 	</job>
 	
 	<job id="8">
@@ -212,7 +212,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>02:50:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 10 minutes</cmd>
+		<cmd>say -1 Server restarts in 10 minutes</cmd>
 	</job>
 	
 	<job id="9">
@@ -220,7 +220,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>02:55:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 5 minutes. Stop all vehicles and get out!</cmd>
+		<cmd>say -1 Server restarts in 5 minutes. Stop all vehicles and get out!</cmd>
 	</job>
 		
 	<job id="10">
@@ -228,7 +228,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>02:59:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 1 minutes. Hit ESC to save your character</cmd>
+		<cmd>say -1 Server restarts in 1 minutes. Hit ESC to save your character</cmd>
 	</job>
 	
 	<job id="11">
@@ -252,7 +252,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>04:00:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 2 hours</cmd>
+		<cmd>say -1 Server restarts in 2 hours</cmd>
 	</job>
 	
 	<job id="14">
@@ -260,7 +260,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>05:00:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 1 hours</cmd>
+		<cmd>say -1 Server restarts in 1 hours</cmd>
 	</job>
 	
 	<job id="15">
@@ -268,7 +268,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>05:30:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 30 minutes</cmd>
+		<cmd>say -1 Server restarts in 30 minutes</cmd>
 	</job>
 	
 	<job id="16">
@@ -276,7 +276,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>05:45:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 15 minutes</cmd>
+		<cmd>say -1 Server restarts in 15 minutes</cmd>
 	</job>
 	
 	<job id="17">
@@ -284,7 +284,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>05:50:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 10 minutes</cmd>
+		<cmd>say -1 Server restarts in 10 minutes</cmd>
 	</job>
 	
 	<job id="18">
@@ -292,7 +292,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>05:55:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 5 minutes. Stop all vehicles and get out!</cmd>
+		<cmd>say -1 Server restarts in 5 minutes. Stop all vehicles and get out!</cmd>
 	</job>
 		
 	<job id="19">
@@ -300,7 +300,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>05:59:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 1 minutes. Hit ESC to save your character</cmd>
+		<cmd>say -1 Server restarts in 1 minutes. Hit ESC to save your character</cmd>
 	</job>
 	
 	<job id="20">
@@ -324,7 +324,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>07:00:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 2 hours</cmd>
+		<cmd>say -1 Server restarts in 2 hours</cmd>
 	</job>
 	
 	<job id="23">
@@ -332,7 +332,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>08:00:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 1 hours</cmd>
+		<cmd>say -1 Server restarts in 1 hours</cmd>
 	</job>
 	
 	<job id="24">
@@ -340,7 +340,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>08:30:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 30 minutes</cmd>
+		<cmd>say -1 Server restarts in 30 minutes</cmd>
 	</job>
 	
 	<job id="25">
@@ -348,7 +348,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>08:45:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 15 minutes</cmd>
+		<cmd>say -1 Server restarts in 15 minutes</cmd>
 	</job>
 	
 	<job id="26">
@@ -356,7 +356,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>08:50:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 10 minutes</cmd>
+		<cmd>say -1 Server restarts in 10 minutes</cmd>
 	</job>
 	
 	<job id="27">
@@ -364,7 +364,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>08:55:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 5 minutes. Stop all vehicles and get out!</cmd>
+		<cmd>say -1 Server restarts in 5 minutes. Stop all vehicles and get out!</cmd>
 	</job>
 		
 	<job id="28">
@@ -372,7 +372,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>08:59:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 1 minutes. Hit ESC to save your character</cmd>
+		<cmd>say -1 Server restarts in 1 minutes. Hit ESC to save your character</cmd>
 	</job>
 
 	<job id="29">
@@ -396,7 +396,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>10:00:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 2 hours</cmd>
+		<cmd>say -1 Server restarts in 2 hours</cmd>
 	</job>
 	
 	<job id="32">
@@ -404,7 +404,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>11:00:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 1 hours</cmd>
+		<cmd>say -1 Server restarts in 1 hours</cmd>
 	</job>
 	
 	<job id="33">
@@ -412,7 +412,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>11:30:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 30 minutes</cmd>
+		<cmd>say -1 Server restarts in 30 minutes</cmd>
 	</job>
 	
 	<job id="34">
@@ -420,7 +420,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>11:45:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 15 minutes</cmd>
+		<cmd>say -1 Server restarts in 15 minutes</cmd>
 	</job>
 	
 	<job id="35">
@@ -428,7 +428,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>11:50:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 10 minutes</cmd>
+		<cmd>say -1 Server restarts in 10 minutes</cmd>
 	</job>
 	
 	<job id="36">
@@ -436,7 +436,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>11:55:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 5 minutes. Stop all vehicles and get out!</cmd>
+		<cmd>say -1 Server restarts in 5 minutes. Stop all vehicles and get out!</cmd>
 	</job>
 		
 	<job id="37">
@@ -444,7 +444,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>11:59:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 1 minutes. Hit ESC to save your character</cmd>
+		<cmd>say -1 Server restarts in 1 minutes. Hit ESC to save your character</cmd>
 	</job>
 		
 	<job id="38">
@@ -468,7 +468,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>13:00:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 2 hours</cmd>
+		<cmd>say -1 Server restarts in 2 hours</cmd>
 	</job>
 	
 	<job id="41">
@@ -476,7 +476,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>14:00:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 1 hours</cmd>
+		<cmd>say -1 Server restarts in 1 hours</cmd>
 	</job>
 	
 	<job id="42">
@@ -484,7 +484,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>14:30:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 30 minutes</cmd>
+		<cmd>say -1 Server restarts in 30 minutes</cmd>
 	</job>
 	
 	<job id="43">
@@ -492,7 +492,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>14:45:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 15 minutes</cmd>
+		<cmd>say -1 Server restarts in 15 minutes</cmd>
 	</job>
 	
 	<job id="44">
@@ -500,7 +500,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>14:50:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 10 minutes</cmd>
+		<cmd>say -1 Server restarts in 10 minutes</cmd>
 	</job>
 	
 	<job id="45">
@@ -508,7 +508,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>14:55:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 5 minutes. Stop all vehicles and get out!</cmd>
+		<cmd>say -1 Server restarts in 5 minutes. Stop all vehicles and get out!</cmd>
 	</job>
 		
 	<job id="46">
@@ -516,7 +516,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>14:59:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 1 minutes. Hit ESC to save your character</cmd>
+		<cmd>say -1 Server restarts in 1 minutes. Hit ESC to save your character</cmd>
 	</job>
 
 	<job id="47">
@@ -540,7 +540,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>16:00:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 2 hours</cmd>
+		<cmd>say -1 Server restarts in 2 hours</cmd>
 	</job>
 	
 	<job id="50">
@@ -548,7 +548,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>17:00:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 1 hours</cmd>
+		<cmd>say -1 Server restarts in 1 hours</cmd>
 	</job>
 	
 	<job id="51">
@@ -556,7 +556,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>17:30:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 30 minutes</cmd>
+		<cmd>say -1 Server restarts in 30 minutes</cmd>
 	</job>
 	
 	<job id="52">
@@ -564,7 +564,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>17:45:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 15 minutes</cmd>
+		<cmd>say -1 Server restarts in 15 minutes</cmd>
 	</job>
 	
 	<job id="53">
@@ -572,7 +572,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>17:50:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 10 minutes</cmd>
+		<cmd>say -1 Server restarts in 10 minutes</cmd>
 	</job>
 	
 	<job id="54">
@@ -580,7 +580,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>17:55:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 5 minutes. Stop all vehicles and get out!</cmd>
+		<cmd>say -1 Server restarts in 5 minutes. Stop all vehicles and get out!</cmd>
 	</job>
 		
 	<job id="55">
@@ -588,7 +588,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>17:59:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 1 minutes. Hit ESC to save your character</cmd>
+		<cmd>say -1 Server restarts in 1 minutes. Hit ESC to save your character</cmd>
 	</job>
 	
 	<job id="56">
@@ -604,7 +604,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>19:00:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 2 hours</cmd>
+		<cmd>say -1 Server restarts in 2 hours</cmd>
 	</job>
 	
 	<job id="58">
@@ -612,7 +612,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>20:00:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 1 hours</cmd>
+		<cmd>say -1 Server restarts in 1 hours</cmd>
 	</job>
 	
 	<job id="59">
@@ -620,7 +620,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>20:30:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 30 minutes</cmd>
+		<cmd>say -1 Server restarts in 30 minutes</cmd>
 	</job>
 	
 	<job id="60">
@@ -628,7 +628,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>20:45:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 15 minutes</cmd>
+		<cmd>say -1 Server restarts in 15 minutes</cmd>
 	</job>
 	
 	<job id="61">
@@ -636,7 +636,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>20:50:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 10 minutes</cmd>
+		<cmd>say -1 Server restarts in 10 minutes</cmd>
 	</job>
 	
 	<job id="62">
@@ -644,7 +644,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>20:55:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 5 minutes. Stop all vehicles and get out!</cmd>
+		<cmd>say -1 Server restarts in 5 minutes. Stop all vehicles and get out!</cmd>
 	</job>
 		
 	<job id="63">
@@ -652,7 +652,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>20:59:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 1 minutes. Hit ESC to save your character</cmd>
+		<cmd>say -1 Server restarts in 1 minutes. Hit ESC to save your character</cmd>
 	</job>
 
 	<job id="64">
@@ -676,7 +676,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>22:00:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 2 hours</cmd>
+		<cmd>say -1 Server restarts in 2 hours</cmd>
 	</job>
 	
 	<job id="67">
@@ -684,7 +684,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>23:00:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 1 hours</cmd>
+		<cmd>say -1 Server restarts in 1 hours</cmd>
 	</job>
 	
 	<job id="68">
@@ -692,7 +692,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>23:30:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 30 minutes</cmd>
+		<cmd>say -1 Server restarts in 30 minutes</cmd>
 	</job>
 	
 	<job id="69">
@@ -700,7 +700,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>23:45:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 15 minutes</cmd>
+		<cmd>say -1 Server restarts in 15 minutes</cmd>
 	</job>
 	
 	<job id="70">
@@ -708,7 +708,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>23:50:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 10 minutes</cmd>
+		<cmd>say -1 Server restarts in 10 minutes</cmd>
 	</job>
 	
 	<job id="71">
@@ -716,7 +716,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>23:55:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 5 minutes. Stop all vehicles and get out!</cmd>
+		<cmd>say -1 Server restarts in 5 minutes. Stop all vehicles and get out!</cmd>
 	</job>
 		
 	<job id="72">
@@ -724,7 +724,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>23:59:00</start>
 		<runtime>000000</runtime>
 		<loop>0</loop>
-		<cmd>say -1 .:DoC:. Server restarts in 1 minutes. Hit ESC to save your character</cmd>
+		<cmd>say -1 Server restarts in 1 minutes. Hit ESC to save your character</cmd>
 	</job>
 	
 	<job id="73">
@@ -733,6 +733,14 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<runtime>000000</runtime>
 		<loop>0</loop>
 		<cmd>d:\dayz\scripts\startup\cherno-overpoch.bat</cmd>
+	</job>
+	
+	<job id="74">
+		<day>1,2,3,4,5,6,7</day>
+		<start>001500</start>
+		<runtime>030000</runtime>
+		<loop>15</loop>
+		<cmd>say -1 Help keep this server going and donate, perks available at rnelnet.com/dayz</cmd>
 	</job>
 	
 </Scheduler>

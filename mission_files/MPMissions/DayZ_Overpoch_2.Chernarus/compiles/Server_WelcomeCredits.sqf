@@ -24,9 +24,9 @@ waitUntil {!isNil "dayz_animalCheck"}; //remove this line completely to make it 
 sleep 10; //Wait in seconds before the credits start after player IS ingame
  
 _role1 = "Welcome to";
-_role1names = ["My Frikin Game"];
+_role1names = ["RNelNet Gaming"];
 _role2 = "Admins";
-_role2names = ["DaBethum","MasterChief","DaMic"];
+_role2names = ["DaMic"];
 _role3 = "Server mod";
 _role3names = ["DayZ Overpoch"];
 _role4 = "Server antihack<br />by"; //The "by" in this row will be shown one row below "Server antihack". Can be applied to any role
@@ -36,10 +36,12 @@ _role5names = [
 "Logistics Towing and Lifting",
 "Single Currency and Banking",
 "Enhanced Spawn Selection",
+"Advanced Trading Menu",
 "Dayz Group Manager",
 "Vehicle Deployment",
 "Snap Building Pro",
 "Service Stations",
+"Door Management"
 "Plot For Life",
 "Epoch Events",
 "Base Jumping",
@@ -59,11 +61,11 @@ _role6names = [
 "Self BB"
 ];
 _role7 = "Team Speak 3";
-_role7names = ["coming soon"];
+_role7names = ["ts.rnelnet.com"];
 _role8 = "Website";
-_role8names = ["4chan.org/b/"];
+_role8names = ["rnelnet.com/dayz"];
 _role9 = "Special Thanks";
-_role9names = ["infiSTAR.de","ArmAholic.com", "OpendayZ.net", "Epochmod.com"];
+_role9names = ["infiSTAR.de","ArmAholic.com", "OpendayZ.net", "Epochmod.com", "IDC/DOC Clan"];
  
 {
 sleep 2;

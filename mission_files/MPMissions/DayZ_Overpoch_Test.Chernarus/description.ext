@@ -2,8 +2,8 @@
 #include "hw.hpp"
 respawn = "BASE";
 respawndelay = 5;
-onLoadMission= "DayZ Overpoch Chernarus";
-OnLoadIntro = "Welcome to DayZ Overpoch Chernarus";
+onLoadMission= "RNelNet DayZ Overpoch Chernarus";
+OnLoadIntro = "Welcome to RNelNet DayZ Overpoch Chernarus";
 OnLoadIntroTime = False;
 OnLoadMissionTime = False;
 disabledAI = true;
@@ -32,7 +32,7 @@ briefing = 0;
 debriefing = 0;
 
 onPauseScript = "custom\DupingFix.sqf";
-loadScreen = "doc.jpg";
+loadScreen = "chickncan.jpg";
 
 class Header
 {
