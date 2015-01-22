@@ -2,10 +2,13 @@ if(isServer) then {
 
 	private			["_room","_complete","_mayor_himself","_crate_type","_mission","_position","_crate","_baserunover","_mayor"];
 
+	// Get mission number, important we do this early
+	_mission 		= count wai_mission_data -1;
+
 	_position		= [40] call find_position;
-	_mission		= [_position,"Hard","Mayors Mansion","MainHero",true] call mission_init;
+	[_mission,_position,"Hard","Mayors Mansion","MainHero",true] call mission_init;
 	
-	diag_log 		format["WAI: [Mission:[Hero] DaBethum's Mansion]: Starting... %1",_position];
+	diag_log 		format["WAI: [Mission:[Hero] Mayors Mansion]: Starting... %1",_position];
 
 	//Setup the crate
 	_crate_type 	= crates_large call BIS_fnc_selectRandom;
@@ -16,7 +19,7 @@ if(isServer) then {
 	_baserunover 	setVectorUp surfaceNormal position _baserunover;
 
 	//Troops
-	[[_position select 0,_position select 1,0],4,"Hard","Random",4,"Random","Bandit","Random","Bandit",_mission] call spawn_group;
+	[[_position select 0,_position select 1,0],4,"Hard",["Random","AT"],4,"Random","Bandit","Random","Bandit",_mission] call spawn_group;
 	[[_position select 0,_position select 1,0],4,"Hard","Random",4,"Random","Bandit","Random","Bandit",_mission] call spawn_group;
 	[[_position select 0,_position select 1,0],4,"Hard","Random",4,"Random","Bandit","Random","Bandit",_mission] call spawn_group;
 	[[_position select 0,_position select 1,0],4,"Hard","Random",4,"Random","Bandit","Random","Bandit",_mission] call spawn_group;
@@ -55,9 +58,9 @@ if(isServer) then {
 		[_mission,_crate],		// mission number and crate
 		["assassinate",_mayor], // ["crate"], or ["kill"], or ["assassinate", _unitGroup],
 		[_baserunover], 		// cleanup objects
-		"DaBethum has turned bandit! Go kill that swag bastard!",	// mission announcement
-		"DaBethum has been killed! I'll just respawn..",						// mission success
-		"Lolz! uRtehSUX. DaBethum got away."										// mission fail
+		"The Mayor has gone rogue, go take him and his task force out to claim the black market weapons!",	// mission announcement
+		"The rogue mayor has been taken out, who will be the next Mayor of Cherno?",						// mission success
+		"Survivors were unable to capture the mansion, time is up"										// mission fail
 	] call mission_winorfail;
 
 	if(_complete) then {
@@ -66,5 +69,5 @@ if(isServer) then {
 
 	diag_log format["WAI: [Mission:[Hero] Mayors Mansion]: Ended at %1",_position];
 
-	h_missionrunning = false;
+	h_missionsrunning = h_missionsrunning - 1;
 };

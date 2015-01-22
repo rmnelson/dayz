@@ -2,8 +2,11 @@ if(isServer) then {
 
 	private 		["_complete","_crate_type","_mission","_position","_crate","_baserunover"];
 
+	// Get mission number, important we do this early
+	_mission 		= count wai_mission_data -1;
+
 	_position		= [30] call find_position;
-	_mission		= [_position,"Medium","Black Hawk Crash","MainHero",true] call mission_init;	
+	[_mission,_position,"Medium","Black Hawk Crash","MainHero",true] call mission_init;	
 	
 	diag_log 		format["WAI: [Mission:[Hero] Black Hawk Crash]: Starting... %1",_position];
 
@@ -16,7 +19,7 @@ if(isServer) then {
 	_baserunover 	setVectorUp surfaceNormal position _baserunover;
 
 	//Troops
-	[[_position select 0,_position select 1,0],3,"Medium","Random",4,"Random","Bandit","Random","Bandit",_mission] call spawn_group;
+	[[_position select 0,_position select 1,0],3,"Medium",["Random","AT"],4,"Random","Bandit","Random","Bandit",_mission] call spawn_group;
 	[[_position select 0,_position select 1,0],3,"Medium","Random",4,"Random","Bandit","Random","Bandit",_mission] call spawn_group;
 	[[_position select 0,_position select 1,0],3,"Medium","Random",4,"Random","Bandit","Random","Bandit",_mission] call spawn_group;
 
@@ -31,9 +34,9 @@ if(isServer) then {
 		[_mission,_crate],	// mission number and crate
 		["crate"], 			// ["crate"], or ["kill"], or ["assassinate", _unitGroup],
 		[_baserunover], 	// cleanup objects
-		"WingsofFury ''landed'' his black hawk.  Go loot the crash.",	// mission announcement
-		"The ''landed'' black hawk has been looted!",																	// mission success
-		"Wings strapped the big black kawk on his backside and they got away!"															// mission fail
+		"A Black Hawk carrying supplies has crashed and bandits are securing the site! Check your map for the location!",	// mission announcement
+		"Survivors have secured the crashed Black Hawk!",																	// mission success
+		"Survivors did not secure the crashed Black Hawk in time"															// mission fail
 	] call mission_winorfail;
 
 	diag_log format["WAI: [Mission:[Hero] Black Hawk Crash]: Ended at %1",_position];
@@ -42,5 +45,5 @@ if(isServer) then {
 		[_crate,5,5,10,2] call dynamic_crate;
 	};
 
-	h_missionrunning = false;
+	h_missionsrunning = h_missionsrunning - 1;
 };

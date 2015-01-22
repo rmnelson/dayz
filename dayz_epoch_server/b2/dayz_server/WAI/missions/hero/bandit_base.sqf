@@ -2,8 +2,11 @@ if(isServer) then {
 	 
 	private 		["_complete","_baserunover","_mission","_directions","_position","_crate","_num","_crate_type","_baserunover0","_baserunover1","_baserunover2","_baserunover3","_baserunover4","_baserunover5","_baserunover6","_baserunover7"];
 
+	// Get mission number, important we do this early
+	_mission 		= count wai_mission_data -1;
+
 	_position		= [80] call find_position;
-	_mission 		= [_position,"Hard","Bandit Base","MainHero",true] call mission_init;
+	[_mission,_position,"Hard","Bandit Base","MainHero",true] call mission_init;
 	
 	diag_log 		format["WAI: [Mission:[Hero] Bandit Base]: Starting... %1",_position];
 
@@ -29,14 +32,14 @@ if(isServer) then {
 	
 	//Troops
 	_num = 4 + round (random 3);
-	[[_position select 0,_position select 1,0],_num,"hard","Random",4,"Random","Bandit","Random","Bandit",_mission] call spawn_group;
-	[[_position select 0,_position select 1,0],4,"hard","Random",4,"Random","Bandit","Random","Bandit",_mission] call spawn_group;
-	[[_position select 0,_position select 1,0],4,"Random","Random",4,"Random","Bandit","Random","Bandit",_mission] call spawn_group;
-	[[_position select 0,_position select 1,0],4,"Random","Random",4,"Random","Bandit","Random","Bandit",_mission] call spawn_group;
-	[[_position select 0,_position select 1,0],4,"Random","Random",4,"Random","Bandit","Random","Bandit",_mission] call spawn_group;
+	[[_position select 0,_position select 1,0],_num,"Hard",["Random","AT"],4,"Random","Bandit","Random","Bandit",_mission] call spawn_group;
+	[[_position select 0,_position select 1,0],4,"Hard","Random",4,"Random","Bandit","Random","Bandit",_mission] call spawn_group;
+	[[_position select 0,_position select 1,0],4,"Hard","Random",4,"Random","Bandit","Random","Bandit",_mission] call spawn_group;
+	[[_position select 0,_position select 1,0],4,"Hard","Random",4,"Random","Bandit","Random","Bandit",_mission] call spawn_group;
+	[[_position select 0,_position select 1,0],4,"Hard","Random",4,"Random","Bandit","Random","Bandit",_mission] call spawn_group;
 
 	//Humvee Patrol
-	[[(_position select 0) + 100, _position select 1, 0],[(_position select 0) + 100, _position select 1, 0],50,2,"HMMWV_Armored","Random","Bandit","Bandit",_mission] call vehicle_patrol;
+	[[(_position select 0) + 100, _position select 1, 0],[(_position select 0) + 100, _position select 1, 0],50,2,"HMMWV_Armored","Hard","Bandit","Bandit",_mission] call vehicle_patrol;
 	 
 	//Static Guns
 	[[[(_position select 0) - 10, (_position select 1) + 10, 0]],"M2StaticMG","Easy","Bandit","Bandit",0,2,"Random","Random",_mission] call spawn_static;
@@ -52,9 +55,9 @@ if(isServer) then {
 		[_mission,_crate],	// mission number and crate
 		["crate"], 			// ["crate"], or ["kill"], or ["assassinate", _unitGroup],
 		[_baserunover], 	// cleanup objects
-		"A fortified bandit encampment has been setup, take them down!",	// mission announcement
-		"Heroes have captured the base, HOOAH!!",															// mission success
-		"I came, I saw, I ran away.."														// mission fail
+		"A jungle task force have set up a temporary encampment! Go and ambush it to make it yours!",	// mission announcement
+		"Survivors captured the base, HOOAH!!",															// mission success
+		"Survivors were unable to capture the base"														// mission fail
 	] call mission_winorfail;
 
 	if(_complete) then {
@@ -63,5 +66,5 @@ if(isServer) then {
 
 	diag_log format["WAI: [Mission:[Hero] Bandit Base]: Ended at %1",_position];
 
-	h_missionrunning = false;
+	h_missionsrunning = h_missionsrunning - 1;
 };
